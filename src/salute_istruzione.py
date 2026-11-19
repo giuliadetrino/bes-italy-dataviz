@@ -3,7 +3,6 @@ import pandas as pd
 from pathlib import Path
 from lettura_istat import leggi_istat
 
-# https://www.youtube.com/watch?v=3TNpOD6bov8
 
 # Codici ufficiali ISTAT degli indicatori assegnati
 indicatori_scelti = {
