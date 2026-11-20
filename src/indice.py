@@ -108,7 +108,7 @@ def calcola_indice(
 
     risultato = (
         dati.groupby(["provincia_id", "provincia"], as_index=False)["contributo"]
-        .sum()
+        .sum(min_count=1)
         .rename(columns={"contributo": "indice"})
     )
     return risultato
@@ -147,16 +147,42 @@ if __name__ == "__main__":
     lavoro_a = df_aree_prova.loc[df_aree_prova["area"] == "Lavoro", "punteggio_area"].item()
     assert abs(df_indice_lavoro["indice"].item() - lavoro_a) < 1e-9
 
+    # Test sintetico con un indicatore NaN -> punteggio della macroarea deve diventare NaN
+    righe_nan = righe + [
+        {
+            "provincia_id": "002",
+            "provincia": "Provincia B",
+            "area": "Salute",
+            "indicatore_id": "SAL_1",
+            "valore_norm": 85.0,
+        },
+        {
+            "provincia_id": "002",
+            "provincia": "Provincia B",
+            "area": "Salute",
+            "indicatore_id": "SAL_2",
+            "valore_norm": float("nan"),
+        },
+    ]
+    df_aree_nan = calcola_punteggi_aree(pd.DataFrame(righe_nan))
+    salute_b = df_aree_nan.loc[
+        (df_aree_nan["provincia_id"] == "002") & (df_aree_nan["area"] == "Salute"),
+        "punteggio_area",
+    ].item()
+    assert pd.isna(salute_b)
+
     if INPUT_FILE.exists():
         df_reale = pd.read_csv(INPUT_FILE, dtype={"provincia_id": str})
         col_norm = "valore_norm" if "valore_norm" in df_reale.columns else "punteggio"
         df_aree_reale = calcola_punteggi_aree(df_reale, colonna_punteggio=col_norm)
+        assert len(df_aree_reale) == 749
 
         pesi_uguali = {a: 1.0 for a in AREE_ATTESE}
         df_indice_reale = calcola_indice(df_aree_reale, pesi_uguali, solo_complete=True)
 
         province_ammesse = set(df_indice_reale["provincia"])
         escluse = sorted(set(df_reale["provincia"]) - province_ammesse)
+        print("Righe punteggi aree:", len(df_aree_reale))
         print("Province ammesse (solo_complete=True):", len(df_indice_reale))
         print("Province escluse:", escluse)
         assert len(df_indice_reale) == 105
