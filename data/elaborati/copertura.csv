@@ -1,0 +1,15 @@
+area,indicatore_id,province_totali,province_con_dato,province_senza_dato,copertura_pct
+Ambiente,10AMB008,107,107,0,100.0
+Ambiente,10AMB017,107,107,0,100.0
+Economia,04BEC001P,107,107,0,100.0
+Economia,04BEC002P,107,107,0,100.0
+Istruzione e formazione,02IST003P-N22,107,107,0,100.0
+Istruzione e formazione,02IST006-N22,107,107,0,100.0
+Lavoro,03LAV001-N22,107,107,0,100.0
+Lavoro,03LAV003P-N22,107,107,0,100.0
+Salute,01SAL001,107,107,0,100.0
+Servizi,12SER002P,107,107,0,100.0
+Servizi,12SER020,107,106,1,99.07
+Sicurezza,07SIC004P,107,106,1,99.07
+Sicurezza,07SIC005P,107,106,1,99.07
+Sicurezza,07SIC006P,107,106,1,99.07
