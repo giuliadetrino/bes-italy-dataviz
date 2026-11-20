@@ -1,429 +1,429 @@
 provincia_id,provincia,area,indicatore_id,valore,unita,verso,anno
-01-01-001,Torino,Benessere economico,04BEC001P,25852.9,Euro,+,2023
-01-01-002,Vercelli,Benessere economico,04BEC001P,22579.9,Euro,+,2023
-01-01-003,Novara,Benessere economico,04BEC001P,21826.6,Euro,+,2023
-01-01-004,Cuneo,Benessere economico,04BEC001P,25132.6,Euro,+,2023
-01-01-005,Asti,Benessere economico,04BEC001P,20783.2,Euro,+,2023
-01-01-006,Alessandria,Benessere economico,04BEC001P,22089.9,Euro,+,2023
-01-01-007,Biella,Benessere economico,04BEC001P,23666.2,Euro,+,2023
-01-01-008,Verbano-Cusio-Ossola,Benessere economico,04BEC001P,21076.9,Euro,+,2023
-01-02-009,Aosta,Benessere economico,04BEC001P,25151.3,Euro,+,2023
-01-03-010,Imperia,Benessere economico,04BEC001P,21051.3,Euro,+,2023
-01-03-011,Savona,Benessere economico,04BEC001P,25179.3,Euro,+,2023
-01-03-012,Genova,Benessere economico,04BEC001P,27105.5,Euro,+,2023
-01-03-013,La Spezia,Benessere economico,04BEC001P,21205.0,Euro,+,2023
-01-04-014,Varese,Benessere economico,04BEC001P,22989.0,Euro,+,2023
-01-04-015,Como,Benessere economico,04BEC001P,23047.4,Euro,+,2023
-01-04-016,Sondrio,Benessere economico,04BEC001P,22372.4,Euro,+,2023
-01-04-017,Milano,Benessere economico,04BEC001P,34885.3,Euro,+,2023
-01-04-018,Bergamo,Benessere economico,04BEC001P,23867.1,Euro,+,2023
-01-04-019,Brescia,Benessere economico,04BEC001P,22705.5,Euro,+,2023
-01-04-020,Pavia,Benessere economico,04BEC001P,21323.2,Euro,+,2023
-01-04-021,Cremona,Benessere economico,04BEC001P,21278.1,Euro,+,2023
-01-04-022,Mantova,Benessere economico,04BEC001P,21530.8,Euro,+,2023
-01-04-023,Lecco,Benessere economico,04BEC001P,24704.8,Euro,+,2023
-01-04-024,Lodi,Benessere economico,04BEC001P,20091.3,Euro,+,2023
-01-04-025,Monza e della Brianza,Benessere economico,04BEC001P,29452.1,Euro,+,2023
-02-05-001,Bolzano/Bozen,Benessere economico,04BEC001P,31352.3,Euro,+,2023
-02-06-001,Trento,Benessere economico,04BEC001P,24944.2,Euro,+,2023
-02-07-028,Verona,Benessere economico,04BEC001P,24656.0,Euro,+,2023
-02-07-029,Vicenza,Benessere economico,04BEC001P,24987.5,Euro,+,2023
-02-07-030,Belluno,Benessere economico,04BEC001P,24403.7,Euro,+,2023
-02-07-031,Treviso,Benessere economico,04BEC001P,23521.7,Euro,+,2023
-02-07-032,Venezia,Benessere economico,04BEC001P,23894.1,Euro,+,2023
-02-07-033,Padova,Benessere economico,04BEC001P,24502.1,Euro,+,2023
-02-07-034,Rovigo,Benessere economico,04BEC001P,19658.1,Euro,+,2023
-02-08-035,Udine,Benessere economico,04BEC001P,23419.0,Euro,+,2023
-02-08-036,Gorizia,Benessere economico,04BEC001P,19961.1,Euro,+,2023
-02-08-037,Trieste,Benessere economico,04BEC001P,24886.0,Euro,+,2023
-02-08-038,Pordenone,Benessere economico,04BEC001P,24164.8,Euro,+,2023
-02-09-039,Piacenza,Benessere economico,04BEC001P,23913.6,Euro,+,2023
-02-09-040,Parma,Benessere economico,04BEC001P,27083.2,Euro,+,2023
-02-09-041,Reggio nell'Emilia,Benessere economico,04BEC001P,26654.5,Euro,+,2023
-02-09-042,Modena,Benessere economico,04BEC001P,26076.9,Euro,+,2023
-02-09-043,Bologna,Benessere economico,04BEC001P,28560.7,Euro,+,2023
-02-09-044,Ferrara,Benessere economico,04BEC001P,23503.7,Euro,+,2023
-02-09-045,Ravenna,Benessere economico,04BEC001P,24555.0,Euro,+,2023
-02-09-046,Forlì-Cesena,Benessere economico,04BEC001P,25037.8,Euro,+,2023
-02-09-047,Rimini,Benessere economico,04BEC001P,23671.0,Euro,+,2023
-03-10-048,Massa-Carrara,Benessere economico,04BEC001P,20257.6,Euro,+,2023
-03-10-049,Lucca,Benessere economico,04BEC001P,23617.4,Euro,+,2023
-03-10-050,Pistoia,Benessere economico,04BEC001P,21071.5,Euro,+,2023
-03-10-051,Firenze,Benessere economico,04BEC001P,26194.5,Euro,+,2023
-03-10-052,Livorno,Benessere economico,04BEC001P,23645.4,Euro,+,2023
-03-10-053,Pisa,Benessere economico,04BEC001P,22022.6,Euro,+,2023
-03-10-054,Arezzo,Benessere economico,04BEC001P,21759.7,Euro,+,2023
-03-10-055,Siena,Benessere economico,04BEC001P,23248.5,Euro,+,2023
-03-10-056,Grosseto,Benessere economico,04BEC001P,21698.2,Euro,+,2023
-03-10-057,Prato,Benessere economico,04BEC001P,24218.2,Euro,+,2023
-03-11-058,Perugia,Benessere economico,04BEC001P,22204.8,Euro,+,2023
-03-11-059,Terni,Benessere economico,04BEC001P,19957.1,Euro,+,2023
-03-12-060,Pesaro e Urbino,Benessere economico,04BEC001P,23682.0,Euro,+,2023
-03-12-061,Ancona,Benessere economico,04BEC001P,21269.7,Euro,+,2023
-03-12-062,Macerata,Benessere economico,04BEC001P,22260.0,Euro,+,2023
-03-12-063,Ascoli Piceno,Benessere economico,04BEC001P,21661.8,Euro,+,2023
-03-12-064,Fermo,Benessere economico,04BEC001P,21464.0,Euro,+,2023
-03-13-065,Viterbo,Benessere economico,04BEC001P,18872.1,Euro,+,2023
-03-13-066,Rieti,Benessere economico,04BEC001P,16619.1,Euro,+,2023
-03-13-067,Roma,Benessere economico,04BEC001P,25507.9,Euro,+,2023
-03-13-068,Latina,Benessere economico,04BEC001P,18033.8,Euro,+,2023
-03-13-069,Frosinone,Benessere economico,04BEC001P,15358.2,Euro,+,2023
-04-14-070,L'Aquila,Benessere economico,04BEC001P,17550.2,Euro,+,2023
-04-14-071,Teramo,Benessere economico,04BEC001P,20332.5,Euro,+,2023
-04-14-072,Pescara,Benessere economico,04BEC001P,21065.3,Euro,+,2023
-04-14-073,Chieti,Benessere economico,04BEC001P,19934.9,Euro,+,2023
-04-15-074,Campobasso,Benessere economico,04BEC001P,17655.5,Euro,+,2023
-04-15-075,Isernia,Benessere economico,04BEC001P,19675.4,Euro,+,2023
-04-16-076,Caserta,Benessere economico,04BEC001P,14683.1,Euro,+,2023
-04-16-077,Benevento,Benessere economico,04BEC001P,15126.2,Euro,+,2023
-04-16-078,Napoli,Benessere economico,04BEC001P,16734.7,Euro,+,2023
-04-16-079,Avellino,Benessere economico,04BEC001P,15960.4,Euro,+,2023
-04-16-080,Salerno,Benessere economico,04BEC001P,17644.8,Euro,+,2023
-04-17-081,Foggia,Benessere economico,04BEC001P,14554.2,Euro,+,2023
-04-17-082,Bari,Benessere economico,04BEC001P,20029.4,Euro,+,2023
-04-17-083,Taranto,Benessere economico,04BEC001P,15665.7,Euro,+,2023
-04-17-084,Brindisi,Benessere economico,04BEC001P,16137.9,Euro,+,2023
-04-17-085,Lecce,Benessere economico,04BEC001P,16510.1,Euro,+,2023
-04-17-086,Barletta-Andria-Trani,Benessere economico,04BEC001P,16393.8,Euro,+,2023
-04-18-087,Potenza,Benessere economico,04BEC001P,16741.4,Euro,+,2023
-04-18-088,Matera,Benessere economico,04BEC001P,18411.7,Euro,+,2023
-04-19-089,Cosenza,Benessere economico,04BEC001P,16274.8,Euro,+,2023
-04-19-090,Catanzaro,Benessere economico,04BEC001P,17349.9,Euro,+,2023
-04-19-091,Reggio di Calabria,Benessere economico,04BEC001P,15684.4,Euro,+,2023
-04-19-092,Crotone,Benessere economico,04BEC001P,15414.1,Euro,+,2023
-04-19-093,Vibo Valentia,Benessere economico,04BEC001P,15542.1,Euro,+,2023
-05-20-094,Trapani,Benessere economico,04BEC001P,16497.3,Euro,+,2023
-05-20-095,Palermo,Benessere economico,04BEC001P,17078.4,Euro,+,2023
-05-20-096,Messina,Benessere economico,04BEC001P,17818.3,Euro,+,2023
-05-20-097,Agrigento,Benessere economico,04BEC001P,14802.3,Euro,+,2023
-05-20-098,Caltanissetta,Benessere economico,04BEC001P,15900.4,Euro,+,2023
-05-20-099,Enna,Benessere economico,04BEC001P,14982.7,Euro,+,2023
-05-20-100,Catania,Benessere economico,04BEC001P,17316.3,Euro,+,2023
-05-20-101,Ragusa,Benessere economico,04BEC001P,17653.5,Euro,+,2023
-05-20-102,Siracusa,Benessere economico,04BEC001P,17307.2,Euro,+,2023
-05-21-103,Sassari,Benessere economico,04BEC001P,18567.8,Euro,+,2023
-05-21-104,Nuoro,Benessere economico,04BEC001P,16281.3,Euro,+,2023
-05-21-105,Cagliari,Benessere economico,04BEC001P,23318.6,Euro,+,2023
-05-21-106,Oristano,Benessere economico,04BEC001P,17097.1,Euro,+,2023
-05-21-111,Sud Sardegna,Benessere economico,04BEC001P,16944.3,Euro,+,2023
-01-01-001,Torino,Benessere economico,04BEC002P,26426.4,Euro,+,2023
-01-01-002,Vercelli,Benessere economico,04BEC002P,24671.4,Euro,+,2023
-01-01-003,Novara,Benessere economico,04BEC002P,25246.5,Euro,+,2023
-01-01-004,Cuneo,Benessere economico,04BEC002P,24153.0,Euro,+,2023
-01-01-005,Asti,Benessere economico,04BEC002P,23558.9,Euro,+,2023
-01-01-006,Alessandria,Benessere economico,04BEC002P,24681.8,Euro,+,2023
-01-01-007,Biella,Benessere economico,04BEC002P,24889.8,Euro,+,2023
-01-01-008,Verbano-Cusio-Ossola,Benessere economico,04BEC002P,20722.0,Euro,+,2023
-01-02-009,Aosta,Benessere economico,04BEC002P,19918.3,Euro,+,2023
-01-03-010,Imperia,Benessere economico,04BEC002P,17682.2,Euro,+,2023
-01-03-011,Savona,Benessere economico,04BEC002P,20107.8,Euro,+,2023
-01-03-012,Genova,Benessere economico,04BEC002P,25579.5,Euro,+,2023
-01-03-013,La Spezia,Benessere economico,04BEC002P,21891.5,Euro,+,2023
-01-04-014,Varese,Benessere economico,04BEC002P,26059.0,Euro,+,2023
-01-04-015,Como,Benessere economico,04BEC002P,24241.2,Euro,+,2023
-01-04-016,Sondrio,Benessere economico,04BEC002P,21771.5,Euro,+,2023
-01-04-017,Milano,Benessere economico,04BEC002P,34343.0,Euro,+,2023
-01-04-018,Bergamo,Benessere economico,04BEC002P,26083.3,Euro,+,2023
-01-04-019,Brescia,Benessere economico,04BEC002P,24587.7,Euro,+,2023
-01-04-020,Pavia,Benessere economico,04BEC002P,22843.5,Euro,+,2023
-01-04-021,Cremona,Benessere economico,04BEC002P,24743.4,Euro,+,2023
-01-04-022,Mantova,Benessere economico,04BEC002P,24358.6,Euro,+,2023
-01-04-023,Lecco,Benessere economico,04BEC002P,26766.8,Euro,+,2023
-01-04-024,Lodi,Benessere economico,04BEC002P,25459.9,Euro,+,2023
-01-04-025,Monza e della Brianza,Benessere economico,04BEC002P,28833.1,Euro,+,2023
-02-05-001,Bolzano/Bozen,Benessere economico,04BEC002P,26020.3,Euro,+,2023
-02-06-001,Trento,Benessere economico,04BEC002P,22434.9,Euro,+,2023
-02-07-028,Verona,Benessere economico,04BEC002P,24239.0,Euro,+,2023
-02-07-029,Vicenza,Benessere economico,04BEC002P,25652.2,Euro,+,2023
-02-07-030,Belluno,Benessere economico,04BEC002P,23776.0,Euro,+,2023
-02-07-031,Treviso,Benessere economico,04BEC002P,25358.3,Euro,+,2023
-02-07-032,Venezia,Benessere economico,04BEC002P,22466.4,Euro,+,2023
-02-07-033,Padova,Benessere economico,04BEC002P,25486.2,Euro,+,2023
-02-07-034,Rovigo,Benessere economico,04BEC002P,21233.8,Euro,+,2023
-02-08-035,Udine,Benessere economico,04BEC002P,23670.0,Euro,+,2023
-02-08-036,Gorizia,Benessere economico,04BEC002P,22220.4,Euro,+,2023
-02-08-037,Trieste,Benessere economico,04BEC002P,25925.8,Euro,+,2023
-02-08-038,Pordenone,Benessere economico,04BEC002P,24687.6,Euro,+,2023
-02-09-039,Piacenza,Benessere economico,04BEC002P,24380.1,Euro,+,2023
-02-09-040,Parma,Benessere economico,04BEC002P,27869.1,Euro,+,2023
-02-09-041,Reggio nell'Emilia,Benessere economico,04BEC002P,26936.9,Euro,+,2023
-02-09-042,Modena,Benessere economico,04BEC002P,27671.5,Euro,+,2023
-02-09-043,Bologna,Benessere economico,04BEC002P,27603.1,Euro,+,2023
-02-09-044,Ferrara,Benessere economico,04BEC002P,21600.4,Euro,+,2023
-02-09-045,Ravenna,Benessere economico,04BEC002P,23068.8,Euro,+,2023
-02-09-046,Forlì-Cesena,Benessere economico,04BEC002P,22057.7,Euro,+,2023
-02-09-047,Rimini,Benessere economico,04BEC002P,17809.2,Euro,+,2023
-03-10-048,Massa-Carrara,Benessere economico,04BEC002P,20917.3,Euro,+,2023
-03-10-049,Lucca,Benessere economico,04BEC002P,22094.2,Euro,+,2023
-03-10-050,Pistoia,Benessere economico,04BEC002P,21035.1,Euro,+,2023
-03-10-051,Firenze,Benessere economico,04BEC002P,24515.4,Euro,+,2023
-03-10-052,Livorno,Benessere economico,04BEC002P,20404.2,Euro,+,2023
-03-10-053,Pisa,Benessere economico,04BEC002P,23202.2,Euro,+,2023
-03-10-054,Arezzo,Benessere economico,04BEC002P,22152.7,Euro,+,2023
-03-10-055,Siena,Benessere economico,04BEC002P,23055.0,Euro,+,2023
-03-10-056,Grosseto,Benessere economico,04BEC002P,17271.8,Euro,+,2023
-03-10-057,Prato,Benessere economico,04BEC002P,19647.8,Euro,+,2023
-03-11-058,Perugia,Benessere economico,04BEC002P,21013.8,Euro,+,2023
-03-11-059,Terni,Benessere economico,04BEC002P,20923.0,Euro,+,2023
-03-12-060,Pesaro e Urbino,Benessere economico,04BEC002P,21626.7,Euro,+,2023
-03-12-061,Ancona,Benessere economico,04BEC002P,22171.3,Euro,+,2023
-03-12-062,Macerata,Benessere economico,04BEC002P,19912.4,Euro,+,2023
-03-12-063,Ascoli Piceno,Benessere economico,04BEC002P,19805.2,Euro,+,2023
-03-12-064,Fermo,Benessere economico,04BEC002P,18885.0,Euro,+,2023
-03-13-065,Viterbo,Benessere economico,04BEC002P,17740.2,Euro,+,2023
-03-13-066,Rieti,Benessere economico,04BEC002P,18480.3,Euro,+,2023
-03-13-067,Roma,Benessere economico,04BEC002P,25293.8,Euro,+,2023
-03-13-068,Latina,Benessere economico,04BEC002P,19338.5,Euro,+,2023
-03-13-069,Frosinone,Benessere economico,04BEC002P,20333.2,Euro,+,2023
-04-14-070,L'Aquila,Benessere economico,04BEC002P,19573.5,Euro,+,2023
-04-14-071,Teramo,Benessere economico,04BEC002P,18193.5,Euro,+,2023
-04-14-072,Pescara,Benessere economico,04BEC002P,19456.9,Euro,+,2023
-04-14-073,Chieti,Benessere economico,04BEC002P,20778.8,Euro,+,2023
-04-15-074,Campobasso,Benessere economico,04BEC002P,18565.2,Euro,+,2023
-04-15-075,Isernia,Benessere economico,04BEC002P,17133.2,Euro,+,2023
-04-16-076,Caserta,Benessere economico,04BEC002P,16625.1,Euro,+,2023
-04-16-077,Benevento,Benessere economico,04BEC002P,15983.1,Euro,+,2023
-04-16-078,Napoli,Benessere economico,04BEC002P,18405.9,Euro,+,2023
-04-16-079,Avellino,Benessere economico,04BEC002P,18030.5,Euro,+,2023
-04-16-080,Salerno,Benessere economico,04BEC002P,15845.7,Euro,+,2023
-04-17-081,Foggia,Benessere economico,04BEC002P,16282.4,Euro,+,2023
-04-17-082,Bari,Benessere economico,04BEC002P,19379.3,Euro,+,2023
-04-17-083,Taranto,Benessere economico,04BEC002P,18219.0,Euro,+,2023
-04-17-084,Brindisi,Benessere economico,04BEC002P,17606.7,Euro,+,2023
-04-17-085,Lecce,Benessere economico,04BEC002P,15675.5,Euro,+,2023
-04-17-086,Barletta-Andria-Trani,Benessere economico,04BEC002P,15666.4,Euro,+,2023
-04-18-087,Potenza,Benessere economico,04BEC002P,19471.6,Euro,+,2023
-04-18-088,Matera,Benessere economico,04BEC002P,17002.5,Euro,+,2023
-04-19-089,Cosenza,Benessere economico,04BEC002P,14816.9,Euro,+,2023
-04-19-090,Catanzaro,Benessere economico,04BEC002P,15991.5,Euro,+,2023
-04-19-091,Reggio di Calabria,Benessere economico,04BEC002P,16410.8,Euro,+,2023
-04-19-092,Crotone,Benessere economico,04BEC002P,14873.6,Euro,+,2023
-04-19-093,Vibo Valentia,Benessere economico,04BEC002P,13387.8,Euro,+,2023
-05-20-094,Trapani,Benessere economico,04BEC002P,14853.6,Euro,+,2023
-05-20-095,Palermo,Benessere economico,04BEC002P,17910.7,Euro,+,2023
-05-20-096,Messina,Benessere economico,04BEC002P,15684.0,Euro,+,2023
-05-20-097,Agrigento,Benessere economico,04BEC002P,15211.1,Euro,+,2023
-05-20-098,Caltanissetta,Benessere economico,04BEC002P,18014.6,Euro,+,2023
-05-20-099,Enna,Benessere economico,04BEC002P,16321.9,Euro,+,2023
-05-20-100,Catania,Benessere economico,04BEC002P,18303.3,Euro,+,2023
-05-20-101,Ragusa,Benessere economico,04BEC002P,15589.8,Euro,+,2023
-05-20-102,Siracusa,Benessere economico,04BEC002P,18227.1,Euro,+,2023
-05-21-103,Sassari,Benessere economico,04BEC002P,16625.8,Euro,+,2023
-05-21-104,Nuoro,Benessere economico,04BEC002P,14675.6,Euro,+,2023
-05-21-105,Cagliari,Benessere economico,04BEC002P,20229.7,Euro,+,2023
-05-21-106,Oristano,Benessere economico,04BEC002P,17164.2,Euro,+,2023
-05-21-111,Sud Sardegna,Benessere economico,04BEC002P,16593.6,Euro,+,2023
-01-01-001,Torino,Qualità dei servizi,12SER002P,33.9,Per 10.000 abitanti,+,2023
-01-01-002,Vercelli,Qualità dei servizi,12SER002P,26.8,Per 10.000 abitanti,+,2023
-01-01-003,Novara,Qualità dei servizi,12SER002P,33.4,Per 10.000 abitanti,+,2023
-01-01-004,Cuneo,Qualità dei servizi,12SER002P,24.6,Per 10.000 abitanti,+,2023
-01-01-005,Asti,Qualità dei servizi,12SER002P,20.2,Per 10.000 abitanti,+,2023
-01-01-006,Alessandria,Qualità dei servizi,12SER002P,29.0,Per 10.000 abitanti,+,2023
-01-01-007,Biella,Qualità dei servizi,12SER002P,24.3,Per 10.000 abitanti,+,2023
-01-01-008,Verbano-Cusio-Ossola,Qualità dei servizi,12SER002P,27.9,Per 10.000 abitanti,+,2023
-01-02-009,Aosta,Qualità dei servizi,12SER002P,29.4,Per 10.000 abitanti,+,2023
-01-03-010,Imperia,Qualità dei servizi,12SER002P,23.9,Per 10.000 abitanti,+,2023
-01-03-011,Savona,Qualità dei servizi,12SER002P,31.5,Per 10.000 abitanti,+,2023
-01-03-012,Genova,Qualità dei servizi,12SER002P,49.8,Per 10.000 abitanti,+,2023
-01-03-013,La Spezia,Qualità dei servizi,12SER002P,27.7,Per 10.000 abitanti,+,2023
-01-04-014,Varese,Qualità dei servizi,12SER002P,28.4,Per 10.000 abitanti,+,2023
-01-04-015,Como,Qualità dei servizi,12SER002P,23.1,Per 10.000 abitanti,+,2023
-01-04-016,Sondrio,Qualità dei servizi,12SER002P,22.4,Per 10.000 abitanti,+,2023
-01-04-017,Milano,Qualità dei servizi,12SER002P,44.3,Per 10.000 abitanti,+,2023
-01-04-018,Bergamo,Qualità dei servizi,12SER002P,23.8,Per 10.000 abitanti,+,2023
-01-04-019,Brescia,Qualità dei servizi,12SER002P,29.6,Per 10.000 abitanti,+,2023
-01-04-020,Pavia,Qualità dei servizi,12SER002P,43.8,Per 10.000 abitanti,+,2023
-01-04-021,Cremona,Qualità dei servizi,12SER002P,27.6,Per 10.000 abitanti,+,2023
-01-04-022,Mantova,Qualità dei servizi,12SER002P,22.6,Per 10.000 abitanti,+,2023
-01-04-023,Lecco,Qualità dei servizi,12SER002P,24.6,Per 10.000 abitanti,+,2023
-01-04-024,Lodi,Qualità dei servizi,12SER002P,21.9,Per 10.000 abitanti,+,2023
-01-04-025,Monza e della Brianza,Qualità dei servizi,12SER002P,24.8,Per 10.000 abitanti,+,2023
-02-05-001,Bolzano/Bozen,Qualità dei servizi,12SER002P,29.6,Per 10.000 abitanti,+,2023
-02-06-001,Trento,Qualità dei servizi,12SER002P,25.7,Per 10.000 abitanti,+,2023
-02-07-028,Verona,Qualità dei servizi,12SER002P,37.3,Per 10.000 abitanti,+,2023
-02-07-029,Vicenza,Qualità dei servizi,12SER002P,22.4,Per 10.000 abitanti,+,2023
-02-07-030,Belluno,Qualità dei servizi,12SER002P,25.3,Per 10.000 abitanti,+,2023
-02-07-031,Treviso,Qualità dei servizi,12SER002P,22.1,Per 10.000 abitanti,+,2023
-02-07-032,Venezia,Qualità dei servizi,12SER002P,25.3,Per 10.000 abitanti,+,2023
-02-07-033,Padova,Qualità dei servizi,12SER002P,40.4,Per 10.000 abitanti,+,2023
-02-07-034,Rovigo,Qualità dei servizi,12SER002P,29.4,Per 10.000 abitanti,+,2023
-02-08-035,Udine,Qualità dei servizi,12SER002P,33.2,Per 10.000 abitanti,+,2023
-02-08-036,Gorizia,Qualità dei servizi,12SER002P,23.8,Per 10.000 abitanti,+,2023
-02-08-037,Trieste,Qualità dei servizi,12SER002P,51.8,Per 10.000 abitanti,+,2023
-02-08-038,Pordenone,Qualità dei servizi,12SER002P,27.4,Per 10.000 abitanti,+,2023
-02-09-039,Piacenza,Qualità dei servizi,12SER002P,26.6,Per 10.000 abitanti,+,2023
-02-09-040,Parma,Qualità dei servizi,12SER002P,40.1,Per 10.000 abitanti,+,2023
-02-09-041,Reggio nell'Emilia,Qualità dei servizi,12SER002P,28.0,Per 10.000 abitanti,+,2023
-02-09-042,Modena,Qualità dei servizi,12SER002P,38.6,Per 10.000 abitanti,+,2023
-02-09-043,Bologna,Qualità dei servizi,12SER002P,44.9,Per 10.000 abitanti,+,2023
-02-09-044,Ferrara,Qualità dei servizi,12SER002P,44.8,Per 10.000 abitanti,+,2023
-02-09-045,Ravenna,Qualità dei servizi,12SER002P,31.8,Per 10.000 abitanti,+,2023
-02-09-046,Forlì-Cesena,Qualità dei servizi,12SER002P,33.3,Per 10.000 abitanti,+,2023
-02-09-047,Rimini,Qualità dei servizi,12SER002P,34.3,Per 10.000 abitanti,+,2023
-03-10-048,Massa-Carrara,Qualità dei servizi,12SER002P,31.3,Per 10.000 abitanti,+,2023
-03-10-049,Lucca,Qualità dei servizi,12SER002P,28.2,Per 10.000 abitanti,+,2023
-03-10-050,Pistoia,Qualità dei servizi,12SER002P,24.4,Per 10.000 abitanti,+,2023
-03-10-051,Firenze,Qualità dei servizi,12SER002P,45.1,Per 10.000 abitanti,+,2023
-03-10-052,Livorno,Qualità dei servizi,12SER002P,27.5,Per 10.000 abitanti,+,2023
-03-10-053,Pisa,Qualità dei servizi,12SER002P,55.3,Per 10.000 abitanti,+,2023
-03-10-054,Arezzo,Qualità dei servizi,12SER002P,28.6,Per 10.000 abitanti,+,2023
-03-10-055,Siena,Qualità dei servizi,12SER002P,57.3,Per 10.000 abitanti,+,2023
-03-10-056,Grosseto,Qualità dei servizi,12SER002P,30.6,Per 10.000 abitanti,+,2023
-03-10-057,Prato,Qualità dei servizi,12SER002P,26.8,Per 10.000 abitanti,+,2023
-03-11-058,Perugia,Qualità dei servizi,12SER002P,37.0,Per 10.000 abitanti,+,2023
-03-11-059,Terni,Qualità dei servizi,12SER002P,36.2,Per 10.000 abitanti,+,2023
-03-12-060,Pesaro e Urbino,Qualità dei servizi,12SER002P,23.9,Per 10.000 abitanti,+,2023
-03-12-061,Ancona,Qualità dei servizi,12SER002P,45.7,Per 10.000 abitanti,+,2023
-03-12-062,Macerata,Qualità dei servizi,12SER002P,24.3,Per 10.000 abitanti,+,2023
-03-12-063,Ascoli Piceno,Qualità dei servizi,12SER002P,29.4,Per 10.000 abitanti,+,2023
-03-12-064,Fermo,Qualità dei servizi,12SER002P,20.1,Per 10.000 abitanti,+,2023
-03-13-065,Viterbo,Qualità dei servizi,12SER002P,23.7,Per 10.000 abitanti,+,2023
-03-13-066,Rieti,Qualità dei servizi,12SER002P,24.7,Per 10.000 abitanti,+,2023
-03-13-067,Roma,Qualità dei servizi,12SER002P,48.7,Per 10.000 abitanti,+,2023
-03-13-068,Latina,Qualità dei servizi,12SER002P,24.9,Per 10.000 abitanti,+,2023
-03-13-069,Frosinone,Qualità dei servizi,12SER002P,21.5,Per 10.000 abitanti,+,2023
-04-14-070,L'Aquila,Qualità dei servizi,12SER002P,37.6,Per 10.000 abitanti,+,2023
-04-14-071,Teramo,Qualità dei servizi,12SER002P,27.3,Per 10.000 abitanti,+,2023
-04-14-072,Pescara,Qualità dei servizi,12SER002P,36.8,Per 10.000 abitanti,+,2023
-04-14-073,Chieti,Qualità dei servizi,12SER002P,37.6,Per 10.000 abitanti,+,2023
-04-15-074,Campobasso,Qualità dei servizi,12SER002P,28.6,Per 10.000 abitanti,+,2023
-04-15-075,Isernia,Qualità dei servizi,12SER002P,32.0,Per 10.000 abitanti,+,2023
-04-16-076,Caserta,Qualità dei servizi,12SER002P,24.4,Per 10.000 abitanti,+,2023
-04-16-077,Benevento,Qualità dei servizi,12SER002P,29.9,Per 10.000 abitanti,+,2023
-04-16-078,Napoli,Qualità dei servizi,12SER002P,36.0,Per 10.000 abitanti,+,2023
-04-16-079,Avellino,Qualità dei servizi,12SER002P,25.5,Per 10.000 abitanti,+,2023
-04-16-080,Salerno,Qualità dei servizi,12SER002P,29.0,Per 10.000 abitanti,+,2023
-04-17-081,Foggia,Qualità dei servizi,12SER002P,34.0,Per 10.000 abitanti,+,2023
-04-17-082,Bari,Qualità dei servizi,12SER002P,38.7,Per 10.000 abitanti,+,2023
-04-17-083,Taranto,Qualità dei servizi,12SER002P,23.5,Per 10.000 abitanti,+,2023
-04-17-084,Brindisi,Qualità dei servizi,12SER002P,24.9,Per 10.000 abitanti,+,2023
-04-17-085,Lecce,Qualità dei servizi,12SER002P,26.6,Per 10.000 abitanti,+,2023
-04-17-086,Barletta-Andria-Trani,Qualità dei servizi,12SER002P,23.8,Per 10.000 abitanti,+,2023
-04-18-087,Potenza,Qualità dei servizi,12SER002P,25.2,Per 10.000 abitanti,+,2023
-04-18-088,Matera,Qualità dei servizi,12SER002P,23.2,Per 10.000 abitanti,+,2023
-04-19-089,Cosenza,Qualità dei servizi,12SER002P,25.3,Per 10.000 abitanti,+,2023
-04-19-090,Catanzaro,Qualità dei servizi,12SER002P,49.2,Per 10.000 abitanti,+,2023
-04-19-091,Reggio di Calabria,Qualità dei servizi,12SER002P,27.4,Per 10.000 abitanti,+,2023
-04-19-092,Crotone,Qualità dei servizi,12SER002P,23.4,Per 10.000 abitanti,+,2023
-04-19-093,Vibo Valentia,Qualità dei servizi,12SER002P,20.9,Per 10.000 abitanti,+,2023
-05-20-094,Trapani,Qualità dei servizi,12SER002P,24.7,Per 10.000 abitanti,+,2023
-05-20-095,Palermo,Qualità dei servizi,12SER002P,41.6,Per 10.000 abitanti,+,2023
-05-20-096,Messina,Qualità dei servizi,12SER002P,47.8,Per 10.000 abitanti,+,2023
-05-20-097,Agrigento,Qualità dei servizi,12SER002P,22.7,Per 10.000 abitanti,+,2023
-05-20-098,Caltanissetta,Qualità dei servizi,12SER002P,25.2,Per 10.000 abitanti,+,2023
-05-20-099,Enna,Qualità dei servizi,12SER002P,30.1,Per 10.000 abitanti,+,2023
-05-20-100,Catania,Qualità dei servizi,12SER002P,41.9,Per 10.000 abitanti,+,2023
-05-20-101,Ragusa,Qualità dei servizi,12SER002P,25.4,Per 10.000 abitanti,+,2023
-05-20-102,Siracusa,Qualità dei servizi,12SER002P,25.0,Per 10.000 abitanti,+,2023
-05-21-103,Sassari,Qualità dei servizi,12SER002P,41.1,Per 10.000 abitanti,+,2023
-05-21-104,Nuoro,Qualità dei servizi,12SER002P,29.4,Per 10.000 abitanti,+,2023
-05-21-105,Cagliari,Qualità dei servizi,12SER002P,63.6,Per 10.000 abitanti,+,2023
-05-21-106,Oristano,Qualità dei servizi,12SER002P,29.1,Per 10.000 abitanti,+,2023
-05-21-111,Sud Sardegna,Qualità dei servizi,12SER002P,22.0,Per 10.000 abitanti,+,2023
-01-01-001,Torino,Qualità dei servizi,12SER020,74.3,Valori percentuali,+,2023
-01-01-002,Vercelli,Qualità dei servizi,12SER020,56.3,Valori percentuali,+,2023
-01-01-003,Novara,Qualità dei servizi,12SER020,43.4,Valori percentuali,+,2023
-01-01-004,Cuneo,Qualità dei servizi,12SER020,50.7,Valori percentuali,+,2023
-01-01-005,Asti,Qualità dei servizi,12SER020,53.8,Valori percentuali,+,2023
-01-01-006,Alessandria,Qualità dei servizi,12SER020,49.0,Valori percentuali,+,2023
-01-01-007,Biella,Qualità dei servizi,12SER020,64.5,Valori percentuali,+,2023
-01-01-008,Verbano-Cusio-Ossola,Qualità dei servizi,12SER020,32.1,Valori percentuali,+,2023
-01-02-009,Aosta,Qualità dei servizi,12SER020,51.3,Valori percentuali,+,2023
-01-03-010,Imperia,Qualità dei servizi,12SER020,33.7,Valori percentuali,+,2023
-01-03-011,Savona,Qualità dei servizi,12SER020,30.4,Valori percentuali,+,2023
-01-03-012,Genova,Qualità dei servizi,12SER020,73.6,Valori percentuali,+,2023
-01-03-013,La Spezia,Qualità dei servizi,12SER020,39.8,Valori percentuali,+,2023
-01-04-014,Varese,Qualità dei servizi,12SER020,44.1,Valori percentuali,+,2023
-01-04-015,Como,Qualità dei servizi,12SER020,44.9,Valori percentuali,+,2023
-01-04-016,Sondrio,Qualità dei servizi,12SER020,60.2,Valori percentuali,+,2023
-01-04-017,Milano,Qualità dei servizi,12SER020,78.1,Valori percentuali,+,2023
-01-04-018,Bergamo,Qualità dei servizi,12SER020,54.2,Valori percentuali,+,2023
-01-04-019,Brescia,Qualità dei servizi,12SER020,42.1,Valori percentuali,+,2023
-01-04-020,Pavia,Qualità dei servizi,12SER020,35.3,Valori percentuali,+,2023
-01-04-021,Cremona,Qualità dei servizi,12SER020,64.9,Valori percentuali,+,2023
-01-04-022,Mantova,Qualità dei servizi,12SER020,81.0,Valori percentuali,+,2023
-01-04-023,Lecco,Qualità dei servizi,12SER020,36.2,Valori percentuali,+,2023
-01-04-024,Lodi,Qualità dei servizi,12SER020,41.0,Valori percentuali,+,2023
-01-04-025,Monza e della Brianza,Qualità dei servizi,12SER020,48.5,Valori percentuali,+,2023
-02-05-001,Bolzano/Bozen,Qualità dei servizi,12SER020,,Valori percentuali,+,2023
-02-06-001,Trento,Qualità dei servizi,12SER020,77.6,Valori percentuali,+,2023
-02-07-028,Verona,Qualità dei servizi,12SER020,61.4,Valori percentuali,+,2023
-02-07-029,Vicenza,Qualità dei servizi,12SER020,53.6,Valori percentuali,+,2023
-02-07-030,Belluno,Qualità dei servizi,12SER020,45.0,Valori percentuali,+,2023
-02-07-031,Treviso,Qualità dei servizi,12SER020,50.7,Valori percentuali,+,2023
-02-07-032,Venezia,Qualità dei servizi,12SER020,59.5,Valori percentuali,+,2023
-02-07-033,Padova,Qualità dei servizi,12SER020,64.5,Valori percentuali,+,2023
-02-07-034,Rovigo,Qualità dei servizi,12SER020,56.5,Valori percentuali,+,2023
-02-08-035,Udine,Qualità dei servizi,12SER020,58.0,Valori percentuali,+,2023
-02-08-036,Gorizia,Qualità dei servizi,12SER020,52.6,Valori percentuali,+,2023
-02-08-037,Trieste,Qualità dei servizi,12SER020,81.1,Valori percentuali,+,2023
-02-08-038,Pordenone,Qualità dei servizi,12SER020,36.8,Valori percentuali,+,2023
-02-09-039,Piacenza,Qualità dei servizi,12SER020,61.5,Valori percentuali,+,2023
-02-09-040,Parma,Qualità dei servizi,12SER020,60.0,Valori percentuali,+,2023
-02-09-041,Reggio nell'Emilia,Qualità dei servizi,12SER020,63.8,Valori percentuali,+,2023
-02-09-042,Modena,Qualità dei servizi,12SER020,54.3,Valori percentuali,+,2023
-02-09-043,Bologna,Qualità dei servizi,12SER020,62.6,Valori percentuali,+,2023
-02-09-044,Ferrara,Qualità dei servizi,12SER020,56.6,Valori percentuali,+,2023
-02-09-045,Ravenna,Qualità dei servizi,12SER020,59.4,Valori percentuali,+,2023
-02-09-046,Forlì-Cesena,Qualità dei servizi,12SER020,49.0,Valori percentuali,+,2023
-02-09-047,Rimini,Qualità dei servizi,12SER020,41.3,Valori percentuali,+,2023
-03-10-048,Massa-Carrara,Qualità dei servizi,12SER020,60.4,Valori percentuali,+,2023
-03-10-049,Lucca,Qualità dei servizi,12SER020,42.1,Valori percentuali,+,2023
-03-10-050,Pistoia,Qualità dei servizi,12SER020,41.3,Valori percentuali,+,2023
-03-10-051,Firenze,Qualità dei servizi,12SER020,67.8,Valori percentuali,+,2023
-03-10-052,Livorno,Qualità dei servizi,12SER020,38.9,Valori percentuali,+,2023
-03-10-053,Pisa,Qualità dei servizi,12SER020,47.2,Valori percentuali,+,2023
-03-10-054,Arezzo,Qualità dei servizi,12SER020,44.3,Valori percentuali,+,2023
-03-10-055,Siena,Qualità dei servizi,12SER020,50.8,Valori percentuali,+,2023
-03-10-056,Grosseto,Qualità dei servizi,12SER020,57.1,Valori percentuali,+,2023
-03-10-057,Prato,Qualità dei servizi,12SER020,87.0,Valori percentuali,+,2023
-03-11-058,Perugia,Qualità dei servizi,12SER020,55.0,Valori percentuali,+,2023
-03-11-059,Terni,Qualità dei servizi,12SER020,58.1,Valori percentuali,+,2023
-03-12-060,Pesaro e Urbino,Qualità dei servizi,12SER020,53.2,Valori percentuali,+,2023
-03-12-061,Ancona,Qualità dei servizi,12SER020,64.6,Valori percentuali,+,2023
-03-12-062,Macerata,Qualità dei servizi,12SER020,53.6,Valori percentuali,+,2023
-03-12-063,Ascoli Piceno,Qualità dei servizi,12SER020,63.8,Valori percentuali,+,2023
-03-12-064,Fermo,Qualità dei servizi,12SER020,53.6,Valori percentuali,+,2023
-03-13-065,Viterbo,Qualità dei servizi,12SER020,46.8,Valori percentuali,+,2023
-03-13-066,Rieti,Qualità dei servizi,12SER020,66.6,Valori percentuali,+,2023
-03-13-067,Roma,Qualità dei servizi,12SER020,78.8,Valori percentuali,+,2023
-03-13-068,Latina,Qualità dei servizi,12SER020,50.1,Valori percentuali,+,2023
-03-13-069,Frosinone,Qualità dei servizi,12SER020,47.2,Valori percentuali,+,2023
-04-14-070,L'Aquila,Qualità dei servizi,12SER020,56.1,Valori percentuali,+,2023
-04-14-071,Teramo,Qualità dei servizi,12SER020,39.0,Valori percentuali,+,2023
-04-14-072,Pescara,Qualità dei servizi,12SER020,72.7,Valori percentuali,+,2023
-04-14-073,Chieti,Qualità dei servizi,12SER020,60.7,Valori percentuali,+,2023
-04-15-074,Campobasso,Qualità dei servizi,12SER020,88.7,Valori percentuali,+,2023
-04-15-075,Isernia,Qualità dei servizi,12SER020,74.1,Valori percentuali,+,2023
-04-16-076,Caserta,Qualità dei servizi,12SER020,64.5,Valori percentuali,+,2023
-04-16-077,Benevento,Qualità dei servizi,12SER020,61.5,Valori percentuali,+,2023
-04-16-078,Napoli,Qualità dei servizi,12SER020,78.0,Valori percentuali,+,2023
-04-16-079,Avellino,Qualità dei servizi,12SER020,62.0,Valori percentuali,+,2023
-04-16-080,Salerno,Qualità dei servizi,12SER020,69.6,Valori percentuali,+,2023
-04-17-081,Foggia,Qualità dei servizi,12SER020,48.1,Valori percentuali,+,2023
-04-17-082,Bari,Qualità dei servizi,12SER020,69.3,Valori percentuali,+,2023
-04-17-083,Taranto,Qualità dei servizi,12SER020,50.2,Valori percentuali,+,2023
-04-17-084,Brindisi,Qualità dei servizi,12SER020,35.2,Valori percentuali,+,2023
-04-17-085,Lecce,Qualità dei servizi,12SER020,28.9,Valori percentuali,+,2023
-04-17-086,Barletta-Andria-Trani,Qualità dei servizi,12SER020,70.6,Valori percentuali,+,2023
-04-18-087,Potenza,Qualità dei servizi,12SER020,42.4,Valori percentuali,+,2023
-04-18-088,Matera,Qualità dei servizi,12SER020,44.8,Valori percentuali,+,2023
-04-19-089,Cosenza,Qualità dei servizi,12SER020,24.1,Valori percentuali,+,2023
-04-19-090,Catanzaro,Qualità dei servizi,12SER020,49.7,Valori percentuali,+,2023
-04-19-091,Reggio di Calabria,Qualità dei servizi,12SER020,42.4,Valori percentuali,+,2023
-04-19-092,Crotone,Qualità dei servizi,12SER020,47.3,Valori percentuali,+,2023
-04-19-093,Vibo Valentia,Qualità dei servizi,12SER020,26.6,Valori percentuali,+,2023
-05-20-094,Trapani,Qualità dei servizi,12SER020,67.5,Valori percentuali,+,2023
-05-20-095,Palermo,Qualità dei servizi,12SER020,80.7,Valori percentuali,+,2023
-05-20-096,Messina,Qualità dei servizi,12SER020,68.6,Valori percentuali,+,2023
-05-20-097,Agrigento,Qualità dei servizi,12SER020,36.2,Valori percentuali,+,2023
-05-20-098,Caltanissetta,Qualità dei servizi,12SER020,55.6,Valori percentuali,+,2023
-05-20-099,Enna,Qualità dei servizi,12SER020,34.1,Valori percentuali,+,2023
-05-20-100,Catania,Qualità dei servizi,12SER020,61.7,Valori percentuali,+,2023
-05-20-101,Ragusa,Qualità dei servizi,12SER020,58.9,Valori percentuali,+,2023
-05-20-102,Siracusa,Qualità dei servizi,12SER020,48.6,Valori percentuali,+,2023
-05-21-103,Sassari,Qualità dei servizi,12SER020,36.6,Valori percentuali,+,2023
-05-21-104,Nuoro,Qualità dei servizi,12SER020,18.7,Valori percentuali,+,2023
-05-21-105,Cagliari,Qualità dei servizi,12SER020,77.0,Valori percentuali,+,2023
-05-21-106,Oristano,Qualità dei servizi,12SER020,18.3,Valori percentuali,+,2023
-05-21-111,Sud Sardegna,Qualità dei servizi,12SER020,17.0,Valori percentuali,+,2023
+01-01-001,Torino,Economia,04BEC001P,25852.9,Euro,+,2023
+01-01-002,Vercelli,Economia,04BEC001P,22579.9,Euro,+,2023
+01-01-003,Novara,Economia,04BEC001P,21826.6,Euro,+,2023
+01-01-004,Cuneo,Economia,04BEC001P,25132.6,Euro,+,2023
+01-01-005,Asti,Economia,04BEC001P,20783.2,Euro,+,2023
+01-01-006,Alessandria,Economia,04BEC001P,22089.9,Euro,+,2023
+01-01-007,Biella,Economia,04BEC001P,23666.2,Euro,+,2023
+01-01-008,Verbano-Cusio-Ossola,Economia,04BEC001P,21076.9,Euro,+,2023
+01-02-009,Aosta,Economia,04BEC001P,25151.3,Euro,+,2023
+01-03-010,Imperia,Economia,04BEC001P,21051.3,Euro,+,2023
+01-03-011,Savona,Economia,04BEC001P,25179.3,Euro,+,2023
+01-03-012,Genova,Economia,04BEC001P,27105.5,Euro,+,2023
+01-03-013,La Spezia,Economia,04BEC001P,21205.0,Euro,+,2023
+01-04-014,Varese,Economia,04BEC001P,22989.0,Euro,+,2023
+01-04-015,Como,Economia,04BEC001P,23047.4,Euro,+,2023
+01-04-016,Sondrio,Economia,04BEC001P,22372.4,Euro,+,2023
+01-04-017,Milano,Economia,04BEC001P,34885.3,Euro,+,2023
+01-04-018,Bergamo,Economia,04BEC001P,23867.1,Euro,+,2023
+01-04-019,Brescia,Economia,04BEC001P,22705.5,Euro,+,2023
+01-04-020,Pavia,Economia,04BEC001P,21323.2,Euro,+,2023
+01-04-021,Cremona,Economia,04BEC001P,21278.1,Euro,+,2023
+01-04-022,Mantova,Economia,04BEC001P,21530.8,Euro,+,2023
+01-04-023,Lecco,Economia,04BEC001P,24704.8,Euro,+,2023
+01-04-024,Lodi,Economia,04BEC001P,20091.3,Euro,+,2023
+01-04-025,Monza e della Brianza,Economia,04BEC001P,29452.1,Euro,+,2023
+02-05-001,Bolzano/Bozen,Economia,04BEC001P,31352.3,Euro,+,2023
+02-06-001,Trento,Economia,04BEC001P,24944.2,Euro,+,2023
+02-07-028,Verona,Economia,04BEC001P,24656.0,Euro,+,2023
+02-07-029,Vicenza,Economia,04BEC001P,24987.5,Euro,+,2023
+02-07-030,Belluno,Economia,04BEC001P,24403.7,Euro,+,2023
+02-07-031,Treviso,Economia,04BEC001P,23521.7,Euro,+,2023
+02-07-032,Venezia,Economia,04BEC001P,23894.1,Euro,+,2023
+02-07-033,Padova,Economia,04BEC001P,24502.1,Euro,+,2023
+02-07-034,Rovigo,Economia,04BEC001P,19658.1,Euro,+,2023
+02-08-035,Udine,Economia,04BEC001P,23419.0,Euro,+,2023
+02-08-036,Gorizia,Economia,04BEC001P,19961.1,Euro,+,2023
+02-08-037,Trieste,Economia,04BEC001P,24886.0,Euro,+,2023
+02-08-038,Pordenone,Economia,04BEC001P,24164.8,Euro,+,2023
+02-09-039,Piacenza,Economia,04BEC001P,23913.6,Euro,+,2023
+02-09-040,Parma,Economia,04BEC001P,27083.2,Euro,+,2023
+02-09-041,Reggio nell'Emilia,Economia,04BEC001P,26654.5,Euro,+,2023
+02-09-042,Modena,Economia,04BEC001P,26076.9,Euro,+,2023
+02-09-043,Bologna,Economia,04BEC001P,28560.7,Euro,+,2023
+02-09-044,Ferrara,Economia,04BEC001P,23503.7,Euro,+,2023
+02-09-045,Ravenna,Economia,04BEC001P,24555.0,Euro,+,2023
+02-09-046,Forlì-Cesena,Economia,04BEC001P,25037.8,Euro,+,2023
+02-09-047,Rimini,Economia,04BEC001P,23671.0,Euro,+,2023
+03-10-048,Massa-Carrara,Economia,04BEC001P,20257.6,Euro,+,2023
+03-10-049,Lucca,Economia,04BEC001P,23617.4,Euro,+,2023
+03-10-050,Pistoia,Economia,04BEC001P,21071.5,Euro,+,2023
+03-10-051,Firenze,Economia,04BEC001P,26194.5,Euro,+,2023
+03-10-052,Livorno,Economia,04BEC001P,23645.4,Euro,+,2023
+03-10-053,Pisa,Economia,04BEC001P,22022.6,Euro,+,2023
+03-10-054,Arezzo,Economia,04BEC001P,21759.7,Euro,+,2023
+03-10-055,Siena,Economia,04BEC001P,23248.5,Euro,+,2023
+03-10-056,Grosseto,Economia,04BEC001P,21698.2,Euro,+,2023
+03-10-057,Prato,Economia,04BEC001P,24218.2,Euro,+,2023
+03-11-058,Perugia,Economia,04BEC001P,22204.8,Euro,+,2023
+03-11-059,Terni,Economia,04BEC001P,19957.1,Euro,+,2023
+03-12-060,Pesaro e Urbino,Economia,04BEC001P,23682.0,Euro,+,2023
+03-12-061,Ancona,Economia,04BEC001P,21269.7,Euro,+,2023
+03-12-062,Macerata,Economia,04BEC001P,22260.0,Euro,+,2023
+03-12-063,Ascoli Piceno,Economia,04BEC001P,21661.8,Euro,+,2023
+03-12-064,Fermo,Economia,04BEC001P,21464.0,Euro,+,2023
+03-13-065,Viterbo,Economia,04BEC001P,18872.1,Euro,+,2023
+03-13-066,Rieti,Economia,04BEC001P,16619.1,Euro,+,2023
+03-13-067,Roma,Economia,04BEC001P,25507.9,Euro,+,2023
+03-13-068,Latina,Economia,04BEC001P,18033.8,Euro,+,2023
+03-13-069,Frosinone,Economia,04BEC001P,15358.2,Euro,+,2023
+04-14-070,L'Aquila,Economia,04BEC001P,17550.2,Euro,+,2023
+04-14-071,Teramo,Economia,04BEC001P,20332.5,Euro,+,2023
+04-14-072,Pescara,Economia,04BEC001P,21065.3,Euro,+,2023
+04-14-073,Chieti,Economia,04BEC001P,19934.9,Euro,+,2023
+04-15-074,Campobasso,Economia,04BEC001P,17655.5,Euro,+,2023
+04-15-075,Isernia,Economia,04BEC001P,19675.4,Euro,+,2023
+04-16-076,Caserta,Economia,04BEC001P,14683.1,Euro,+,2023
+04-16-077,Benevento,Economia,04BEC001P,15126.2,Euro,+,2023
+04-16-078,Napoli,Economia,04BEC001P,16734.7,Euro,+,2023
+04-16-079,Avellino,Economia,04BEC001P,15960.4,Euro,+,2023
+04-16-080,Salerno,Economia,04BEC001P,17644.8,Euro,+,2023
+04-17-081,Foggia,Economia,04BEC001P,14554.2,Euro,+,2023
+04-17-082,Bari,Economia,04BEC001P,20029.4,Euro,+,2023
+04-17-083,Taranto,Economia,04BEC001P,15665.7,Euro,+,2023
+04-17-084,Brindisi,Economia,04BEC001P,16137.9,Euro,+,2023
+04-17-085,Lecce,Economia,04BEC001P,16510.1,Euro,+,2023
+04-17-086,Barletta-Andria-Trani,Economia,04BEC001P,16393.8,Euro,+,2023
+04-18-087,Potenza,Economia,04BEC001P,16741.4,Euro,+,2023
+04-18-088,Matera,Economia,04BEC001P,18411.7,Euro,+,2023
+04-19-089,Cosenza,Economia,04BEC001P,16274.8,Euro,+,2023
+04-19-090,Catanzaro,Economia,04BEC001P,17349.9,Euro,+,2023
+04-19-091,Reggio di Calabria,Economia,04BEC001P,15684.4,Euro,+,2023
+04-19-092,Crotone,Economia,04BEC001P,15414.1,Euro,+,2023
+04-19-093,Vibo Valentia,Economia,04BEC001P,15542.1,Euro,+,2023
+05-20-094,Trapani,Economia,04BEC001P,16497.3,Euro,+,2023
+05-20-095,Palermo,Economia,04BEC001P,17078.4,Euro,+,2023
+05-20-096,Messina,Economia,04BEC001P,17818.3,Euro,+,2023
+05-20-097,Agrigento,Economia,04BEC001P,14802.3,Euro,+,2023
+05-20-098,Caltanissetta,Economia,04BEC001P,15900.4,Euro,+,2023
+05-20-099,Enna,Economia,04BEC001P,14982.7,Euro,+,2023
+05-20-100,Catania,Economia,04BEC001P,17316.3,Euro,+,2023
+05-20-101,Ragusa,Economia,04BEC001P,17653.5,Euro,+,2023
+05-20-102,Siracusa,Economia,04BEC001P,17307.2,Euro,+,2023
+05-21-103,Sassari,Economia,04BEC001P,18567.8,Euro,+,2023
+05-21-104,Nuoro,Economia,04BEC001P,16281.3,Euro,+,2023
+05-21-105,Cagliari,Economia,04BEC001P,23318.6,Euro,+,2023
+05-21-106,Oristano,Economia,04BEC001P,17097.1,Euro,+,2023
+05-21-111,Sud Sardegna,Economia,04BEC001P,16944.3,Euro,+,2023
+01-01-001,Torino,Economia,04BEC002P,26426.4,Euro,+,2023
+01-01-002,Vercelli,Economia,04BEC002P,24671.4,Euro,+,2023
+01-01-003,Novara,Economia,04BEC002P,25246.5,Euro,+,2023
+01-01-004,Cuneo,Economia,04BEC002P,24153.0,Euro,+,2023
+01-01-005,Asti,Economia,04BEC002P,23558.9,Euro,+,2023
+01-01-006,Alessandria,Economia,04BEC002P,24681.8,Euro,+,2023
+01-01-007,Biella,Economia,04BEC002P,24889.8,Euro,+,2023
+01-01-008,Verbano-Cusio-Ossola,Economia,04BEC002P,20722.0,Euro,+,2023
+01-02-009,Aosta,Economia,04BEC002P,19918.3,Euro,+,2023
+01-03-010,Imperia,Economia,04BEC002P,17682.2,Euro,+,2023
+01-03-011,Savona,Economia,04BEC002P,20107.8,Euro,+,2023
+01-03-012,Genova,Economia,04BEC002P,25579.5,Euro,+,2023
+01-03-013,La Spezia,Economia,04BEC002P,21891.5,Euro,+,2023
+01-04-014,Varese,Economia,04BEC002P,26059.0,Euro,+,2023
+01-04-015,Como,Economia,04BEC002P,24241.2,Euro,+,2023
+01-04-016,Sondrio,Economia,04BEC002P,21771.5,Euro,+,2023
+01-04-017,Milano,Economia,04BEC002P,34343.0,Euro,+,2023
+01-04-018,Bergamo,Economia,04BEC002P,26083.3,Euro,+,2023
+01-04-019,Brescia,Economia,04BEC002P,24587.7,Euro,+,2023
+01-04-020,Pavia,Economia,04BEC002P,22843.5,Euro,+,2023
+01-04-021,Cremona,Economia,04BEC002P,24743.4,Euro,+,2023
+01-04-022,Mantova,Economia,04BEC002P,24358.6,Euro,+,2023
+01-04-023,Lecco,Economia,04BEC002P,26766.8,Euro,+,2023
+01-04-024,Lodi,Economia,04BEC002P,25459.9,Euro,+,2023
+01-04-025,Monza e della Brianza,Economia,04BEC002P,28833.1,Euro,+,2023
+02-05-001,Bolzano/Bozen,Economia,04BEC002P,26020.3,Euro,+,2023
+02-06-001,Trento,Economia,04BEC002P,22434.9,Euro,+,2023
+02-07-028,Verona,Economia,04BEC002P,24239.0,Euro,+,2023
+02-07-029,Vicenza,Economia,04BEC002P,25652.2,Euro,+,2023
+02-07-030,Belluno,Economia,04BEC002P,23776.0,Euro,+,2023
+02-07-031,Treviso,Economia,04BEC002P,25358.3,Euro,+,2023
+02-07-032,Venezia,Economia,04BEC002P,22466.4,Euro,+,2023
+02-07-033,Padova,Economia,04BEC002P,25486.2,Euro,+,2023
+02-07-034,Rovigo,Economia,04BEC002P,21233.8,Euro,+,2023
+02-08-035,Udine,Economia,04BEC002P,23670.0,Euro,+,2023
+02-08-036,Gorizia,Economia,04BEC002P,22220.4,Euro,+,2023
+02-08-037,Trieste,Economia,04BEC002P,25925.8,Euro,+,2023
+02-08-038,Pordenone,Economia,04BEC002P,24687.6,Euro,+,2023
+02-09-039,Piacenza,Economia,04BEC002P,24380.1,Euro,+,2023
+02-09-040,Parma,Economia,04BEC002P,27869.1,Euro,+,2023
+02-09-041,Reggio nell'Emilia,Economia,04BEC002P,26936.9,Euro,+,2023
+02-09-042,Modena,Economia,04BEC002P,27671.5,Euro,+,2023
+02-09-043,Bologna,Economia,04BEC002P,27603.1,Euro,+,2023
+02-09-044,Ferrara,Economia,04BEC002P,21600.4,Euro,+,2023
+02-09-045,Ravenna,Economia,04BEC002P,23068.8,Euro,+,2023
+02-09-046,Forlì-Cesena,Economia,04BEC002P,22057.7,Euro,+,2023
+02-09-047,Rimini,Economia,04BEC002P,17809.2,Euro,+,2023
+03-10-048,Massa-Carrara,Economia,04BEC002P,20917.3,Euro,+,2023
+03-10-049,Lucca,Economia,04BEC002P,22094.2,Euro,+,2023
+03-10-050,Pistoia,Economia,04BEC002P,21035.1,Euro,+,2023
+03-10-051,Firenze,Economia,04BEC002P,24515.4,Euro,+,2023
+03-10-052,Livorno,Economia,04BEC002P,20404.2,Euro,+,2023
+03-10-053,Pisa,Economia,04BEC002P,23202.2,Euro,+,2023
+03-10-054,Arezzo,Economia,04BEC002P,22152.7,Euro,+,2023
+03-10-055,Siena,Economia,04BEC002P,23055.0,Euro,+,2023
+03-10-056,Grosseto,Economia,04BEC002P,17271.8,Euro,+,2023
+03-10-057,Prato,Economia,04BEC002P,19647.8,Euro,+,2023
+03-11-058,Perugia,Economia,04BEC002P,21013.8,Euro,+,2023
+03-11-059,Terni,Economia,04BEC002P,20923.0,Euro,+,2023
+03-12-060,Pesaro e Urbino,Economia,04BEC002P,21626.7,Euro,+,2023
+03-12-061,Ancona,Economia,04BEC002P,22171.3,Euro,+,2023
+03-12-062,Macerata,Economia,04BEC002P,19912.4,Euro,+,2023
+03-12-063,Ascoli Piceno,Economia,04BEC002P,19805.2,Euro,+,2023
+03-12-064,Fermo,Economia,04BEC002P,18885.0,Euro,+,2023
+03-13-065,Viterbo,Economia,04BEC002P,17740.2,Euro,+,2023
+03-13-066,Rieti,Economia,04BEC002P,18480.3,Euro,+,2023
+03-13-067,Roma,Economia,04BEC002P,25293.8,Euro,+,2023
+03-13-068,Latina,Economia,04BEC002P,19338.5,Euro,+,2023
+03-13-069,Frosinone,Economia,04BEC002P,20333.2,Euro,+,2023
+04-14-070,L'Aquila,Economia,04BEC002P,19573.5,Euro,+,2023
+04-14-071,Teramo,Economia,04BEC002P,18193.5,Euro,+,2023
+04-14-072,Pescara,Economia,04BEC002P,19456.9,Euro,+,2023
+04-14-073,Chieti,Economia,04BEC002P,20778.8,Euro,+,2023
+04-15-074,Campobasso,Economia,04BEC002P,18565.2,Euro,+,2023
+04-15-075,Isernia,Economia,04BEC002P,17133.2,Euro,+,2023
+04-16-076,Caserta,Economia,04BEC002P,16625.1,Euro,+,2023
+04-16-077,Benevento,Economia,04BEC002P,15983.1,Euro,+,2023
+04-16-078,Napoli,Economia,04BEC002P,18405.9,Euro,+,2023
+04-16-079,Avellino,Economia,04BEC002P,18030.5,Euro,+,2023
+04-16-080,Salerno,Economia,04BEC002P,15845.7,Euro,+,2023
+04-17-081,Foggia,Economia,04BEC002P,16282.4,Euro,+,2023
+04-17-082,Bari,Economia,04BEC002P,19379.3,Euro,+,2023
+04-17-083,Taranto,Economia,04BEC002P,18219.0,Euro,+,2023
+04-17-084,Brindisi,Economia,04BEC002P,17606.7,Euro,+,2023
+04-17-085,Lecce,Economia,04BEC002P,15675.5,Euro,+,2023
+04-17-086,Barletta-Andria-Trani,Economia,04BEC002P,15666.4,Euro,+,2023
+04-18-087,Potenza,Economia,04BEC002P,19471.6,Euro,+,2023
+04-18-088,Matera,Economia,04BEC002P,17002.5,Euro,+,2023
+04-19-089,Cosenza,Economia,04BEC002P,14816.9,Euro,+,2023
+04-19-090,Catanzaro,Economia,04BEC002P,15991.5,Euro,+,2023
+04-19-091,Reggio di Calabria,Economia,04BEC002P,16410.8,Euro,+,2023
+04-19-092,Crotone,Economia,04BEC002P,14873.6,Euro,+,2023
+04-19-093,Vibo Valentia,Economia,04BEC002P,13387.8,Euro,+,2023
+05-20-094,Trapani,Economia,04BEC002P,14853.6,Euro,+,2023
+05-20-095,Palermo,Economia,04BEC002P,17910.7,Euro,+,2023
+05-20-096,Messina,Economia,04BEC002P,15684.0,Euro,+,2023
+05-20-097,Agrigento,Economia,04BEC002P,15211.1,Euro,+,2023
+05-20-098,Caltanissetta,Economia,04BEC002P,18014.6,Euro,+,2023
+05-20-099,Enna,Economia,04BEC002P,16321.9,Euro,+,2023
+05-20-100,Catania,Economia,04BEC002P,18303.3,Euro,+,2023
+05-20-101,Ragusa,Economia,04BEC002P,15589.8,Euro,+,2023
+05-20-102,Siracusa,Economia,04BEC002P,18227.1,Euro,+,2023
+05-21-103,Sassari,Economia,04BEC002P,16625.8,Euro,+,2023
+05-21-104,Nuoro,Economia,04BEC002P,14675.6,Euro,+,2023
+05-21-105,Cagliari,Economia,04BEC002P,20229.7,Euro,+,2023
+05-21-106,Oristano,Economia,04BEC002P,17164.2,Euro,+,2023
+05-21-111,Sud Sardegna,Economia,04BEC002P,16593.6,Euro,+,2023
+01-01-001,Torino,Servizi,12SER002P,33.9,Per 10.000 abitanti,+,2023
+01-01-002,Vercelli,Servizi,12SER002P,26.8,Per 10.000 abitanti,+,2023
+01-01-003,Novara,Servizi,12SER002P,33.4,Per 10.000 abitanti,+,2023
+01-01-004,Cuneo,Servizi,12SER002P,24.6,Per 10.000 abitanti,+,2023
+01-01-005,Asti,Servizi,12SER002P,20.2,Per 10.000 abitanti,+,2023
+01-01-006,Alessandria,Servizi,12SER002P,29.0,Per 10.000 abitanti,+,2023
+01-01-007,Biella,Servizi,12SER002P,24.3,Per 10.000 abitanti,+,2023
+01-01-008,Verbano-Cusio-Ossola,Servizi,12SER002P,27.9,Per 10.000 abitanti,+,2023
+01-02-009,Aosta,Servizi,12SER002P,29.4,Per 10.000 abitanti,+,2023
+01-03-010,Imperia,Servizi,12SER002P,23.9,Per 10.000 abitanti,+,2023
+01-03-011,Savona,Servizi,12SER002P,31.5,Per 10.000 abitanti,+,2023
+01-03-012,Genova,Servizi,12SER002P,49.8,Per 10.000 abitanti,+,2023
+01-03-013,La Spezia,Servizi,12SER002P,27.7,Per 10.000 abitanti,+,2023
+01-04-014,Varese,Servizi,12SER002P,28.4,Per 10.000 abitanti,+,2023
+01-04-015,Como,Servizi,12SER002P,23.1,Per 10.000 abitanti,+,2023
+01-04-016,Sondrio,Servizi,12SER002P,22.4,Per 10.000 abitanti,+,2023
+01-04-017,Milano,Servizi,12SER002P,44.3,Per 10.000 abitanti,+,2023
+01-04-018,Bergamo,Servizi,12SER002P,23.8,Per 10.000 abitanti,+,2023
+01-04-019,Brescia,Servizi,12SER002P,29.6,Per 10.000 abitanti,+,2023
+01-04-020,Pavia,Servizi,12SER002P,43.8,Per 10.000 abitanti,+,2023
+01-04-021,Cremona,Servizi,12SER002P,27.6,Per 10.000 abitanti,+,2023
+01-04-022,Mantova,Servizi,12SER002P,22.6,Per 10.000 abitanti,+,2023
+01-04-023,Lecco,Servizi,12SER002P,24.6,Per 10.000 abitanti,+,2023
+01-04-024,Lodi,Servizi,12SER002P,21.9,Per 10.000 abitanti,+,2023
+01-04-025,Monza e della Brianza,Servizi,12SER002P,24.8,Per 10.000 abitanti,+,2023
+02-05-001,Bolzano/Bozen,Servizi,12SER002P,29.6,Per 10.000 abitanti,+,2023
+02-06-001,Trento,Servizi,12SER002P,25.7,Per 10.000 abitanti,+,2023
+02-07-028,Verona,Servizi,12SER002P,37.3,Per 10.000 abitanti,+,2023
+02-07-029,Vicenza,Servizi,12SER002P,22.4,Per 10.000 abitanti,+,2023
+02-07-030,Belluno,Servizi,12SER002P,25.3,Per 10.000 abitanti,+,2023
+02-07-031,Treviso,Servizi,12SER002P,22.1,Per 10.000 abitanti,+,2023
+02-07-032,Venezia,Servizi,12SER002P,25.3,Per 10.000 abitanti,+,2023
+02-07-033,Padova,Servizi,12SER002P,40.4,Per 10.000 abitanti,+,2023
+02-07-034,Rovigo,Servizi,12SER002P,29.4,Per 10.000 abitanti,+,2023
+02-08-035,Udine,Servizi,12SER002P,33.2,Per 10.000 abitanti,+,2023
+02-08-036,Gorizia,Servizi,12SER002P,23.8,Per 10.000 abitanti,+,2023
+02-08-037,Trieste,Servizi,12SER002P,51.8,Per 10.000 abitanti,+,2023
+02-08-038,Pordenone,Servizi,12SER002P,27.4,Per 10.000 abitanti,+,2023
+02-09-039,Piacenza,Servizi,12SER002P,26.6,Per 10.000 abitanti,+,2023
+02-09-040,Parma,Servizi,12SER002P,40.1,Per 10.000 abitanti,+,2023
+02-09-041,Reggio nell'Emilia,Servizi,12SER002P,28.0,Per 10.000 abitanti,+,2023
+02-09-042,Modena,Servizi,12SER002P,38.6,Per 10.000 abitanti,+,2023
+02-09-043,Bologna,Servizi,12SER002P,44.9,Per 10.000 abitanti,+,2023
+02-09-044,Ferrara,Servizi,12SER002P,44.8,Per 10.000 abitanti,+,2023
+02-09-045,Ravenna,Servizi,12SER002P,31.8,Per 10.000 abitanti,+,2023
+02-09-046,Forlì-Cesena,Servizi,12SER002P,33.3,Per 10.000 abitanti,+,2023
+02-09-047,Rimini,Servizi,12SER002P,34.3,Per 10.000 abitanti,+,2023
+03-10-048,Massa-Carrara,Servizi,12SER002P,31.3,Per 10.000 abitanti,+,2023
+03-10-049,Lucca,Servizi,12SER002P,28.2,Per 10.000 abitanti,+,2023
+03-10-050,Pistoia,Servizi,12SER002P,24.4,Per 10.000 abitanti,+,2023
+03-10-051,Firenze,Servizi,12SER002P,45.1,Per 10.000 abitanti,+,2023
+03-10-052,Livorno,Servizi,12SER002P,27.5,Per 10.000 abitanti,+,2023
+03-10-053,Pisa,Servizi,12SER002P,55.3,Per 10.000 abitanti,+,2023
+03-10-054,Arezzo,Servizi,12SER002P,28.6,Per 10.000 abitanti,+,2023
+03-10-055,Siena,Servizi,12SER002P,57.3,Per 10.000 abitanti,+,2023
+03-10-056,Grosseto,Servizi,12SER002P,30.6,Per 10.000 abitanti,+,2023
+03-10-057,Prato,Servizi,12SER002P,26.8,Per 10.000 abitanti,+,2023
+03-11-058,Perugia,Servizi,12SER002P,37.0,Per 10.000 abitanti,+,2023
+03-11-059,Terni,Servizi,12SER002P,36.2,Per 10.000 abitanti,+,2023
+03-12-060,Pesaro e Urbino,Servizi,12SER002P,23.9,Per 10.000 abitanti,+,2023
+03-12-061,Ancona,Servizi,12SER002P,45.7,Per 10.000 abitanti,+,2023
+03-12-062,Macerata,Servizi,12SER002P,24.3,Per 10.000 abitanti,+,2023
+03-12-063,Ascoli Piceno,Servizi,12SER002P,29.4,Per 10.000 abitanti,+,2023
+03-12-064,Fermo,Servizi,12SER002P,20.1,Per 10.000 abitanti,+,2023
+03-13-065,Viterbo,Servizi,12SER002P,23.7,Per 10.000 abitanti,+,2023
+03-13-066,Rieti,Servizi,12SER002P,24.7,Per 10.000 abitanti,+,2023
+03-13-067,Roma,Servizi,12SER002P,48.7,Per 10.000 abitanti,+,2023
+03-13-068,Latina,Servizi,12SER002P,24.9,Per 10.000 abitanti,+,2023
+03-13-069,Frosinone,Servizi,12SER002P,21.5,Per 10.000 abitanti,+,2023
+04-14-070,L'Aquila,Servizi,12SER002P,37.6,Per 10.000 abitanti,+,2023
+04-14-071,Teramo,Servizi,12SER002P,27.3,Per 10.000 abitanti,+,2023
+04-14-072,Pescara,Servizi,12SER002P,36.8,Per 10.000 abitanti,+,2023
+04-14-073,Chieti,Servizi,12SER002P,37.6,Per 10.000 abitanti,+,2023
+04-15-074,Campobasso,Servizi,12SER002P,28.6,Per 10.000 abitanti,+,2023
+04-15-075,Isernia,Servizi,12SER002P,32.0,Per 10.000 abitanti,+,2023
+04-16-076,Caserta,Servizi,12SER002P,24.4,Per 10.000 abitanti,+,2023
+04-16-077,Benevento,Servizi,12SER002P,29.9,Per 10.000 abitanti,+,2023
+04-16-078,Napoli,Servizi,12SER002P,36.0,Per 10.000 abitanti,+,2023
+04-16-079,Avellino,Servizi,12SER002P,25.5,Per 10.000 abitanti,+,2023
+04-16-080,Salerno,Servizi,12SER002P,29.0,Per 10.000 abitanti,+,2023
+04-17-081,Foggia,Servizi,12SER002P,34.0,Per 10.000 abitanti,+,2023
+04-17-082,Bari,Servizi,12SER002P,38.7,Per 10.000 abitanti,+,2023
+04-17-083,Taranto,Servizi,12SER002P,23.5,Per 10.000 abitanti,+,2023
+04-17-084,Brindisi,Servizi,12SER002P,24.9,Per 10.000 abitanti,+,2023
+04-17-085,Lecce,Servizi,12SER002P,26.6,Per 10.000 abitanti,+,2023
+04-17-086,Barletta-Andria-Trani,Servizi,12SER002P,23.8,Per 10.000 abitanti,+,2023
+04-18-087,Potenza,Servizi,12SER002P,25.2,Per 10.000 abitanti,+,2023
+04-18-088,Matera,Servizi,12SER002P,23.2,Per 10.000 abitanti,+,2023
+04-19-089,Cosenza,Servizi,12SER002P,25.3,Per 10.000 abitanti,+,2023
+04-19-090,Catanzaro,Servizi,12SER002P,49.2,Per 10.000 abitanti,+,2023
+04-19-091,Reggio di Calabria,Servizi,12SER002P,27.4,Per 10.000 abitanti,+,2023
+04-19-092,Crotone,Servizi,12SER002P,23.4,Per 10.000 abitanti,+,2023
+04-19-093,Vibo Valentia,Servizi,12SER002P,20.9,Per 10.000 abitanti,+,2023
+05-20-094,Trapani,Servizi,12SER002P,24.7,Per 10.000 abitanti,+,2023
+05-20-095,Palermo,Servizi,12SER002P,41.6,Per 10.000 abitanti,+,2023
+05-20-096,Messina,Servizi,12SER002P,47.8,Per 10.000 abitanti,+,2023
+05-20-097,Agrigento,Servizi,12SER002P,22.7,Per 10.000 abitanti,+,2023
+05-20-098,Caltanissetta,Servizi,12SER002P,25.2,Per 10.000 abitanti,+,2023
+05-20-099,Enna,Servizi,12SER002P,30.1,Per 10.000 abitanti,+,2023
+05-20-100,Catania,Servizi,12SER002P,41.9,Per 10.000 abitanti,+,2023
+05-20-101,Ragusa,Servizi,12SER002P,25.4,Per 10.000 abitanti,+,2023
+05-20-102,Siracusa,Servizi,12SER002P,25.0,Per 10.000 abitanti,+,2023
+05-21-103,Sassari,Servizi,12SER002P,41.1,Per 10.000 abitanti,+,2023
+05-21-104,Nuoro,Servizi,12SER002P,29.4,Per 10.000 abitanti,+,2023
+05-21-105,Cagliari,Servizi,12SER002P,63.6,Per 10.000 abitanti,+,2023
+05-21-106,Oristano,Servizi,12SER002P,29.1,Per 10.000 abitanti,+,2023
+05-21-111,Sud Sardegna,Servizi,12SER002P,22.0,Per 10.000 abitanti,+,2023
+01-01-001,Torino,Servizi,12SER020,74.3,Valori percentuali,+,2023
+01-01-002,Vercelli,Servizi,12SER020,56.3,Valori percentuali,+,2023
+01-01-003,Novara,Servizi,12SER020,43.4,Valori percentuali,+,2023
+01-01-004,Cuneo,Servizi,12SER020,50.7,Valori percentuali,+,2023
+01-01-005,Asti,Servizi,12SER020,53.8,Valori percentuali,+,2023
+01-01-006,Alessandria,Servizi,12SER020,49.0,Valori percentuali,+,2023
+01-01-007,Biella,Servizi,12SER020,64.5,Valori percentuali,+,2023
+01-01-008,Verbano-Cusio-Ossola,Servizi,12SER020,32.1,Valori percentuali,+,2023
+01-02-009,Aosta,Servizi,12SER020,51.3,Valori percentuali,+,2023
+01-03-010,Imperia,Servizi,12SER020,33.7,Valori percentuali,+,2023
+01-03-011,Savona,Servizi,12SER020,30.4,Valori percentuali,+,2023
+01-03-012,Genova,Servizi,12SER020,73.6,Valori percentuali,+,2023
+01-03-013,La Spezia,Servizi,12SER020,39.8,Valori percentuali,+,2023
+01-04-014,Varese,Servizi,12SER020,44.1,Valori percentuali,+,2023
+01-04-015,Como,Servizi,12SER020,44.9,Valori percentuali,+,2023
+01-04-016,Sondrio,Servizi,12SER020,60.2,Valori percentuali,+,2023
+01-04-017,Milano,Servizi,12SER020,78.1,Valori percentuali,+,2023
+01-04-018,Bergamo,Servizi,12SER020,54.2,Valori percentuali,+,2023
+01-04-019,Brescia,Servizi,12SER020,42.1,Valori percentuali,+,2023
+01-04-020,Pavia,Servizi,12SER020,35.3,Valori percentuali,+,2023
+01-04-021,Cremona,Servizi,12SER020,64.9,Valori percentuali,+,2023
+01-04-022,Mantova,Servizi,12SER020,81.0,Valori percentuali,+,2023
+01-04-023,Lecco,Servizi,12SER020,36.2,Valori percentuali,+,2023
+01-04-024,Lodi,Servizi,12SER020,41.0,Valori percentuali,+,2023
+01-04-025,Monza e della Brianza,Servizi,12SER020,48.5,Valori percentuali,+,2023
+02-05-001,Bolzano/Bozen,Servizi,12SER020,,Valori percentuali,+,2023
+02-06-001,Trento,Servizi,12SER020,77.6,Valori percentuali,+,2023
+02-07-028,Verona,Servizi,12SER020,61.4,Valori percentuali,+,2023
+02-07-029,Vicenza,Servizi,12SER020,53.6,Valori percentuali,+,2023
+02-07-030,Belluno,Servizi,12SER020,45.0,Valori percentuali,+,2023
+02-07-031,Treviso,Servizi,12SER020,50.7,Valori percentuali,+,2023
+02-07-032,Venezia,Servizi,12SER020,59.5,Valori percentuali,+,2023
+02-07-033,Padova,Servizi,12SER020,64.5,Valori percentuali,+,2023
+02-07-034,Rovigo,Servizi,12SER020,56.5,Valori percentuali,+,2023
+02-08-035,Udine,Servizi,12SER020,58.0,Valori percentuali,+,2023
+02-08-036,Gorizia,Servizi,12SER020,52.6,Valori percentuali,+,2023
+02-08-037,Trieste,Servizi,12SER020,81.1,Valori percentuali,+,2023
+02-08-038,Pordenone,Servizi,12SER020,36.8,Valori percentuali,+,2023
+02-09-039,Piacenza,Servizi,12SER020,61.5,Valori percentuali,+,2023
+02-09-040,Parma,Servizi,12SER020,60.0,Valori percentuali,+,2023
+02-09-041,Reggio nell'Emilia,Servizi,12SER020,63.8,Valori percentuali,+,2023
+02-09-042,Modena,Servizi,12SER020,54.3,Valori percentuali,+,2023
+02-09-043,Bologna,Servizi,12SER020,62.6,Valori percentuali,+,2023
+02-09-044,Ferrara,Servizi,12SER020,56.6,Valori percentuali,+,2023
+02-09-045,Ravenna,Servizi,12SER020,59.4,Valori percentuali,+,2023
+02-09-046,Forlì-Cesena,Servizi,12SER020,49.0,Valori percentuali,+,2023
+02-09-047,Rimini,Servizi,12SER020,41.3,Valori percentuali,+,2023
+03-10-048,Massa-Carrara,Servizi,12SER020,60.4,Valori percentuali,+,2023
+03-10-049,Lucca,Servizi,12SER020,42.1,Valori percentuali,+,2023
+03-10-050,Pistoia,Servizi,12SER020,41.3,Valori percentuali,+,2023
+03-10-051,Firenze,Servizi,12SER020,67.8,Valori percentuali,+,2023
+03-10-052,Livorno,Servizi,12SER020,38.9,Valori percentuali,+,2023
+03-10-053,Pisa,Servizi,12SER020,47.2,Valori percentuali,+,2023
+03-10-054,Arezzo,Servizi,12SER020,44.3,Valori percentuali,+,2023
+03-10-055,Siena,Servizi,12SER020,50.8,Valori percentuali,+,2023
+03-10-056,Grosseto,Servizi,12SER020,57.1,Valori percentuali,+,2023
+03-10-057,Prato,Servizi,12SER020,87.0,Valori percentuali,+,2023
+03-11-058,Perugia,Servizi,12SER020,55.0,Valori percentuali,+,2023
+03-11-059,Terni,Servizi,12SER020,58.1,Valori percentuali,+,2023
+03-12-060,Pesaro e Urbino,Servizi,12SER020,53.2,Valori percentuali,+,2023
+03-12-061,Ancona,Servizi,12SER020,64.6,Valori percentuali,+,2023
+03-12-062,Macerata,Servizi,12SER020,53.6,Valori percentuali,+,2023
+03-12-063,Ascoli Piceno,Servizi,12SER020,63.8,Valori percentuali,+,2023
+03-12-064,Fermo,Servizi,12SER020,53.6,Valori percentuali,+,2023
+03-13-065,Viterbo,Servizi,12SER020,46.8,Valori percentuali,+,2023
+03-13-066,Rieti,Servizi,12SER020,66.6,Valori percentuali,+,2023
+03-13-067,Roma,Servizi,12SER020,78.8,Valori percentuali,+,2023
+03-13-068,Latina,Servizi,12SER020,50.1,Valori percentuali,+,2023
+03-13-069,Frosinone,Servizi,12SER020,47.2,Valori percentuali,+,2023
+04-14-070,L'Aquila,Servizi,12SER020,56.1,Valori percentuali,+,2023
+04-14-071,Teramo,Servizi,12SER020,39.0,Valori percentuali,+,2023
+04-14-072,Pescara,Servizi,12SER020,72.7,Valori percentuali,+,2023
+04-14-073,Chieti,Servizi,12SER020,60.7,Valori percentuali,+,2023
+04-15-074,Campobasso,Servizi,12SER020,88.7,Valori percentuali,+,2023
+04-15-075,Isernia,Servizi,12SER020,74.1,Valori percentuali,+,2023
+04-16-076,Caserta,Servizi,12SER020,64.5,Valori percentuali,+,2023
+04-16-077,Benevento,Servizi,12SER020,61.5,Valori percentuali,+,2023
+04-16-078,Napoli,Servizi,12SER020,78.0,Valori percentuali,+,2023
+04-16-079,Avellino,Servizi,12SER020,62.0,Valori percentuali,+,2023
+04-16-080,Salerno,Servizi,12SER020,69.6,Valori percentuali,+,2023
+04-17-081,Foggia,Servizi,12SER020,48.1,Valori percentuali,+,2023
+04-17-082,Bari,Servizi,12SER020,69.3,Valori percentuali,+,2023
+04-17-083,Taranto,Servizi,12SER020,50.2,Valori percentuali,+,2023
+04-17-084,Brindisi,Servizi,12SER020,35.2,Valori percentuali,+,2023
+04-17-085,Lecce,Servizi,12SER020,28.9,Valori percentuali,+,2023
+04-17-086,Barletta-Andria-Trani,Servizi,12SER020,70.6,Valori percentuali,+,2023
+04-18-087,Potenza,Servizi,12SER020,42.4,Valori percentuali,+,2023
+04-18-088,Matera,Servizi,12SER020,44.8,Valori percentuali,+,2023
+04-19-089,Cosenza,Servizi,12SER020,24.1,Valori percentuali,+,2023
+04-19-090,Catanzaro,Servizi,12SER020,49.7,Valori percentuali,+,2023
+04-19-091,Reggio di Calabria,Servizi,12SER020,42.4,Valori percentuali,+,2023
+04-19-092,Crotone,Servizi,12SER020,47.3,Valori percentuali,+,2023
+04-19-093,Vibo Valentia,Servizi,12SER020,26.6,Valori percentuali,+,2023
+05-20-094,Trapani,Servizi,12SER020,67.5,Valori percentuali,+,2023
+05-20-095,Palermo,Servizi,12SER020,80.7,Valori percentuali,+,2023
+05-20-096,Messina,Servizi,12SER020,68.6,Valori percentuali,+,2023
+05-20-097,Agrigento,Servizi,12SER020,36.2,Valori percentuali,+,2023
+05-20-098,Caltanissetta,Servizi,12SER020,55.6,Valori percentuali,+,2023
+05-20-099,Enna,Servizi,12SER020,34.1,Valori percentuali,+,2023
+05-20-100,Catania,Servizi,12SER020,61.7,Valori percentuali,+,2023
+05-20-101,Ragusa,Servizi,12SER020,58.9,Valori percentuali,+,2023
+05-20-102,Siracusa,Servizi,12SER020,48.6,Valori percentuali,+,2023
+05-21-103,Sassari,Servizi,12SER020,36.6,Valori percentuali,+,2023
+05-21-104,Nuoro,Servizi,12SER020,18.7,Valori percentuali,+,2023
+05-21-105,Cagliari,Servizi,12SER020,77.0,Valori percentuali,+,2023
+05-21-106,Oristano,Servizi,12SER020,18.3,Valori percentuali,+,2023
+05-21-111,Sud Sardegna,Servizi,12SER020,17.0,Valori percentuali,+,2023
