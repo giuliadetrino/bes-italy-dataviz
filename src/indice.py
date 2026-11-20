@@ -1,7 +1,7 @@
 from pathlib import Path
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parents
+ROOT = Path(__file__).resolve().parent.parent
 INPUT_FILE = ROOT / "data" / "elaborati" / "bes_2023_normalizzato.csv"
 
 AREE_ATTESE = [
@@ -115,7 +115,6 @@ def calcola_indice(
 
 
 if __name__ == "__main__":
-    # 1. Test in memoria sulle 7 aree
     punteggi_a = {
         "Salute": [80.0, 90.0],
         "Istruzione e formazione": [70.0],
@@ -148,7 +147,6 @@ if __name__ == "__main__":
     lavoro_a = df_aree_prova.loc[df_aree_prova["area"] == "Lavoro", "punteggio_area"].item()
     assert abs(df_indice_lavoro["indice"].item() - lavoro_a) < 1e-9
 
-    # 2. Test sul dataset reale (se presente in data/elaborati)
     if INPUT_FILE.exists():
         df_reale = pd.read_csv(INPUT_FILE, dtype={"provincia_id": str})
         col_norm = "valore_norm" if "valore_norm" in df_reale.columns else "punteggio"
