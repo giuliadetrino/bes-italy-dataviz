@@ -1,0 +1,1499 @@
+provincia_id,provincia,area,indicatore_id,valore,unita,verso,anno
+01-01-001,Torino,Salute,01SAL001,83.4,Numero medio di anni,+,2023
+01-01-001,Torino,Istruzione e formazione,02IST003P-N22,33.1,Valori percentuali,+,2023
+01-01-001,Torino,Istruzione e formazione,02IST006-N22,12.0,Valori percentuali,-,2023
+01-01-001,Torino,Lavoro,03LAV001-N22,70.8,Valori percentuali,+,2023
+01-01-001,Torino,Lavoro,03LAV003P-N22,35.0,Valori percentuali,+,2023
+01-01-001,Torino,Economia,04BEC001P,25852.9,Euro,+,2023
+01-01-001,Torino,Economia,04BEC002P,26426.4,Euro,+,2023
+01-01-001,Torino,Sicurezza,07SIC004P,262.9,Per 100.000 abitanti,-,2023
+01-01-001,Torino,Sicurezza,07SIC005P,472.9,Per 100.000 abitanti,-,2023
+01-01-001,Torino,Sicurezza,07SIC006P,86.4,Per 100.000 abitanti,-,2023
+01-01-001,Torino,Ambiente,10AMB008,27.9,M2 per abitante,+,2023
+01-01-001,Torino,Ambiente,10AMB017,64.1,Valori percentuali,+,2023
+01-01-001,Torino,Servizi,12SER002P,33.9,Per 10.000 abitanti,+,2023
+01-01-001,Torino,Servizi,12SER020,74.3,Valori percentuali,+,2023
+01-01-002,Vercelli,Salute,01SAL001,82.0,Numero medio di anni,+,2023
+01-01-002,Vercelli,Istruzione e formazione,02IST003P-N22,29.2,Valori percentuali,+,2023
+01-01-002,Vercelli,Istruzione e formazione,02IST006-N22,11.2,Valori percentuali,-,2023
+01-01-002,Vercelli,Lavoro,03LAV001-N22,71.4,Valori percentuali,+,2023
+01-01-002,Vercelli,Lavoro,03LAV003P-N22,42.2,Valori percentuali,+,2023
+01-01-002,Vercelli,Economia,04BEC001P,22579.9,Euro,+,2023
+01-01-002,Vercelli,Economia,04BEC002P,24671.4,Euro,+,2023
+01-01-002,Vercelli,Sicurezza,07SIC004P,184.5,Per 100.000 abitanti,-,2023
+01-01-002,Vercelli,Sicurezza,07SIC005P,130.2,Per 100.000 abitanti,-,2023
+01-01-002,Vercelli,Sicurezza,07SIC006P,24.7,Per 100.000 abitanti,-,2023
+01-01-002,Vercelli,Ambiente,10AMB008,32.0,M2 per abitante,+,2023
+01-01-002,Vercelli,Ambiente,10AMB017,70.1,Valori percentuali,+,2023
+01-01-002,Vercelli,Servizi,12SER002P,26.8,Per 10.000 abitanti,+,2023
+01-01-002,Vercelli,Servizi,12SER020,56.3,Valori percentuali,+,2023
+01-01-003,Novara,Salute,01SAL001,83.6,Numero medio di anni,+,2023
+01-01-003,Novara,Istruzione e formazione,02IST003P-N22,32.1,Valori percentuali,+,2023
+01-01-003,Novara,Istruzione e formazione,02IST006-N22,14.2,Valori percentuali,-,2023
+01-01-003,Novara,Lavoro,03LAV001-N22,74.8,Valori percentuali,+,2023
+01-01-003,Novara,Lavoro,03LAV003P-N22,40.0,Valori percentuali,+,2023
+01-01-003,Novara,Economia,04BEC001P,21826.6,Euro,+,2023
+01-01-003,Novara,Economia,04BEC002P,25246.5,Euro,+,2023
+01-01-003,Novara,Sicurezza,07SIC004P,232.1,Per 100.000 abitanti,-,2023
+01-01-003,Novara,Sicurezza,07SIC005P,218.6,Per 100.000 abitanti,-,2023
+01-01-003,Novara,Sicurezza,07SIC006P,37.2,Per 100.000 abitanti,-,2023
+01-01-003,Novara,Ambiente,10AMB008,14.3,M2 per abitante,+,2023
+01-01-003,Novara,Ambiente,10AMB017,80.4,Valori percentuali,+,2023
+01-01-003,Novara,Servizi,12SER002P,33.4,Per 10.000 abitanti,+,2023
+01-01-003,Novara,Servizi,12SER020,43.4,Valori percentuali,+,2023
+01-01-004,Cuneo,Salute,01SAL001,83.2,Numero medio di anni,+,2023
+01-01-004,Cuneo,Istruzione e formazione,02IST003P-N22,23.2,Valori percentuali,+,2023
+01-01-004,Cuneo,Istruzione e formazione,02IST006-N22,7.0,Valori percentuali,-,2023
+01-01-004,Cuneo,Lavoro,03LAV001-N22,75.1,Valori percentuali,+,2023
+01-01-004,Cuneo,Lavoro,03LAV003P-N22,47.4,Valori percentuali,+,2023
+01-01-004,Cuneo,Economia,04BEC001P,25132.6,Euro,+,2023
+01-01-004,Cuneo,Economia,04BEC002P,24153.0,Euro,+,2023
+01-01-004,Cuneo,Sicurezza,07SIC004P,294.9,Per 100.000 abitanti,-,2023
+01-01-004,Cuneo,Sicurezza,07SIC005P,40.8,Per 100.000 abitanti,-,2023
+01-01-004,Cuneo,Sicurezza,07SIC006P,14.8,Per 100.000 abitanti,-,2023
+01-01-004,Cuneo,Ambiente,10AMB008,32.5,M2 per abitante,+,2023
+01-01-004,Cuneo,Ambiente,10AMB017,71.6,Valori percentuali,+,2023
+01-01-004,Cuneo,Servizi,12SER002P,24.6,Per 10.000 abitanti,+,2023
+01-01-004,Cuneo,Servizi,12SER020,50.7,Valori percentuali,+,2023
+01-01-005,Asti,Salute,01SAL001,82.8,Numero medio di anni,+,2023
+01-01-005,Asti,Istruzione e formazione,02IST003P-N22,24.1,Valori percentuali,+,2023
+01-01-005,Asti,Istruzione e formazione,02IST006-N22,11.1,Valori percentuali,-,2023
+01-01-005,Asti,Lavoro,03LAV001-N22,74.0,Valori percentuali,+,2023
+01-01-005,Asti,Lavoro,03LAV003P-N22,39.6,Valori percentuali,+,2023
+01-01-005,Asti,Economia,04BEC001P,20783.2,Euro,+,2023
+01-01-005,Asti,Economia,04BEC002P,23558.9,Euro,+,2023
+01-01-005,Asti,Sicurezza,07SIC004P,301.6,Per 100.000 abitanti,-,2023
+01-01-005,Asti,Sicurezza,07SIC005P,82.7,Per 100.000 abitanti,-,2023
+01-01-005,Asti,Sicurezza,07SIC006P,15.9,Per 100.000 abitanti,-,2023
+01-01-005,Asti,Ambiente,10AMB008,28.2,M2 per abitante,+,2023
+01-01-005,Asti,Ambiente,10AMB017,68.9,Valori percentuali,+,2023
+01-01-005,Asti,Servizi,12SER002P,20.2,Per 10.000 abitanti,+,2023
+01-01-005,Asti,Servizi,12SER020,53.8,Valori percentuali,+,2023
+01-01-006,Alessandria,Salute,01SAL001,82.3,Numero medio di anni,+,2023
+01-01-006,Alessandria,Istruzione e formazione,02IST003P-N22,22.6,Valori percentuali,+,2023
+01-01-006,Alessandria,Istruzione e formazione,02IST006-N22,15.9,Valori percentuali,-,2023
+01-01-006,Alessandria,Lavoro,03LAV001-N22,71.2,Valori percentuali,+,2023
+01-01-006,Alessandria,Lavoro,03LAV003P-N22,37.8,Valori percentuali,+,2023
+01-01-006,Alessandria,Economia,04BEC001P,22089.9,Euro,+,2023
+01-01-006,Alessandria,Economia,04BEC002P,24681.8,Euro,+,2023
+01-01-006,Alessandria,Sicurezza,07SIC004P,343.8,Per 100.000 abitanti,-,2023
+01-01-006,Alessandria,Sicurezza,07SIC005P,162.1,Per 100.000 abitanti,-,2023
+01-01-006,Alessandria,Sicurezza,07SIC006P,34.4,Per 100.000 abitanti,-,2023
+01-01-006,Alessandria,Ambiente,10AMB008,27.3,M2 per abitante,+,2023
+01-01-006,Alessandria,Ambiente,10AMB017,66.1,Valori percentuali,+,2023
+01-01-006,Alessandria,Servizi,12SER002P,29.0,Per 10.000 abitanti,+,2023
+01-01-006,Alessandria,Servizi,12SER020,49.0,Valori percentuali,+,2023
+01-01-007,Biella,Salute,01SAL001,82.7,Numero medio di anni,+,2023
+01-01-007,Biella,Istruzione e formazione,02IST003P-N22,29.3,Valori percentuali,+,2023
+01-01-007,Biella,Istruzione e formazione,02IST006-N22,8.0,Valori percentuali,-,2023
+01-01-007,Biella,Lavoro,03LAV001-N22,75.0,Valori percentuali,+,2023
+01-01-007,Biella,Lavoro,03LAV003P-N22,42.7,Valori percentuali,+,2023
+01-01-007,Biella,Economia,04BEC001P,23666.2,Euro,+,2023
+01-01-007,Biella,Economia,04BEC002P,24889.8,Euro,+,2023
+01-01-007,Biella,Sicurezza,07SIC004P,136.2,Per 100.000 abitanti,-,2023
+01-01-007,Biella,Sicurezza,07SIC005P,57.4,Per 100.000 abitanti,-,2023
+01-01-007,Biella,Sicurezza,07SIC006P,16.0,Per 100.000 abitanti,-,2023
+01-01-007,Biella,Ambiente,10AMB008,20.5,M2 per abitante,+,2023
+01-01-007,Biella,Ambiente,10AMB017,72.7,Valori percentuali,+,2023
+01-01-007,Biella,Servizi,12SER002P,24.3,Per 10.000 abitanti,+,2023
+01-01-007,Biella,Servizi,12SER020,64.5,Valori percentuali,+,2023
+01-01-008,Verbano-Cusio-Ossola,Salute,01SAL001,83.0,Numero medio di anni,+,2023
+01-01-008,Verbano-Cusio-Ossola,Istruzione e formazione,02IST003P-N22,23.0,Valori percentuali,+,2023
+01-01-008,Verbano-Cusio-Ossola,Istruzione e formazione,02IST006-N22,16.3,Valori percentuali,-,2023
+01-01-008,Verbano-Cusio-Ossola,Lavoro,03LAV001-N22,72.6,Valori percentuali,+,2023
+01-01-008,Verbano-Cusio-Ossola,Lavoro,03LAV003P-N22,41.3,Valori percentuali,+,2023
+01-01-008,Verbano-Cusio-Ossola,Economia,04BEC001P,21076.9,Euro,+,2023
+01-01-008,Verbano-Cusio-Ossola,Economia,04BEC002P,20722.0,Euro,+,2023
+01-01-008,Verbano-Cusio-Ossola,Sicurezza,07SIC004P,82.5,Per 100.000 abitanti,-,2023
+01-01-008,Verbano-Cusio-Ossola,Sicurezza,07SIC005P,45.5,Per 100.000 abitanti,-,2023
+01-01-008,Verbano-Cusio-Ossola,Sicurezza,07SIC006P,15.6,Per 100.000 abitanti,-,2023
+01-01-008,Verbano-Cusio-Ossola,Ambiente,10AMB008,111.1,M2 per abitante,+,2023
+01-01-008,Verbano-Cusio-Ossola,Ambiente,10AMB017,73.7,Valori percentuali,+,2023
+01-01-008,Verbano-Cusio-Ossola,Servizi,12SER002P,27.9,Per 10.000 abitanti,+,2023
+01-01-008,Verbano-Cusio-Ossola,Servizi,12SER020,32.1,Valori percentuali,+,2023
+01-02-009,Aosta,Salute,01SAL001,83.2,Numero medio di anni,+,2023
+01-02-009,Aosta,Istruzione e formazione,02IST003P-N22,31.7,Valori percentuali,+,2023
+01-02-009,Aosta,Istruzione e formazione,02IST006-N22,9.9,Valori percentuali,-,2023
+01-02-009,Aosta,Lavoro,03LAV001-N22,77.3,Valori percentuali,+,2023
+01-02-009,Aosta,Lavoro,03LAV003P-N22,42.8,Valori percentuali,+,2023
+01-02-009,Aosta,Economia,04BEC001P,25151.3,Euro,+,2023
+01-02-009,Aosta,Economia,04BEC002P,19918.3,Euro,+,2023
+01-02-009,Aosta,Sicurezza,07SIC004P,139.8,Per 100.000 abitanti,-,2023
+01-02-009,Aosta,Sicurezza,07SIC005P,17.9,Per 100.000 abitanti,-,2023
+01-02-009,Aosta,Sicurezza,07SIC006P,13.8,Per 100.000 abitanti,-,2023
+01-02-009,Aosta,Ambiente,10AMB008,19.5,M2 per abitante,+,2023
+01-02-009,Aosta,Ambiente,10AMB017,69.4,Valori percentuali,+,2023
+01-02-009,Aosta,Servizi,12SER002P,29.4,Per 10.000 abitanti,+,2023
+01-02-009,Aosta,Servizi,12SER020,51.3,Valori percentuali,+,2023
+01-03-010,Imperia,Salute,01SAL001,82.3,Numero medio di anni,+,2023
+01-03-010,Imperia,Istruzione e formazione,02IST003P-N22,18.9,Valori percentuali,+,2023
+01-03-010,Imperia,Istruzione e formazione,02IST006-N22,15.2,Valori percentuali,-,2023
+01-03-010,Imperia,Lavoro,03LAV001-N22,67.3,Valori percentuali,+,2023
+01-03-010,Imperia,Lavoro,03LAV003P-N22,39.9,Valori percentuali,+,2023
+01-03-010,Imperia,Economia,04BEC001P,21051.3,Euro,+,2023
+01-03-010,Imperia,Economia,04BEC002P,17682.2,Euro,+,2023
+01-03-010,Imperia,Sicurezza,07SIC004P,190.1,Per 100.000 abitanti,-,2023
+01-03-010,Imperia,Sicurezza,07SIC005P,102.5,Per 100.000 abitanti,-,2023
+01-03-010,Imperia,Sicurezza,07SIC006P,39.3,Per 100.000 abitanti,-,2023
+01-03-010,Imperia,Ambiente,10AMB008,6.6,M2 per abitante,+,2023
+01-03-010,Imperia,Ambiente,10AMB017,55.3,Valori percentuali,+,2023
+01-03-010,Imperia,Servizi,12SER002P,23.9,Per 10.000 abitanti,+,2023
+01-03-010,Imperia,Servizi,12SER020,33.7,Valori percentuali,+,2023
+01-03-011,Savona,Salute,01SAL001,83.2,Numero medio di anni,+,2023
+01-03-011,Savona,Istruzione e formazione,02IST003P-N22,25.7,Valori percentuali,+,2023
+01-03-011,Savona,Istruzione e formazione,02IST006-N22,12.5,Valori percentuali,-,2023
+01-03-011,Savona,Lavoro,03LAV001-N22,69.1,Valori percentuali,+,2023
+01-03-011,Savona,Lavoro,03LAV003P-N22,35.6,Valori percentuali,+,2023
+01-03-011,Savona,Economia,04BEC001P,25179.3,Euro,+,2023
+01-03-011,Savona,Economia,04BEC002P,20107.8,Euro,+,2023
+01-03-011,Savona,Sicurezza,07SIC004P,287.1,Per 100.000 abitanti,-,2023
+01-03-011,Savona,Sicurezza,07SIC005P,218.0,Per 100.000 abitanti,-,2023
+01-03-011,Savona,Sicurezza,07SIC006P,38.5,Per 100.000 abitanti,-,2023
+01-03-011,Savona,Ambiente,10AMB008,5.9,M2 per abitante,+,2023
+01-03-011,Savona,Ambiente,10AMB017,61.7,Valori percentuali,+,2023
+01-03-011,Savona,Servizi,12SER002P,31.5,Per 10.000 abitanti,+,2023
+01-03-011,Savona,Servizi,12SER020,30.4,Valori percentuali,+,2023
+01-03-012,Genova,Salute,01SAL001,83.3,Numero medio di anni,+,2023
+01-03-012,Genova,Istruzione e formazione,02IST003P-N22,34.7,Valori percentuali,+,2023
+01-03-012,Genova,Istruzione e formazione,02IST006-N22,9.7,Valori percentuali,-,2023
+01-03-012,Genova,Lavoro,03LAV001-N22,74.3,Valori percentuali,+,2023
+01-03-012,Genova,Lavoro,03LAV003P-N22,41.4,Valori percentuali,+,2023
+01-03-012,Genova,Economia,04BEC001P,27105.5,Euro,+,2023
+01-03-012,Genova,Economia,04BEC002P,25579.5,Euro,+,2023
+01-03-012,Genova,Sicurezza,07SIC004P,167.9,Per 100.000 abitanti,-,2023
+01-03-012,Genova,Sicurezza,07SIC005P,316.2,Per 100.000 abitanti,-,2023
+01-03-012,Genova,Sicurezza,07SIC006P,78.0,Per 100.000 abitanti,-,2023
+01-03-012,Genova,Ambiente,10AMB008,24.5,M2 per abitante,+,2023
+01-03-012,Genova,Ambiente,10AMB017,52.8,Valori percentuali,+,2023
+01-03-012,Genova,Servizi,12SER002P,49.8,Per 10.000 abitanti,+,2023
+01-03-012,Genova,Servizi,12SER020,73.6,Valori percentuali,+,2023
+01-03-013,La Spezia,Salute,01SAL001,83.4,Numero medio di anni,+,2023
+01-03-013,La Spezia,Istruzione e formazione,02IST003P-N22,28.4,Valori percentuali,+,2023
+01-03-013,La Spezia,Istruzione e formazione,02IST006-N22,11.8,Valori percentuali,-,2023
+01-03-013,La Spezia,Lavoro,03LAV001-N22,72.3,Valori percentuali,+,2023
+01-03-013,La Spezia,Lavoro,03LAV003P-N22,38.0,Valori percentuali,+,2023
+01-03-013,La Spezia,Economia,04BEC001P,21205.0,Euro,+,2023
+01-03-013,La Spezia,Economia,04BEC002P,21891.5,Euro,+,2023
+01-03-013,La Spezia,Sicurezza,07SIC004P,179.1,Per 100.000 abitanti,-,2023
+01-03-013,La Spezia,Sicurezza,07SIC005P,182.3,Per 100.000 abitanti,-,2023
+01-03-013,La Spezia,Sicurezza,07SIC006P,34.4,Per 100.000 abitanti,-,2023
+01-03-013,La Spezia,Ambiente,10AMB008,13.3,M2 per abitante,+,2023
+01-03-013,La Spezia,Ambiente,10AMB017,76.2,Valori percentuali,+,2023
+01-03-013,La Spezia,Servizi,12SER002P,27.7,Per 10.000 abitanti,+,2023
+01-03-013,La Spezia,Servizi,12SER020,39.8,Valori percentuali,+,2023
+01-04-014,Varese,Salute,01SAL001,83.9,Numero medio di anni,+,2023
+01-04-014,Varese,Istruzione e formazione,02IST003P-N22,35.6,Valori percentuali,+,2023
+01-04-014,Varese,Istruzione e formazione,02IST006-N22,10.3,Valori percentuali,-,2023
+01-04-014,Varese,Lavoro,03LAV001-N22,75.3,Valori percentuali,+,2023
+01-04-014,Varese,Lavoro,03LAV003P-N22,42.5,Valori percentuali,+,2023
+01-04-014,Varese,Economia,04BEC001P,22989.0,Euro,+,2023
+01-04-014,Varese,Economia,04BEC002P,26059.0,Euro,+,2023
+01-04-014,Varese,Sicurezza,07SIC004P,317.8,Per 100.000 abitanti,-,2023
+01-04-014,Varese,Sicurezza,07SIC005P,139.7,Per 100.000 abitanti,-,2023
+01-04-014,Varese,Sicurezza,07SIC006P,31.4,Per 100.000 abitanti,-,2023
+01-04-014,Varese,Ambiente,10AMB008,20.3,M2 per abitante,+,2023
+01-04-014,Varese,Ambiente,10AMB017,78.1,Valori percentuali,+,2023
+01-04-014,Varese,Servizi,12SER002P,28.4,Per 10.000 abitanti,+,2023
+01-04-014,Varese,Servizi,12SER020,44.1,Valori percentuali,+,2023
+01-04-015,Como,Salute,01SAL001,84.1,Numero medio di anni,+,2023
+01-04-015,Como,Istruzione e formazione,02IST003P-N22,34.8,Valori percentuali,+,2023
+01-04-015,Como,Istruzione e formazione,02IST006-N22,9.9,Valori percentuali,-,2023
+01-04-015,Como,Lavoro,03LAV001-N22,73.3,Valori percentuali,+,2023
+01-04-015,Como,Lavoro,03LAV003P-N22,43.3,Valori percentuali,+,2023
+01-04-015,Como,Economia,04BEC001P,23047.4,Euro,+,2023
+01-04-015,Como,Economia,04BEC002P,24241.2,Euro,+,2023
+01-04-015,Como,Sicurezza,07SIC004P,365.8,Per 100.000 abitanti,-,2023
+01-04-015,Como,Sicurezza,07SIC005P,95.5,Per 100.000 abitanti,-,2023
+01-04-015,Como,Sicurezza,07SIC006P,31.8,Per 100.000 abitanti,-,2023
+01-04-015,Como,Ambiente,10AMB008,20.7,M2 per abitante,+,2023
+01-04-015,Como,Ambiente,10AMB017,71.2,Valori percentuali,+,2023
+01-04-015,Como,Servizi,12SER002P,23.1,Per 10.000 abitanti,+,2023
+01-04-015,Como,Servizi,12SER020,44.9,Valori percentuali,+,2023
+01-04-016,Sondrio,Salute,01SAL001,83.4,Numero medio di anni,+,2023
+01-04-016,Sondrio,Istruzione e formazione,02IST003P-N22,24.5,Valori percentuali,+,2023
+01-04-016,Sondrio,Istruzione e formazione,02IST006-N22,11.3,Valori percentuali,-,2023
+01-04-016,Sondrio,Lavoro,03LAV001-N22,69.1,Valori percentuali,+,2023
+01-04-016,Sondrio,Lavoro,03LAV003P-N22,42.5,Valori percentuali,+,2023
+01-04-016,Sondrio,Economia,04BEC001P,22372.4,Euro,+,2023
+01-04-016,Sondrio,Economia,04BEC002P,21771.5,Euro,+,2023
+01-04-016,Sondrio,Sicurezza,07SIC004P,95.6,Per 100.000 abitanti,-,2023
+01-04-016,Sondrio,Sicurezza,07SIC005P,19.0,Per 100.000 abitanti,-,2023
+01-04-016,Sondrio,Sicurezza,07SIC006P,11.2,Per 100.000 abitanti,-,2023
+01-04-016,Sondrio,Ambiente,10AMB008,303.1,M2 per abitante,+,2023
+01-04-016,Sondrio,Ambiente,10AMB017,55.8,Valori percentuali,+,2023
+01-04-016,Sondrio,Servizi,12SER002P,22.4,Per 10.000 abitanti,+,2023
+01-04-016,Sondrio,Servizi,12SER020,60.2,Valori percentuali,+,2023
+01-04-017,Milano,Salute,01SAL001,84.2,Numero medio di anni,+,2023
+01-04-017,Milano,Istruzione e formazione,02IST003P-N22,42.6,Valori percentuali,+,2023
+01-04-017,Milano,Istruzione e formazione,02IST006-N22,9.6,Valori percentuali,-,2023
+01-04-017,Milano,Lavoro,03LAV001-N22,76.5,Valori percentuali,+,2023
+01-04-017,Milano,Lavoro,03LAV003P-N22,41.7,Valori percentuali,+,2023
+01-04-017,Milano,Economia,04BEC001P,34885.3,Euro,+,2023
+01-04-017,Milano,Economia,04BEC002P,34343.0,Euro,+,2023
+01-04-017,Milano,Sicurezza,07SIC004P,295.0,Per 100.000 abitanti,-,2023
+01-04-017,Milano,Sicurezza,07SIC005P,905.5,Per 100.000 abitanti,-,2023
+01-04-017,Milano,Sicurezza,07SIC006P,128.8,Per 100.000 abitanti,-,2023
+01-04-017,Milano,Ambiente,10AMB008,18.8,M2 per abitante,+,2023
+01-04-017,Milano,Ambiente,10AMB017,68.7,Valori percentuali,+,2023
+01-04-017,Milano,Servizi,12SER002P,44.3,Per 10.000 abitanti,+,2023
+01-04-017,Milano,Servizi,12SER020,78.1,Valori percentuali,+,2023
+01-04-018,Bergamo,Salute,01SAL001,83.6,Numero medio di anni,+,2023
+01-04-018,Bergamo,Istruzione e formazione,02IST003P-N22,25.0,Valori percentuali,+,2023
+01-04-018,Bergamo,Istruzione e formazione,02IST006-N22,11.3,Valori percentuali,-,2023
+01-04-018,Bergamo,Lavoro,03LAV001-N22,73.0,Valori percentuali,+,2023
+01-04-018,Bergamo,Lavoro,03LAV003P-N22,44.7,Valori percentuali,+,2023
+01-04-018,Bergamo,Economia,04BEC001P,23867.1,Euro,+,2023
+01-04-018,Bergamo,Economia,04BEC002P,26083.3,Euro,+,2023
+01-04-018,Bergamo,Sicurezza,07SIC004P,291.3,Per 100.000 abitanti,-,2023
+01-04-018,Bergamo,Sicurezza,07SIC005P,96.0,Per 100.000 abitanti,-,2023
+01-04-018,Bergamo,Sicurezza,07SIC006P,40.1,Per 100.000 abitanti,-,2023
+01-04-018,Bergamo,Ambiente,10AMB008,25.8,M2 per abitante,+,2023
+01-04-018,Bergamo,Ambiente,10AMB017,80.5,Valori percentuali,+,2023
+01-04-018,Bergamo,Servizi,12SER002P,23.8,Per 10.000 abitanti,+,2023
+01-04-018,Bergamo,Servizi,12SER020,54.2,Valori percentuali,+,2023
+01-04-019,Brescia,Salute,01SAL001,84.1,Numero medio di anni,+,2023
+01-04-019,Brescia,Istruzione e formazione,02IST003P-N22,26.7,Valori percentuali,+,2023
+01-04-019,Brescia,Istruzione e formazione,02IST006-N22,10.2,Valori percentuali,-,2023
+01-04-019,Brescia,Lavoro,03LAV001-N22,72.0,Valori percentuali,+,2023
+01-04-019,Brescia,Lavoro,03LAV003P-N22,45.6,Valori percentuali,+,2023
+01-04-019,Brescia,Economia,04BEC001P,22705.5,Euro,+,2023
+01-04-019,Brescia,Economia,04BEC002P,24587.7,Euro,+,2023
+01-04-019,Brescia,Sicurezza,07SIC004P,356.0,Per 100.000 abitanti,-,2023
+01-04-019,Brescia,Sicurezza,07SIC005P,169.5,Per 100.000 abitanti,-,2023
+01-04-019,Brescia,Sicurezza,07SIC006P,45.1,Per 100.000 abitanti,-,2023
+01-04-019,Brescia,Ambiente,10AMB008,25.3,M2 per abitante,+,2023
+01-04-019,Brescia,Ambiente,10AMB017,77.2,Valori percentuali,+,2023
+01-04-019,Brescia,Servizi,12SER002P,29.6,Per 10.000 abitanti,+,2023
+01-04-019,Brescia,Servizi,12SER020,42.1,Valori percentuali,+,2023
+01-04-020,Pavia,Salute,01SAL001,82.3,Numero medio di anni,+,2023
+01-04-020,Pavia,Istruzione e formazione,02IST003P-N22,26.1,Valori percentuali,+,2023
+01-04-020,Pavia,Istruzione e formazione,02IST006-N22,16.2,Valori percentuali,-,2023
+01-04-020,Pavia,Lavoro,03LAV001-N22,72.9,Valori percentuali,+,2023
+01-04-020,Pavia,Lavoro,03LAV003P-N22,37.1,Valori percentuali,+,2023
+01-04-020,Pavia,Economia,04BEC001P,21323.2,Euro,+,2023
+01-04-020,Pavia,Economia,04BEC002P,22843.5,Euro,+,2023
+01-04-020,Pavia,Sicurezza,07SIC004P,370.6,Per 100.000 abitanti,-,2023
+01-04-020,Pavia,Sicurezza,07SIC005P,179.2,Per 100.000 abitanti,-,2023
+01-04-020,Pavia,Sicurezza,07SIC006P,39.8,Per 100.000 abitanti,-,2023
+01-04-020,Pavia,Ambiente,10AMB008,24.7,M2 per abitante,+,2023
+01-04-020,Pavia,Ambiente,10AMB017,59.9,Valori percentuali,+,2023
+01-04-020,Pavia,Servizi,12SER002P,43.8,Per 10.000 abitanti,+,2023
+01-04-020,Pavia,Servizi,12SER020,35.3,Valori percentuali,+,2023
+01-04-021,Cremona,Salute,01SAL001,83.5,Numero medio di anni,+,2023
+01-04-021,Cremona,Istruzione e formazione,02IST003P-N22,23.8,Valori percentuali,+,2023
+01-04-021,Cremona,Istruzione e formazione,02IST006-N22,14.3,Valori percentuali,-,2023
+01-04-021,Cremona,Lavoro,03LAV001-N22,74.2,Valori percentuali,+,2023
+01-04-021,Cremona,Lavoro,03LAV003P-N22,44.1,Valori percentuali,+,2023
+01-04-021,Cremona,Economia,04BEC001P,21278.1,Euro,+,2023
+01-04-021,Cremona,Economia,04BEC002P,24743.4,Euro,+,2023
+01-04-021,Cremona,Sicurezza,07SIC004P,277.4,Per 100.000 abitanti,-,2023
+01-04-021,Cremona,Sicurezza,07SIC005P,128.9,Per 100.000 abitanti,-,2023
+01-04-021,Cremona,Sicurezza,07SIC006P,28.3,Per 100.000 abitanti,-,2023
+01-04-021,Cremona,Ambiente,10AMB008,33.3,M2 per abitante,+,2023
+01-04-021,Cremona,Ambiente,10AMB017,78.0,Valori percentuali,+,2023
+01-04-021,Cremona,Servizi,12SER002P,27.6,Per 10.000 abitanti,+,2023
+01-04-021,Cremona,Servizi,12SER020,64.9,Valori percentuali,+,2023
+01-04-022,Mantova,Salute,01SAL001,83.1,Numero medio di anni,+,2023
+01-04-022,Mantova,Istruzione e formazione,02IST003P-N22,22.3,Valori percentuali,+,2023
+01-04-022,Mantova,Istruzione e formazione,02IST006-N22,9.8,Valori percentuali,-,2023
+01-04-022,Mantova,Lavoro,03LAV001-N22,74.2,Valori percentuali,+,2023
+01-04-022,Mantova,Lavoro,03LAV003P-N22,44.9,Valori percentuali,+,2023
+01-04-022,Mantova,Economia,04BEC001P,21530.8,Euro,+,2023
+01-04-022,Mantova,Economia,04BEC002P,24358.6,Euro,+,2023
+01-04-022,Mantova,Sicurezza,07SIC004P,290.7,Per 100.000 abitanti,-,2023
+01-04-022,Mantova,Sicurezza,07SIC005P,110.4,Per 100.000 abitanti,-,2023
+01-04-022,Mantova,Sicurezza,07SIC006P,25.8,Per 100.000 abitanti,-,2023
+01-04-022,Mantova,Ambiente,10AMB008,40.8,M2 per abitante,+,2023
+01-04-022,Mantova,Ambiente,10AMB017,87.0,Valori percentuali,+,2023
+01-04-022,Mantova,Servizi,12SER002P,22.6,Per 10.000 abitanti,+,2023
+01-04-022,Mantova,Servizi,12SER020,81.0,Valori percentuali,+,2023
+01-04-023,Lecco,Salute,01SAL001,84.4,Numero medio di anni,+,2023
+01-04-023,Lecco,Istruzione e formazione,02IST003P-N22,35.9,Valori percentuali,+,2023
+01-04-023,Lecco,Istruzione e formazione,02IST006-N22,9.2,Valori percentuali,-,2023
+01-04-023,Lecco,Lavoro,03LAV001-N22,73.5,Valori percentuali,+,2023
+01-04-023,Lecco,Lavoro,03LAV003P-N22,43.6,Valori percentuali,+,2023
+01-04-023,Lecco,Economia,04BEC001P,24704.8,Euro,+,2023
+01-04-023,Lecco,Economia,04BEC002P,26766.8,Euro,+,2023
+01-04-023,Lecco,Sicurezza,07SIC004P,307.0,Per 100.000 abitanti,-,2023
+01-04-023,Lecco,Sicurezza,07SIC005P,67.2,Per 100.000 abitanti,-,2023
+01-04-023,Lecco,Sicurezza,07SIC006P,33.0,Per 100.000 abitanti,-,2023
+01-04-023,Lecco,Ambiente,10AMB008,15.8,M2 per abitante,+,2023
+01-04-023,Lecco,Ambiente,10AMB017,78.6,Valori percentuali,+,2023
+01-04-023,Lecco,Servizi,12SER002P,24.6,Per 10.000 abitanti,+,2023
+01-04-023,Lecco,Servizi,12SER020,36.2,Valori percentuali,+,2023
+01-04-024,Lodi,Salute,01SAL001,83.4,Numero medio di anni,+,2023
+01-04-024,Lodi,Istruzione e formazione,02IST003P-N22,22.4,Valori percentuali,+,2023
+01-04-024,Lodi,Istruzione e formazione,02IST006-N22,13.4,Valori percentuali,-,2023
+01-04-024,Lodi,Lavoro,03LAV001-N22,73.1,Valori percentuali,+,2023
+01-04-024,Lodi,Lavoro,03LAV003P-N22,40.4,Valori percentuali,+,2023
+01-04-024,Lodi,Economia,04BEC001P,20091.3,Euro,+,2023
+01-04-024,Lodi,Economia,04BEC002P,25459.9,Euro,+,2023
+01-04-024,Lodi,Sicurezza,07SIC004P,253.4,Per 100.000 abitanti,-,2023
+01-04-024,Lodi,Sicurezza,07SIC005P,95.2,Per 100.000 abitanti,-,2023
+01-04-024,Lodi,Sicurezza,07SIC006P,35.8,Per 100.000 abitanti,-,2023
+01-04-024,Lodi,Ambiente,10AMB008,56.7,M2 per abitante,+,2023
+01-04-024,Lodi,Ambiente,10AMB017,74.8,Valori percentuali,+,2023
+01-04-024,Lodi,Servizi,12SER002P,21.9,Per 10.000 abitanti,+,2023
+01-04-024,Lodi,Servizi,12SER020,41.0,Valori percentuali,+,2023
+01-04-025,Monza e della Brianza,Salute,01SAL001,84.5,Numero medio di anni,+,2023
+01-04-025,Monza e della Brianza,Istruzione e formazione,02IST003P-N22,45.9,Valori percentuali,+,2023
+01-04-025,Monza e della Brianza,Istruzione e formazione,02IST006-N22,10.6,Valori percentuali,-,2023
+01-04-025,Monza e della Brianza,Lavoro,03LAV001-N22,76.6,Valori percentuali,+,2023
+01-04-025,Monza e della Brianza,Lavoro,03LAV003P-N22,38.2,Valori percentuali,+,2023
+01-04-025,Monza e della Brianza,Economia,04BEC001P,29452.1,Euro,+,2023
+01-04-025,Monza e della Brianza,Economia,04BEC002P,28833.1,Euro,+,2023
+01-04-025,Monza e della Brianza,Sicurezza,07SIC004P,372.4,Per 100.000 abitanti,-,2023
+01-04-025,Monza e della Brianza,Sicurezza,07SIC005P,148.8,Per 100.000 abitanti,-,2023
+01-04-025,Monza e della Brianza,Sicurezza,07SIC006P,31.3,Per 100.000 abitanti,-,2023
+01-04-025,Monza e della Brianza,Ambiente,10AMB008,74.4,M2 per abitante,+,2023
+01-04-025,Monza e della Brianza,Ambiente,10AMB017,79.9,Valori percentuali,+,2023
+01-04-025,Monza e della Brianza,Servizi,12SER002P,24.8,Per 10.000 abitanti,+,2023
+01-04-025,Monza e della Brianza,Servizi,12SER020,48.5,Valori percentuali,+,2023
+02-05-001,Bolzano/Bozen,Salute,01SAL001,84.2,Numero medio di anni,+,2023
+02-05-001,Bolzano/Bozen,Istruzione e formazione,02IST003P-N22,24.3,Valori percentuali,+,2023
+02-05-001,Bolzano/Bozen,Istruzione e formazione,02IST006-N22,8.0,Valori percentuali,-,2023
+02-05-001,Bolzano/Bozen,Lavoro,03LAV001-N22,79.6,Valori percentuali,+,2023
+02-05-001,Bolzano/Bozen,Lavoro,03LAV003P-N22,50.7,Valori percentuali,+,2023
+02-05-001,Bolzano/Bozen,Economia,04BEC001P,31352.3,Euro,+,2023
+02-05-001,Bolzano/Bozen,Economia,04BEC002P,26020.3,Euro,+,2023
+02-05-001,Bolzano/Bozen,Sicurezza,07SIC004P,195.3,Per 100.000 abitanti,-,2023
+02-05-001,Bolzano/Bozen,Sicurezza,07SIC005P,104.2,Per 100.000 abitanti,-,2023
+02-05-001,Bolzano/Bozen,Sicurezza,07SIC006P,44.1,Per 100.000 abitanti,-,2023
+02-05-001,Bolzano/Bozen,Ambiente,10AMB008,228.4,M2 per abitante,+,2023
+02-05-001,Bolzano/Bozen,Ambiente,10AMB017,69.3,Valori percentuali,+,2023
+02-05-001,Bolzano/Bozen,Servizi,12SER002P,29.6,Per 10.000 abitanti,+,2023
+02-05-001,Bolzano/Bozen,Servizi,12SER020,,Valori percentuali,+,2023
+02-06-001,Trento,Salute,01SAL001,84.5,Numero medio di anni,+,2023
+02-06-001,Trento,Istruzione e formazione,02IST003P-N22,35.1,Valori percentuali,+,2023
+02-06-001,Trento,Istruzione e formazione,02IST006-N22,9.7,Valori percentuali,-,2023
+02-06-001,Trento,Lavoro,03LAV001-N22,75.6,Valori percentuali,+,2023
+02-06-001,Trento,Lavoro,03LAV003P-N22,46.3,Valori percentuali,+,2023
+02-06-001,Trento,Economia,04BEC001P,24944.2,Euro,+,2023
+02-06-001,Trento,Economia,04BEC002P,22434.9,Euro,+,2023
+02-06-001,Trento,Sicurezza,07SIC004P,183.6,Per 100.000 abitanti,-,2023
+02-06-001,Trento,Sicurezza,07SIC005P,93.6,Per 100.000 abitanti,-,2023
+02-06-001,Trento,Sicurezza,07SIC006P,16.7,Per 100.000 abitanti,-,2023
+02-06-001,Trento,Ambiente,10AMB008,400.9,M2 per abitante,+,2023
+02-06-001,Trento,Ambiente,10AMB017,81.2,Valori percentuali,+,2023
+02-06-001,Trento,Servizi,12SER002P,25.7,Per 10.000 abitanti,+,2023
+02-06-001,Trento,Servizi,12SER020,77.6,Valori percentuali,+,2023
+02-07-028,Verona,Salute,01SAL001,84.0,Numero medio di anni,+,2023
+02-07-028,Verona,Istruzione e formazione,02IST003P-N22,34.6,Valori percentuali,+,2023
+02-07-028,Verona,Istruzione e formazione,02IST006-N22,10.4,Valori percentuali,-,2023
+02-07-028,Verona,Lavoro,03LAV001-N22,77.9,Valori percentuali,+,2023
+02-07-028,Verona,Lavoro,03LAV003P-N22,41.6,Valori percentuali,+,2023
+02-07-028,Verona,Economia,04BEC001P,24656.0,Euro,+,2023
+02-07-028,Verona,Economia,04BEC002P,24239.0,Euro,+,2023
+02-07-028,Verona,Sicurezza,07SIC004P,374.7,Per 100.000 abitanti,-,2023
+02-07-028,Verona,Sicurezza,07SIC005P,205.0,Per 100.000 abitanti,-,2023
+02-07-028,Verona,Sicurezza,07SIC006P,51.5,Per 100.000 abitanti,-,2023
+02-07-028,Verona,Ambiente,10AMB008,28.0,M2 per abitante,+,2023
+02-07-028,Verona,Ambiente,10AMB017,72.4,Valori percentuali,+,2023
+02-07-028,Verona,Servizi,12SER002P,37.3,Per 10.000 abitanti,+,2023
+02-07-028,Verona,Servizi,12SER020,61.4,Valori percentuali,+,2023
+02-07-029,Vicenza,Salute,01SAL001,84.2,Numero medio di anni,+,2023
+02-07-029,Vicenza,Istruzione e formazione,02IST003P-N22,31.9,Valori percentuali,+,2023
+02-07-029,Vicenza,Istruzione e formazione,02IST006-N22,12.3,Valori percentuali,-,2023
+02-07-029,Vicenza,Lavoro,03LAV001-N22,75.5,Valori percentuali,+,2023
+02-07-029,Vicenza,Lavoro,03LAV003P-N22,45.3,Valori percentuali,+,2023
+02-07-029,Vicenza,Economia,04BEC001P,24987.5,Euro,+,2023
+02-07-029,Vicenza,Economia,04BEC002P,25652.2,Euro,+,2023
+02-07-029,Vicenza,Sicurezza,07SIC004P,304.7,Per 100.000 abitanti,-,2023
+02-07-029,Vicenza,Sicurezza,07SIC005P,88.2,Per 100.000 abitanti,-,2023
+02-07-029,Vicenza,Sicurezza,07SIC006P,28.5,Per 100.000 abitanti,-,2023
+02-07-029,Vicenza,Ambiente,10AMB008,28.4,M2 per abitante,+,2023
+02-07-029,Vicenza,Ambiente,10AMB017,79.4,Valori percentuali,+,2023
+02-07-029,Vicenza,Servizi,12SER002P,22.4,Per 10.000 abitanti,+,2023
+02-07-029,Vicenza,Servizi,12SER020,53.6,Valori percentuali,+,2023
+02-07-030,Belluno,Salute,01SAL001,83.1,Numero medio di anni,+,2023
+02-07-030,Belluno,Istruzione e formazione,02IST003P-N22,31.7,Valori percentuali,+,2023
+02-07-030,Belluno,Istruzione e formazione,02IST006-N22,5.2,Valori percentuali,-,2023
+02-07-030,Belluno,Lavoro,03LAV001-N22,76.4,Valori percentuali,+,2023
+02-07-030,Belluno,Lavoro,03LAV003P-N22,45.8,Valori percentuali,+,2023
+02-07-030,Belluno,Economia,04BEC001P,24403.7,Euro,+,2023
+02-07-030,Belluno,Economia,04BEC002P,23776.0,Euro,+,2023
+02-07-030,Belluno,Sicurezza,07SIC004P,165.7,Per 100.000 abitanti,-,2023
+02-07-030,Belluno,Sicurezza,07SIC005P,18.7,Per 100.000 abitanti,-,2023
+02-07-030,Belluno,Sicurezza,07SIC006P,10.1,Per 100.000 abitanti,-,2023
+02-07-030,Belluno,Ambiente,10AMB008,25.0,M2 per abitante,+,2023
+02-07-030,Belluno,Ambiente,10AMB017,85.8,Valori percentuali,+,2023
+02-07-030,Belluno,Servizi,12SER002P,25.3,Per 10.000 abitanti,+,2023
+02-07-030,Belluno,Servizi,12SER020,45.0,Valori percentuali,+,2023
+02-07-031,Treviso,Salute,01SAL001,84.4,Numero medio di anni,+,2023
+02-07-031,Treviso,Istruzione e formazione,02IST003P-N22,24.5,Valori percentuali,+,2023
+02-07-031,Treviso,Istruzione e formazione,02IST006-N22,11.6,Valori percentuali,-,2023
+02-07-031,Treviso,Lavoro,03LAV001-N22,74.7,Valori percentuali,+,2023
+02-07-031,Treviso,Lavoro,03LAV003P-N22,45.5,Valori percentuali,+,2023
+02-07-031,Treviso,Economia,04BEC001P,23521.7,Euro,+,2023
+02-07-031,Treviso,Economia,04BEC002P,25358.3,Euro,+,2023
+02-07-031,Treviso,Sicurezza,07SIC004P,306.0,Per 100.000 abitanti,-,2023
+02-07-031,Treviso,Sicurezza,07SIC005P,53.6,Per 100.000 abitanti,-,2023
+02-07-031,Treviso,Sicurezza,07SIC006P,18.7,Per 100.000 abitanti,-,2023
+02-07-031,Treviso,Ambiente,10AMB008,24.0,M2 per abitante,+,2023
+02-07-031,Treviso,Ambiente,10AMB017,89.1,Valori percentuali,+,2023
+02-07-031,Treviso,Servizi,12SER002P,22.1,Per 10.000 abitanti,+,2023
+02-07-031,Treviso,Servizi,12SER020,50.7,Valori percentuali,+,2023
+02-07-032,Venezia,Salute,01SAL001,83.7,Numero medio di anni,+,2023
+02-07-032,Venezia,Istruzione e formazione,02IST003P-N22,30.0,Valori percentuali,+,2023
+02-07-032,Venezia,Istruzione e formazione,02IST006-N22,9.5,Valori percentuali,-,2023
+02-07-032,Venezia,Lavoro,03LAV001-N22,74.6,Valori percentuali,+,2023
+02-07-032,Venezia,Lavoro,03LAV003P-N22,42.5,Valori percentuali,+,2023
+02-07-032,Venezia,Economia,04BEC001P,23894.1,Euro,+,2023
+02-07-032,Venezia,Economia,04BEC002P,22466.4,Euro,+,2023
+02-07-032,Venezia,Sicurezza,07SIC004P,347.9,Per 100.000 abitanti,-,2023
+02-07-032,Venezia,Sicurezza,07SIC005P,806.5,Per 100.000 abitanti,-,2023
+02-07-032,Venezia,Sicurezza,07SIC006P,52.9,Per 100.000 abitanti,-,2023
+02-07-032,Venezia,Ambiente,10AMB008,48.5,M2 per abitante,+,2023
+02-07-032,Venezia,Ambiente,10AMB017,72.9,Valori percentuali,+,2023
+02-07-032,Venezia,Servizi,12SER002P,25.3,Per 10.000 abitanti,+,2023
+02-07-032,Venezia,Servizi,12SER020,59.5,Valori percentuali,+,2023
+02-07-033,Padova,Salute,01SAL001,84.1,Numero medio di anni,+,2023
+02-07-033,Padova,Istruzione e formazione,02IST003P-N22,38.1,Valori percentuali,+,2023
+02-07-033,Padova,Istruzione e formazione,02IST006-N22,8.3,Valori percentuali,-,2023
+02-07-033,Padova,Lavoro,03LAV001-N22,76.8,Valori percentuali,+,2023
+02-07-033,Padova,Lavoro,03LAV003P-N22,48.5,Valori percentuali,+,2023
+02-07-033,Padova,Economia,04BEC001P,24502.1,Euro,+,2023
+02-07-033,Padova,Economia,04BEC002P,25486.2,Euro,+,2023
+02-07-033,Padova,Sicurezza,07SIC004P,347.8,Per 100.000 abitanti,-,2023
+02-07-033,Padova,Sicurezza,07SIC005P,150.0,Per 100.000 abitanti,-,2023
+02-07-033,Padova,Sicurezza,07SIC006P,30.1,Per 100.000 abitanti,-,2023
+02-07-033,Padova,Ambiente,10AMB008,44.9,M2 per abitante,+,2023
+02-07-033,Padova,Ambiente,10AMB017,75.8,Valori percentuali,+,2023
+02-07-033,Padova,Servizi,12SER002P,40.4,Per 10.000 abitanti,+,2023
+02-07-033,Padova,Servizi,12SER020,64.5,Valori percentuali,+,2023
+02-07-034,Rovigo,Salute,01SAL001,82.8,Numero medio di anni,+,2023
+02-07-034,Rovigo,Istruzione e formazione,02IST003P-N22,23.5,Valori percentuali,+,2023
+02-07-034,Rovigo,Istruzione e formazione,02IST006-N22,17.5,Valori percentuali,-,2023
+02-07-034,Rovigo,Lavoro,03LAV001-N22,71.3,Valori percentuali,+,2023
+02-07-034,Rovigo,Lavoro,03LAV003P-N22,43.9,Valori percentuali,+,2023
+02-07-034,Rovigo,Economia,04BEC001P,19658.1,Euro,+,2023
+02-07-034,Rovigo,Economia,04BEC002P,21233.8,Euro,+,2023
+02-07-034,Rovigo,Sicurezza,07SIC004P,289.4,Per 100.000 abitanti,-,2023
+02-07-034,Rovigo,Sicurezza,07SIC005P,95.7,Per 100.000 abitanti,-,2023
+02-07-034,Rovigo,Sicurezza,07SIC006P,16.7,Per 100.000 abitanti,-,2023
+02-07-034,Rovigo,Ambiente,10AMB008,38.0,M2 per abitante,+,2023
+02-07-034,Rovigo,Ambiente,10AMB017,78.3,Valori percentuali,+,2023
+02-07-034,Rovigo,Servizi,12SER002P,29.4,Per 10.000 abitanti,+,2023
+02-07-034,Rovigo,Servizi,12SER020,56.5,Valori percentuali,+,2023
+02-08-035,Udine,Salute,01SAL001,83.7,Numero medio di anni,+,2023
+02-08-035,Udine,Istruzione e formazione,02IST003P-N22,33.4,Valori percentuali,+,2023
+02-08-035,Udine,Istruzione e formazione,02IST006-N22,10.8,Valori percentuali,-,2023
+02-08-035,Udine,Lavoro,03LAV001-N22,74.2,Valori percentuali,+,2023
+02-08-035,Udine,Lavoro,03LAV003P-N22,39.3,Valori percentuali,+,2023
+02-08-035,Udine,Economia,04BEC001P,23419.0,Euro,+,2023
+02-08-035,Udine,Economia,04BEC002P,23670.0,Euro,+,2023
+02-08-035,Udine,Sicurezza,07SIC004P,328.0,Per 100.000 abitanti,-,2023
+02-08-035,Udine,Sicurezza,07SIC005P,74.4,Per 100.000 abitanti,-,2023
+02-08-035,Udine,Sicurezza,07SIC006P,19.9,Per 100.000 abitanti,-,2023
+02-08-035,Udine,Ambiente,10AMB008,22.1,M2 per abitante,+,2023
+02-08-035,Udine,Ambiente,10AMB017,74.6,Valori percentuali,+,2023
+02-08-035,Udine,Servizi,12SER002P,33.2,Per 10.000 abitanti,+,2023
+02-08-035,Udine,Servizi,12SER020,58.0,Valori percentuali,+,2023
+02-08-036,Gorizia,Salute,01SAL001,83.2,Numero medio di anni,+,2023
+02-08-036,Gorizia,Istruzione e formazione,02IST003P-N22,26.1,Valori percentuali,+,2023
+02-08-036,Gorizia,Istruzione e formazione,02IST006-N22,12.0,Valori percentuali,-,2023
+02-08-036,Gorizia,Lavoro,03LAV001-N22,69.9,Valori percentuali,+,2023
+02-08-036,Gorizia,Lavoro,03LAV003P-N22,41.8,Valori percentuali,+,2023
+02-08-036,Gorizia,Economia,04BEC001P,19961.1,Euro,+,2023
+02-08-036,Gorizia,Economia,04BEC002P,22220.4,Euro,+,2023
+02-08-036,Gorizia,Sicurezza,07SIC004P,127.3,Per 100.000 abitanti,-,2023
+02-08-036,Gorizia,Sicurezza,07SIC005P,50.6,Per 100.000 abitanti,-,2023
+02-08-036,Gorizia,Sicurezza,07SIC006P,17.4,Per 100.000 abitanti,-,2023
+02-08-036,Gorizia,Ambiente,10AMB008,140.2,M2 per abitante,+,2023
+02-08-036,Gorizia,Ambiente,10AMB017,71.4,Valori percentuali,+,2023
+02-08-036,Gorizia,Servizi,12SER002P,23.8,Per 10.000 abitanti,+,2023
+02-08-036,Gorizia,Servizi,12SER020,52.6,Valori percentuali,+,2023
+02-08-037,Trieste,Salute,01SAL001,82.8,Numero medio di anni,+,2023
+02-08-037,Trieste,Istruzione e formazione,02IST003P-N22,41.1,Valori percentuali,+,2023
+02-08-037,Trieste,Istruzione e formazione,02IST006-N22,12.8,Valori percentuali,-,2023
+02-08-037,Trieste,Lavoro,03LAV001-N22,76.6,Valori percentuali,+,2023
+02-08-037,Trieste,Lavoro,03LAV003P-N22,39.8,Valori percentuali,+,2023
+02-08-037,Trieste,Economia,04BEC001P,24886.0,Euro,+,2023
+02-08-037,Trieste,Economia,04BEC002P,25925.8,Euro,+,2023
+02-08-037,Trieste,Sicurezza,07SIC004P,267.0,Per 100.000 abitanti,-,2023
+02-08-037,Trieste,Sicurezza,07SIC005P,101.4,Per 100.000 abitanti,-,2023
+02-08-037,Trieste,Sicurezza,07SIC006P,65.6,Per 100.000 abitanti,-,2023
+02-08-037,Trieste,Ambiente,10AMB008,62.7,M2 per abitante,+,2023
+02-08-037,Trieste,Ambiente,10AMB017,50.8,Valori percentuali,+,2023
+02-08-037,Trieste,Servizi,12SER002P,51.8,Per 10.000 abitanti,+,2023
+02-08-037,Trieste,Servizi,12SER020,81.1,Valori percentuali,+,2023
+02-08-038,Pordenone,Salute,01SAL001,84.0,Numero medio di anni,+,2023
+02-08-038,Pordenone,Istruzione e formazione,02IST003P-N22,20.7,Valori percentuali,+,2023
+02-08-038,Pordenone,Istruzione e formazione,02IST006-N22,9.6,Valori percentuali,-,2023
+02-08-038,Pordenone,Lavoro,03LAV001-N22,72.8,Valori percentuali,+,2023
+02-08-038,Pordenone,Lavoro,03LAV003P-N22,37.2,Valori percentuali,+,2023
+02-08-038,Pordenone,Economia,04BEC001P,24164.8,Euro,+,2023
+02-08-038,Pordenone,Economia,04BEC002P,24687.6,Euro,+,2023
+02-08-038,Pordenone,Sicurezza,07SIC004P,313.5,Per 100.000 abitanti,-,2023
+02-08-038,Pordenone,Sicurezza,07SIC005P,27.0,Per 100.000 abitanti,-,2023
+02-08-038,Pordenone,Sicurezza,07SIC006P,13.8,Per 100.000 abitanti,-,2023
+02-08-038,Pordenone,Ambiente,10AMB008,44.0,M2 per abitante,+,2023
+02-08-038,Pordenone,Ambiente,10AMB017,85.4,Valori percentuali,+,2023
+02-08-038,Pordenone,Servizi,12SER002P,27.4,Per 10.000 abitanti,+,2023
+02-08-038,Pordenone,Servizi,12SER020,36.8,Valori percentuali,+,2023
+02-09-039,Piacenza,Salute,01SAL001,83.0,Numero medio di anni,+,2023
+02-09-039,Piacenza,Istruzione e formazione,02IST003P-N22,25.7,Valori percentuali,+,2023
+02-09-039,Piacenza,Istruzione e formazione,02IST006-N22,11.2,Valori percentuali,-,2023
+02-09-039,Piacenza,Lavoro,03LAV001-N22,75.5,Valori percentuali,+,2023
+02-09-039,Piacenza,Lavoro,03LAV003P-N22,45.5,Valori percentuali,+,2023
+02-09-039,Piacenza,Economia,04BEC001P,23913.6,Euro,+,2023
+02-09-039,Piacenza,Economia,04BEC002P,24380.1,Euro,+,2023
+02-09-039,Piacenza,Sicurezza,07SIC004P,344.5,Per 100.000 abitanti,-,2023
+02-09-039,Piacenza,Sicurezza,07SIC005P,166.3,Per 100.000 abitanti,-,2023
+02-09-039,Piacenza,Sicurezza,07SIC006P,31.9,Per 100.000 abitanti,-,2023
+02-09-039,Piacenza,Ambiente,10AMB008,28.4,M2 per abitante,+,2023
+02-09-039,Piacenza,Ambiente,10AMB017,72.6,Valori percentuali,+,2023
+02-09-039,Piacenza,Servizi,12SER002P,26.6,Per 10.000 abitanti,+,2023
+02-09-039,Piacenza,Servizi,12SER020,61.5,Valori percentuali,+,2023
+02-09-040,Parma,Salute,01SAL001,83.9,Numero medio di anni,+,2023
+02-09-040,Parma,Istruzione e formazione,02IST003P-N22,29.3,Valori percentuali,+,2023
+02-09-040,Parma,Istruzione e formazione,02IST006-N22,8.4,Valori percentuali,-,2023
+02-09-040,Parma,Lavoro,03LAV001-N22,76.8,Valori percentuali,+,2023
+02-09-040,Parma,Lavoro,03LAV003P-N22,44.2,Valori percentuali,+,2023
+02-09-040,Parma,Economia,04BEC001P,27083.2,Euro,+,2023
+02-09-040,Parma,Economia,04BEC002P,27869.1,Euro,+,2023
+02-09-040,Parma,Sicurezza,07SIC004P,340.1,Per 100.000 abitanti,-,2023
+02-09-040,Parma,Sicurezza,07SIC005P,371.9,Per 100.000 abitanti,-,2023
+02-09-040,Parma,Sicurezza,07SIC006P,62.5,Per 100.000 abitanti,-,2023
+02-09-040,Parma,Ambiente,10AMB008,87.8,M2 per abitante,+,2023
+02-09-040,Parma,Ambiente,10AMB017,79.7,Valori percentuali,+,2023
+02-09-040,Parma,Servizi,12SER002P,40.1,Per 10.000 abitanti,+,2023
+02-09-040,Parma,Servizi,12SER020,60.0,Valori percentuali,+,2023
+02-09-041,Reggio nell'Emilia,Salute,01SAL001,83.7,Numero medio di anni,+,2023
+02-09-041,Reggio nell'Emilia,Istruzione e formazione,02IST003P-N22,25.6,Valori percentuali,+,2023
+02-09-041,Reggio nell'Emilia,Istruzione e formazione,02IST006-N22,10.4,Valori percentuali,-,2023
+02-09-041,Reggio nell'Emilia,Lavoro,03LAV001-N22,75.5,Valori percentuali,+,2023
+02-09-041,Reggio nell'Emilia,Lavoro,03LAV003P-N22,44.0,Valori percentuali,+,2023
+02-09-041,Reggio nell'Emilia,Economia,04BEC001P,26654.5,Euro,+,2023
+02-09-041,Reggio nell'Emilia,Economia,04BEC002P,26936.9,Euro,+,2023
+02-09-041,Reggio nell'Emilia,Sicurezza,07SIC004P,288.9,Per 100.000 abitanti,-,2023
+02-09-041,Reggio nell'Emilia,Sicurezza,07SIC005P,135.8,Per 100.000 abitanti,-,2023
+02-09-041,Reggio nell'Emilia,Sicurezza,07SIC006P,35.8,Per 100.000 abitanti,-,2023
+02-09-041,Reggio nell'Emilia,Ambiente,10AMB008,57.7,M2 per abitante,+,2023
+02-09-041,Reggio nell'Emilia,Ambiente,10AMB017,83.3,Valori percentuali,+,2023
+02-09-041,Reggio nell'Emilia,Servizi,12SER002P,28.0,Per 10.000 abitanti,+,2023
+02-09-041,Reggio nell'Emilia,Servizi,12SER020,63.8,Valori percentuali,+,2023
+02-09-042,Modena,Salute,01SAL001,83.8,Numero medio di anni,+,2023
+02-09-042,Modena,Istruzione e formazione,02IST003P-N22,30.6,Valori percentuali,+,2023
+02-09-042,Modena,Istruzione e formazione,02IST006-N22,9.5,Valori percentuali,-,2023
+02-09-042,Modena,Lavoro,03LAV001-N22,76.1,Valori percentuali,+,2023
+02-09-042,Modena,Lavoro,03LAV003P-N22,45.5,Valori percentuali,+,2023
+02-09-042,Modena,Economia,04BEC001P,26076.9,Euro,+,2023
+02-09-042,Modena,Economia,04BEC002P,27671.5,Euro,+,2023
+02-09-042,Modena,Sicurezza,07SIC004P,364.3,Per 100.000 abitanti,-,2023
+02-09-042,Modena,Sicurezza,07SIC005P,243.5,Per 100.000 abitanti,-,2023
+02-09-042,Modena,Sicurezza,07SIC006P,48.0,Per 100.000 abitanti,-,2023
+02-09-042,Modena,Ambiente,10AMB008,75.6,M2 per abitante,+,2023
+02-09-042,Modena,Ambiente,10AMB017,78.6,Valori percentuali,+,2023
+02-09-042,Modena,Servizi,12SER002P,38.6,Per 10.000 abitanti,+,2023
+02-09-042,Modena,Servizi,12SER020,54.3,Valori percentuali,+,2023
+02-09-043,Bologna,Salute,01SAL001,83.9,Numero medio di anni,+,2023
+02-09-043,Bologna,Istruzione e formazione,02IST003P-N22,45.2,Valori percentuali,+,2023
+02-09-043,Bologna,Istruzione e formazione,02IST006-N22,11.3,Valori percentuali,-,2023
+02-09-043,Bologna,Lavoro,03LAV001-N22,78.4,Valori percentuali,+,2023
+02-09-043,Bologna,Lavoro,03LAV003P-N22,40.7,Valori percentuali,+,2023
+02-09-043,Bologna,Economia,04BEC001P,28560.7,Euro,+,2023
+02-09-043,Bologna,Economia,04BEC002P,27603.1,Euro,+,2023
+02-09-043,Bologna,Sicurezza,07SIC004P,356.2,Per 100.000 abitanti,-,2023
+02-09-043,Bologna,Sicurezza,07SIC005P,404.9,Per 100.000 abitanti,-,2023
+02-09-043,Bologna,Sicurezza,07SIC006P,83.6,Per 100.000 abitanti,-,2023
+02-09-043,Bologna,Ambiente,10AMB008,22.1,M2 per abitante,+,2023
+02-09-043,Bologna,Ambiente,10AMB017,73.5,Valori percentuali,+,2023
+02-09-043,Bologna,Servizi,12SER002P,44.9,Per 10.000 abitanti,+,2023
+02-09-043,Bologna,Servizi,12SER020,62.6,Valori percentuali,+,2023
+02-09-044,Ferrara,Salute,01SAL001,82.9,Numero medio di anni,+,2023
+02-09-044,Ferrara,Istruzione e formazione,02IST003P-N22,30.2,Valori percentuali,+,2023
+02-09-044,Ferrara,Istruzione e formazione,02IST006-N22,12.5,Valori percentuali,-,2023
+02-09-044,Ferrara,Lavoro,03LAV001-N22,74.1,Valori percentuali,+,2023
+02-09-044,Ferrara,Lavoro,03LAV003P-N22,39.9,Valori percentuali,+,2023
+02-09-044,Ferrara,Economia,04BEC001P,23503.7,Euro,+,2023
+02-09-044,Ferrara,Economia,04BEC002P,21600.4,Euro,+,2023
+02-09-044,Ferrara,Sicurezza,07SIC004P,287.5,Per 100.000 abitanti,-,2023
+02-09-044,Ferrara,Sicurezza,07SIC005P,176.4,Per 100.000 abitanti,-,2023
+02-09-044,Ferrara,Sicurezza,07SIC006P,34.2,Per 100.000 abitanti,-,2023
+02-09-044,Ferrara,Ambiente,10AMB008,64.1,M2 per abitante,+,2023
+02-09-044,Ferrara,Ambiente,10AMB017,77.1,Valori percentuali,+,2023
+02-09-044,Ferrara,Servizi,12SER002P,44.8,Per 10.000 abitanti,+,2023
+02-09-044,Ferrara,Servizi,12SER020,56.6,Valori percentuali,+,2023
+02-09-045,Ravenna,Salute,01SAL001,83.9,Numero medio di anni,+,2023
+02-09-045,Ravenna,Istruzione e formazione,02IST003P-N22,33.7,Valori percentuali,+,2023
+02-09-045,Ravenna,Istruzione e formazione,02IST006-N22,12.8,Valori percentuali,-,2023
+02-09-045,Ravenna,Lavoro,03LAV001-N22,74.7,Valori percentuali,+,2023
+02-09-045,Ravenna,Lavoro,03LAV003P-N22,40.0,Valori percentuali,+,2023
+02-09-045,Ravenna,Economia,04BEC001P,24555.0,Euro,+,2023
+02-09-045,Ravenna,Economia,04BEC002P,23068.8,Euro,+,2023
+02-09-045,Ravenna,Sicurezza,07SIC004P,388.8,Per 100.000 abitanti,-,2023
+02-09-045,Ravenna,Sicurezza,07SIC005P,154.1,Per 100.000 abitanti,-,2023
+02-09-045,Ravenna,Sicurezza,07SIC006P,25.1,Per 100.000 abitanti,-,2023
+02-09-045,Ravenna,Ambiente,10AMB008,48.3,M2 per abitante,+,2023
+02-09-045,Ravenna,Ambiente,10AMB017,78.2,Valori percentuali,+,2023
+02-09-045,Ravenna,Servizi,12SER002P,31.8,Per 10.000 abitanti,+,2023
+02-09-045,Ravenna,Servizi,12SER020,59.4,Valori percentuali,+,2023
+02-09-046,Forlì-Cesena,Salute,01SAL001,84.0,Numero medio di anni,+,2023
+02-09-046,Forlì-Cesena,Istruzione e formazione,02IST003P-N22,31.8,Valori percentuali,+,2023
+02-09-046,Forlì-Cesena,Istruzione e formazione,02IST006-N22,11.9,Valori percentuali,-,2023
+02-09-046,Forlì-Cesena,Lavoro,03LAV001-N22,75.7,Valori percentuali,+,2023
+02-09-046,Forlì-Cesena,Lavoro,03LAV003P-N22,40.7,Valori percentuali,+,2023
+02-09-046,Forlì-Cesena,Economia,04BEC001P,25037.8,Euro,+,2023
+02-09-046,Forlì-Cesena,Economia,04BEC002P,22057.7,Euro,+,2023
+02-09-046,Forlì-Cesena,Sicurezza,07SIC004P,298.5,Per 100.000 abitanti,-,2023
+02-09-046,Forlì-Cesena,Sicurezza,07SIC005P,87.9,Per 100.000 abitanti,-,2023
+02-09-046,Forlì-Cesena,Sicurezza,07SIC006P,35.4,Per 100.000 abitanti,-,2023
+02-09-046,Forlì-Cesena,Ambiente,10AMB008,25.7,M2 per abitante,+,2023
+02-09-046,Forlì-Cesena,Ambiente,10AMB017,81.7,Valori percentuali,+,2023
+02-09-046,Forlì-Cesena,Servizi,12SER002P,33.3,Per 10.000 abitanti,+,2023
+02-09-046,Forlì-Cesena,Servizi,12SER020,49.0,Valori percentuali,+,2023
+02-09-047,Rimini,Salute,01SAL001,84.5,Numero medio di anni,+,2023
+02-09-047,Rimini,Istruzione e formazione,02IST003P-N22,34.5,Valori percentuali,+,2023
+02-09-047,Rimini,Istruzione e formazione,02IST006-N22,13.1,Valori percentuali,-,2023
+02-09-047,Rimini,Lavoro,03LAV001-N22,71.1,Valori percentuali,+,2023
+02-09-047,Rimini,Lavoro,03LAV003P-N22,34.7,Valori percentuali,+,2023
+02-09-047,Rimini,Economia,04BEC001P,23671.0,Euro,+,2023
+02-09-047,Rimini,Economia,04BEC002P,17809.2,Euro,+,2023
+02-09-047,Rimini,Sicurezza,07SIC004P,400.2,Per 100.000 abitanti,-,2023
+02-09-047,Rimini,Sicurezza,07SIC005P,509.2,Per 100.000 abitanti,-,2023
+02-09-047,Rimini,Sicurezza,07SIC006P,83.3,Per 100.000 abitanti,-,2023
+02-09-047,Rimini,Ambiente,10AMB008,21.5,M2 per abitante,+,2023
+02-09-047,Rimini,Ambiente,10AMB017,68.8,Valori percentuali,+,2023
+02-09-047,Rimini,Servizi,12SER002P,34.3,Per 10.000 abitanti,+,2023
+02-09-047,Rimini,Servizi,12SER020,41.3,Valori percentuali,+,2023
+03-10-048,Massa-Carrara,Salute,01SAL001,82.8,Numero medio di anni,+,2023
+03-10-048,Massa-Carrara,Istruzione e formazione,02IST003P-N22,27.2,Valori percentuali,+,2023
+03-10-048,Massa-Carrara,Istruzione e formazione,02IST006-N22,9.4,Valori percentuali,-,2023
+03-10-048,Massa-Carrara,Lavoro,03LAV001-N22,70.3,Valori percentuali,+,2023
+03-10-048,Massa-Carrara,Lavoro,03LAV003P-N22,45.2,Valori percentuali,+,2023
+03-10-048,Massa-Carrara,Economia,04BEC001P,20257.6,Euro,+,2023
+03-10-048,Massa-Carrara,Economia,04BEC002P,20917.3,Euro,+,2023
+03-10-048,Massa-Carrara,Sicurezza,07SIC004P,275.5,Per 100.000 abitanti,-,2023
+03-10-048,Massa-Carrara,Sicurezza,07SIC005P,143.6,Per 100.000 abitanti,-,2023
+03-10-048,Massa-Carrara,Sicurezza,07SIC006P,12.8,Per 100.000 abitanti,-,2023
+03-10-048,Massa-Carrara,Ambiente,10AMB008,17.8,M2 per abitante,+,2023
+03-10-048,Massa-Carrara,Ambiente,10AMB017,69.5,Valori percentuali,+,2023
+03-10-048,Massa-Carrara,Servizi,12SER002P,31.3,Per 10.000 abitanti,+,2023
+03-10-048,Massa-Carrara,Servizi,12SER020,60.4,Valori percentuali,+,2023
+03-10-049,Lucca,Salute,01SAL001,83.3,Numero medio di anni,+,2023
+03-10-049,Lucca,Istruzione e formazione,02IST003P-N22,26.4,Valori percentuali,+,2023
+03-10-049,Lucca,Istruzione e formazione,02IST006-N22,12.2,Valori percentuali,-,2023
+03-10-049,Lucca,Lavoro,03LAV001-N22,70.7,Valori percentuali,+,2023
+03-10-049,Lucca,Lavoro,03LAV003P-N22,39.6,Valori percentuali,+,2023
+03-10-049,Lucca,Economia,04BEC001P,23617.4,Euro,+,2023
+03-10-049,Lucca,Economia,04BEC002P,22094.2,Euro,+,2023
+03-10-049,Lucca,Sicurezza,07SIC004P,426.8,Per 100.000 abitanti,-,2023
+03-10-049,Lucca,Sicurezza,07SIC005P,179.9,Per 100.000 abitanti,-,2023
+03-10-049,Lucca,Sicurezza,07SIC006P,35.3,Per 100.000 abitanti,-,2023
+03-10-049,Lucca,Ambiente,10AMB008,18.0,M2 per abitante,+,2023
+03-10-049,Lucca,Ambiente,10AMB017,77.5,Valori percentuali,+,2023
+03-10-049,Lucca,Servizi,12SER002P,28.2,Per 10.000 abitanti,+,2023
+03-10-049,Lucca,Servizi,12SER020,42.1,Valori percentuali,+,2023
+03-10-050,Pistoia,Salute,01SAL001,83.9,Numero medio di anni,+,2023
+03-10-050,Pistoia,Istruzione e formazione,02IST003P-N22,22.0,Valori percentuali,+,2023
+03-10-050,Pistoia,Istruzione e formazione,02IST006-N22,9.7,Valori percentuali,-,2023
+03-10-050,Pistoia,Lavoro,03LAV001-N22,70.5,Valori percentuali,+,2023
+03-10-050,Pistoia,Lavoro,03LAV003P-N22,39.6,Valori percentuali,+,2023
+03-10-050,Pistoia,Economia,04BEC001P,21071.5,Euro,+,2023
+03-10-050,Pistoia,Economia,04BEC002P,21035.1,Euro,+,2023
+03-10-050,Pistoia,Sicurezza,07SIC004P,352.9,Per 100.000 abitanti,-,2023
+03-10-050,Pistoia,Sicurezza,07SIC005P,72.4,Per 100.000 abitanti,-,2023
+03-10-050,Pistoia,Sicurezza,07SIC006P,27.9,Per 100.000 abitanti,-,2023
+03-10-050,Pistoia,Ambiente,10AMB008,21.5,M2 per abitante,+,2023
+03-10-050,Pistoia,Ambiente,10AMB017,63.2,Valori percentuali,+,2023
+03-10-050,Pistoia,Servizi,12SER002P,24.4,Per 10.000 abitanti,+,2023
+03-10-050,Pistoia,Servizi,12SER020,41.3,Valori percentuali,+,2023
+03-10-051,Firenze,Salute,01SAL001,84.7,Numero medio di anni,+,2023
+03-10-051,Firenze,Istruzione e formazione,02IST003P-N22,39.2,Valori percentuali,+,2023
+03-10-051,Firenze,Istruzione e formazione,02IST006-N22,11.1,Valori percentuali,-,2023
+03-10-051,Firenze,Lavoro,03LAV001-N22,76.6,Valori percentuali,+,2023
+03-10-051,Firenze,Lavoro,03LAV003P-N22,32.9,Valori percentuali,+,2023
+03-10-051,Firenze,Economia,04BEC001P,26194.5,Euro,+,2023
+03-10-051,Firenze,Economia,04BEC002P,24515.4,Euro,+,2023
+03-10-051,Firenze,Sicurezza,07SIC004P,433.7,Per 100.000 abitanti,-,2023
+03-10-051,Firenze,Sicurezza,07SIC005P,753.1,Per 100.000 abitanti,-,2023
+03-10-051,Firenze,Sicurezza,07SIC006P,136.6,Per 100.000 abitanti,-,2023
+03-10-051,Firenze,Ambiente,10AMB008,26.7,M2 per abitante,+,2023
+03-10-051,Firenze,Ambiente,10AMB017,68.2,Valori percentuali,+,2023
+03-10-051,Firenze,Servizi,12SER002P,45.1,Per 10.000 abitanti,+,2023
+03-10-051,Firenze,Servizi,12SER020,67.8,Valori percentuali,+,2023
+03-10-052,Livorno,Salute,01SAL001,83.5,Numero medio di anni,+,2023
+03-10-052,Livorno,Istruzione e formazione,02IST003P-N22,24.2,Valori percentuali,+,2023
+03-10-052,Livorno,Istruzione e formazione,02IST006-N22,13.4,Valori percentuali,-,2023
+03-10-052,Livorno,Lavoro,03LAV001-N22,71.3,Valori percentuali,+,2023
+03-10-052,Livorno,Lavoro,03LAV003P-N22,34.8,Valori percentuali,+,2023
+03-10-052,Livorno,Economia,04BEC001P,23645.4,Euro,+,2023
+03-10-052,Livorno,Economia,04BEC002P,20404.2,Euro,+,2023
+03-10-052,Livorno,Sicurezza,07SIC004P,315.1,Per 100.000 abitanti,-,2023
+03-10-052,Livorno,Sicurezza,07SIC005P,158.4,Per 100.000 abitanti,-,2023
+03-10-052,Livorno,Sicurezza,07SIC006P,31.9,Per 100.000 abitanti,-,2023
+03-10-052,Livorno,Ambiente,10AMB008,15.2,M2 per abitante,+,2023
+03-10-052,Livorno,Ambiente,10AMB017,61.0,Valori percentuali,+,2023
+03-10-052,Livorno,Servizi,12SER002P,27.5,Per 10.000 abitanti,+,2023
+03-10-052,Livorno,Servizi,12SER020,38.9,Valori percentuali,+,2023
+03-10-053,Pisa,Salute,01SAL001,83.7,Numero medio di anni,+,2023
+03-10-053,Pisa,Istruzione e formazione,02IST003P-N22,34.8,Valori percentuali,+,2023
+03-10-053,Pisa,Istruzione e formazione,02IST006-N22,11.4,Valori percentuali,-,2023
+03-10-053,Pisa,Lavoro,03LAV001-N22,75.1,Valori percentuali,+,2023
+03-10-053,Pisa,Lavoro,03LAV003P-N22,40.2,Valori percentuali,+,2023
+03-10-053,Pisa,Economia,04BEC001P,22022.6,Euro,+,2023
+03-10-053,Pisa,Economia,04BEC002P,23202.2,Euro,+,2023
+03-10-053,Pisa,Sicurezza,07SIC004P,482.0,Per 100.000 abitanti,-,2023
+03-10-053,Pisa,Sicurezza,07SIC005P,260.0,Per 100.000 abitanti,-,2023
+03-10-053,Pisa,Sicurezza,07SIC006P,30.2,Per 100.000 abitanti,-,2023
+03-10-053,Pisa,Ambiente,10AMB008,23.3,M2 per abitante,+,2023
+03-10-053,Pisa,Ambiente,10AMB017,69.4,Valori percentuali,+,2023
+03-10-053,Pisa,Servizi,12SER002P,55.3,Per 10.000 abitanti,+,2023
+03-10-053,Pisa,Servizi,12SER020,47.2,Valori percentuali,+,2023
+03-10-054,Arezzo,Salute,01SAL001,83.6,Numero medio di anni,+,2023
+03-10-054,Arezzo,Istruzione e formazione,02IST003P-N22,31.9,Valori percentuali,+,2023
+03-10-054,Arezzo,Istruzione e formazione,02IST006-N22,8.0,Valori percentuali,-,2023
+03-10-054,Arezzo,Lavoro,03LAV001-N22,77.9,Valori percentuali,+,2023
+03-10-054,Arezzo,Lavoro,03LAV003P-N22,43.4,Valori percentuali,+,2023
+03-10-054,Arezzo,Economia,04BEC001P,21759.7,Euro,+,2023
+03-10-054,Arezzo,Economia,04BEC002P,22152.7,Euro,+,2023
+03-10-054,Arezzo,Sicurezza,07SIC004P,333.0,Per 100.000 abitanti,-,2023
+03-10-054,Arezzo,Sicurezza,07SIC005P,87.8,Per 100.000 abitanti,-,2023
+03-10-054,Arezzo,Sicurezza,07SIC006P,22.2,Per 100.000 abitanti,-,2023
+03-10-054,Arezzo,Ambiente,10AMB008,30.1,M2 per abitante,+,2023
+03-10-054,Arezzo,Ambiente,10AMB017,56.4,Valori percentuali,+,2023
+03-10-054,Arezzo,Servizi,12SER002P,28.6,Per 10.000 abitanti,+,2023
+03-10-054,Arezzo,Servizi,12SER020,44.3,Valori percentuali,+,2023
+03-10-055,Siena,Salute,01SAL001,84.2,Numero medio di anni,+,2023
+03-10-055,Siena,Istruzione e formazione,02IST003P-N22,28.6,Valori percentuali,+,2023
+03-10-055,Siena,Istruzione e formazione,02IST006-N22,10.9,Valori percentuali,-,2023
+03-10-055,Siena,Lavoro,03LAV001-N22,76.9,Valori percentuali,+,2023
+03-10-055,Siena,Lavoro,03LAV003P-N22,38.3,Valori percentuali,+,2023
+03-10-055,Siena,Economia,04BEC001P,23248.5,Euro,+,2023
+03-10-055,Siena,Economia,04BEC002P,23055.0,Euro,+,2023
+03-10-055,Siena,Sicurezza,07SIC004P,363.0,Per 100.000 abitanti,-,2023
+03-10-055,Siena,Sicurezza,07SIC005P,87.5,Per 100.000 abitanti,-,2023
+03-10-055,Siena,Sicurezza,07SIC006P,18.8,Per 100.000 abitanti,-,2023
+03-10-055,Siena,Ambiente,10AMB008,34.4,M2 per abitante,+,2023
+03-10-055,Siena,Ambiente,10AMB017,63.4,Valori percentuali,+,2023
+03-10-055,Siena,Servizi,12SER002P,57.3,Per 10.000 abitanti,+,2023
+03-10-055,Siena,Servizi,12SER020,50.8,Valori percentuali,+,2023
+03-10-056,Grosseto,Salute,01SAL001,83.3,Numero medio di anni,+,2023
+03-10-056,Grosseto,Istruzione e formazione,02IST003P-N22,22.5,Valori percentuali,+,2023
+03-10-056,Grosseto,Istruzione e formazione,02IST006-N22,15.3,Valori percentuali,-,2023
+03-10-056,Grosseto,Lavoro,03LAV001-N22,73.9,Valori percentuali,+,2023
+03-10-056,Grosseto,Lavoro,03LAV003P-N22,42.7,Valori percentuali,+,2023
+03-10-056,Grosseto,Economia,04BEC001P,21698.2,Euro,+,2023
+03-10-056,Grosseto,Economia,04BEC002P,17271.8,Euro,+,2023
+03-10-056,Grosseto,Sicurezza,07SIC004P,334.0,Per 100.000 abitanti,-,2023
+03-10-056,Grosseto,Sicurezza,07SIC005P,58.2,Per 100.000 abitanti,-,2023
+03-10-056,Grosseto,Sicurezza,07SIC006P,24.9,Per 100.000 abitanti,-,2023
+03-10-056,Grosseto,Ambiente,10AMB008,37.9,M2 per abitante,+,2023
+03-10-056,Grosseto,Ambiente,10AMB017,59.3,Valori percentuali,+,2023
+03-10-056,Grosseto,Servizi,12SER002P,30.6,Per 10.000 abitanti,+,2023
+03-10-056,Grosseto,Servizi,12SER020,57.1,Valori percentuali,+,2023
+03-10-057,Prato,Salute,01SAL001,84.5,Numero medio di anni,+,2023
+03-10-057,Prato,Istruzione e formazione,02IST003P-N22,22.6,Valori percentuali,+,2023
+03-10-057,Prato,Istruzione e formazione,02IST006-N22,8.9,Valori percentuali,-,2023
+03-10-057,Prato,Lavoro,03LAV001-N22,76.7,Valori percentuali,+,2023
+03-10-057,Prato,Lavoro,03LAV003P-N22,49.3,Valori percentuali,+,2023
+03-10-057,Prato,Economia,04BEC001P,24218.2,Euro,+,2023
+03-10-057,Prato,Economia,04BEC002P,19647.8,Euro,+,2023
+03-10-057,Prato,Sicurezza,07SIC004P,311.4,Per 100.000 abitanti,-,2023
+03-10-057,Prato,Sicurezza,07SIC005P,97.3,Per 100.000 abitanti,-,2023
+03-10-057,Prato,Sicurezza,07SIC006P,124.9,Per 100.000 abitanti,-,2023
+03-10-057,Prato,Ambiente,10AMB008,27.7,M2 per abitante,+,2023
+03-10-057,Prato,Ambiente,10AMB017,71.1,Valori percentuali,+,2023
+03-10-057,Prato,Servizi,12SER002P,26.8,Per 10.000 abitanti,+,2023
+03-10-057,Prato,Servizi,12SER020,87.0,Valori percentuali,+,2023
+03-11-058,Perugia,Salute,01SAL001,84.0,Numero medio di anni,+,2023
+03-11-058,Perugia,Istruzione e formazione,02IST003P-N22,33.8,Valori percentuali,+,2023
+03-11-058,Perugia,Istruzione e formazione,02IST006-N22,10.5,Valori percentuali,-,2023
+03-11-058,Perugia,Lavoro,03LAV001-N22,73.6,Valori percentuali,+,2023
+03-11-058,Perugia,Lavoro,03LAV003P-N22,36.6,Valori percentuali,+,2023
+03-11-058,Perugia,Economia,04BEC001P,22204.8,Euro,+,2023
+03-11-058,Perugia,Economia,04BEC002P,21013.8,Euro,+,2023
+03-11-058,Perugia,Sicurezza,07SIC004P,334.4,Per 100.000 abitanti,-,2023
+03-11-058,Perugia,Sicurezza,07SIC005P,95.8,Per 100.000 abitanti,-,2023
+03-11-058,Perugia,Sicurezza,07SIC006P,25.8,Per 100.000 abitanti,-,2023
+03-11-058,Perugia,Ambiente,10AMB008,63.6,M2 per abitante,+,2023
+03-11-058,Perugia,Ambiente,10AMB017,67.2,Valori percentuali,+,2023
+03-11-058,Perugia,Servizi,12SER002P,37.0,Per 10.000 abitanti,+,2023
+03-11-058,Perugia,Servizi,12SER020,55.0,Valori percentuali,+,2023
+03-11-059,Terni,Salute,01SAL001,83.0,Numero medio di anni,+,2023
+03-11-059,Terni,Istruzione e formazione,02IST003P-N22,31.3,Valori percentuali,+,2023
+03-11-059,Terni,Istruzione e formazione,02IST006-N22,10.6,Valori percentuali,-,2023
+03-11-059,Terni,Lavoro,03LAV001-N22,66.2,Valori percentuali,+,2023
+03-11-059,Terni,Lavoro,03LAV003P-N22,28.7,Valori percentuali,+,2023
+03-11-059,Terni,Economia,04BEC001P,19957.1,Euro,+,2023
+03-11-059,Terni,Economia,04BEC002P,20923.0,Euro,+,2023
+03-11-059,Terni,Sicurezza,07SIC004P,312.9,Per 100.000 abitanti,-,2023
+03-11-059,Terni,Sicurezza,07SIC005P,106.1,Per 100.000 abitanti,-,2023
+03-11-059,Terni,Sicurezza,07SIC006P,17.1,Per 100.000 abitanti,-,2023
+03-11-059,Terni,Ambiente,10AMB008,157.1,M2 per abitante,+,2023
+03-11-059,Terni,Ambiente,10AMB017,74.3,Valori percentuali,+,2023
+03-11-059,Terni,Servizi,12SER002P,36.2,Per 10.000 abitanti,+,2023
+03-11-059,Terni,Servizi,12SER020,58.1,Valori percentuali,+,2023
+03-12-060,Pesaro e Urbino,Salute,01SAL001,84.1,Numero medio di anni,+,2023
+03-12-060,Pesaro e Urbino,Istruzione e formazione,02IST003P-N22,32.6,Valori percentuali,+,2023
+03-12-060,Pesaro e Urbino,Istruzione e formazione,02IST006-N22,9.7,Valori percentuali,-,2023
+03-12-060,Pesaro e Urbino,Lavoro,03LAV001-N22,74.5,Valori percentuali,+,2023
+03-12-060,Pesaro e Urbino,Lavoro,03LAV003P-N22,41.2,Valori percentuali,+,2023
+03-12-060,Pesaro e Urbino,Economia,04BEC001P,23682.0,Euro,+,2023
+03-12-060,Pesaro e Urbino,Economia,04BEC002P,21626.7,Euro,+,2023
+03-12-060,Pesaro e Urbino,Sicurezza,07SIC004P,232.6,Per 100.000 abitanti,-,2023
+03-12-060,Pesaro e Urbino,Sicurezza,07SIC005P,82.6,Per 100.000 abitanti,-,2023
+03-12-060,Pesaro e Urbino,Sicurezza,07SIC006P,17.1,Per 100.000 abitanti,-,2023
+03-12-060,Pesaro e Urbino,Ambiente,10AMB008,26.8,M2 per abitante,+,2023
+03-12-060,Pesaro e Urbino,Ambiente,10AMB017,74.0,Valori percentuali,+,2023
+03-12-060,Pesaro e Urbino,Servizi,12SER002P,23.9,Per 10.000 abitanti,+,2023
+03-12-060,Pesaro e Urbino,Servizi,12SER020,53.2,Valori percentuali,+,2023
+03-12-061,Ancona,Salute,01SAL001,84.0,Numero medio di anni,+,2023
+03-12-061,Ancona,Istruzione e formazione,02IST003P-N22,38.8,Valori percentuali,+,2023
+03-12-061,Ancona,Istruzione e formazione,02IST006-N22,10.2,Valori percentuali,-,2023
+03-12-061,Ancona,Lavoro,03LAV001-N22,73.7,Valori percentuali,+,2023
+03-12-061,Ancona,Lavoro,03LAV003P-N22,33.3,Valori percentuali,+,2023
+03-12-061,Ancona,Economia,04BEC001P,21269.7,Euro,+,2023
+03-12-061,Ancona,Economia,04BEC002P,22171.3,Euro,+,2023
+03-12-061,Ancona,Sicurezza,07SIC004P,158.9,Per 100.000 abitanti,-,2023
+03-12-061,Ancona,Sicurezza,07SIC005P,90.9,Per 100.000 abitanti,-,2023
+03-12-061,Ancona,Sicurezza,07SIC006P,22.1,Per 100.000 abitanti,-,2023
+03-12-061,Ancona,Ambiente,10AMB008,53.2,M2 per abitante,+,2023
+03-12-061,Ancona,Ambiente,10AMB017,71.4,Valori percentuali,+,2023
+03-12-061,Ancona,Servizi,12SER002P,45.7,Per 10.000 abitanti,+,2023
+03-12-061,Ancona,Servizi,12SER020,64.6,Valori percentuali,+,2023
+03-12-062,Macerata,Salute,01SAL001,84.0,Numero medio di anni,+,2023
+03-12-062,Macerata,Istruzione e formazione,02IST003P-N22,32.9,Valori percentuali,+,2023
+03-12-062,Macerata,Istruzione e formazione,02IST006-N22,12.5,Valori percentuali,-,2023
+03-12-062,Macerata,Lavoro,03LAV001-N22,70.2,Valori percentuali,+,2023
+03-12-062,Macerata,Lavoro,03LAV003P-N22,35.4,Valori percentuali,+,2023
+03-12-062,Macerata,Economia,04BEC001P,22260.0,Euro,+,2023
+03-12-062,Macerata,Economia,04BEC002P,19912.4,Euro,+,2023
+03-12-062,Macerata,Sicurezza,07SIC004P,139.0,Per 100.000 abitanti,-,2023
+03-12-062,Macerata,Sicurezza,07SIC005P,41.8,Per 100.000 abitanti,-,2023
+03-12-062,Macerata,Sicurezza,07SIC006P,11.2,Per 100.000 abitanti,-,2023
+03-12-062,Macerata,Ambiente,10AMB008,21.0,M2 per abitante,+,2023
+03-12-062,Macerata,Ambiente,10AMB017,74.2,Valori percentuali,+,2023
+03-12-062,Macerata,Servizi,12SER002P,24.3,Per 10.000 abitanti,+,2023
+03-12-062,Macerata,Servizi,12SER020,53.6,Valori percentuali,+,2023
+03-12-063,Ascoli Piceno,Salute,01SAL001,83.9,Numero medio di anni,+,2023
+03-12-063,Ascoli Piceno,Istruzione e formazione,02IST003P-N22,38.2,Valori percentuali,+,2023
+03-12-063,Ascoli Piceno,Istruzione e formazione,02IST006-N22,5.9,Valori percentuali,-,2023
+03-12-063,Ascoli Piceno,Lavoro,03LAV001-N22,72.5,Valori percentuali,+,2023
+03-12-063,Ascoli Piceno,Lavoro,03LAV003P-N22,34.7,Valori percentuali,+,2023
+03-12-063,Ascoli Piceno,Economia,04BEC001P,21661.8,Euro,+,2023
+03-12-063,Ascoli Piceno,Economia,04BEC002P,19805.2,Euro,+,2023
+03-12-063,Ascoli Piceno,Sicurezza,07SIC004P,201.8,Per 100.000 abitanti,-,2023
+03-12-063,Ascoli Piceno,Sicurezza,07SIC005P,44.7,Per 100.000 abitanti,-,2023
+03-12-063,Ascoli Piceno,Sicurezza,07SIC006P,14.4,Per 100.000 abitanti,-,2023
+03-12-063,Ascoli Piceno,Ambiente,10AMB008,16.3,M2 per abitante,+,2023
+03-12-063,Ascoli Piceno,Ambiente,10AMB017,68.4,Valori percentuali,+,2023
+03-12-063,Ascoli Piceno,Servizi,12SER002P,29.4,Per 10.000 abitanti,+,2023
+03-12-063,Ascoli Piceno,Servizi,12SER020,63.8,Valori percentuali,+,2023
+03-12-064,Fermo,Salute,01SAL001,83.9,Numero medio di anni,+,2023
+03-12-064,Fermo,Istruzione e formazione,02IST003P-N22,27.6,Valori percentuali,+,2023
+03-12-064,Fermo,Istruzione e formazione,02IST006-N22,16.1,Valori percentuali,-,2023
+03-12-064,Fermo,Lavoro,03LAV001-N22,69.9,Valori percentuali,+,2023
+03-12-064,Fermo,Lavoro,03LAV003P-N22,36.8,Valori percentuali,+,2023
+03-12-064,Fermo,Economia,04BEC001P,21464.0,Euro,+,2023
+03-12-064,Fermo,Economia,04BEC002P,18885.0,Euro,+,2023
+03-12-064,Fermo,Sicurezza,07SIC004P,278.4,Per 100.000 abitanti,-,2023
+03-12-064,Fermo,Sicurezza,07SIC005P,67.4,Per 100.000 abitanti,-,2023
+03-12-064,Fermo,Sicurezza,07SIC006P,23.3,Per 100.000 abitanti,-,2023
+03-12-064,Fermo,Ambiente,10AMB008,26.2,M2 per abitante,+,2023
+03-12-064,Fermo,Ambiente,10AMB017,70.8,Valori percentuali,+,2023
+03-12-064,Fermo,Servizi,12SER002P,20.1,Per 10.000 abitanti,+,2023
+03-12-064,Fermo,Servizi,12SER020,53.6,Valori percentuali,+,2023
+03-13-065,Viterbo,Salute,01SAL001,82.3,Numero medio di anni,+,2023
+03-13-065,Viterbo,Istruzione e formazione,02IST003P-N22,22.5,Valori percentuali,+,2023
+03-13-065,Viterbo,Istruzione e formazione,02IST006-N22,18.5,Valori percentuali,-,2023
+03-13-065,Viterbo,Lavoro,03LAV001-N22,61.9,Valori percentuali,+,2023
+03-13-065,Viterbo,Lavoro,03LAV003P-N22,33.5,Valori percentuali,+,2023
+03-13-065,Viterbo,Economia,04BEC001P,18872.1,Euro,+,2023
+03-13-065,Viterbo,Economia,04BEC002P,17740.2,Euro,+,2023
+03-13-065,Viterbo,Sicurezza,07SIC004P,221.3,Per 100.000 abitanti,-,2023
+03-13-065,Viterbo,Sicurezza,07SIC005P,61.0,Per 100.000 abitanti,-,2023
+03-13-065,Viterbo,Sicurezza,07SIC006P,17.8,Per 100.000 abitanti,-,2023
+03-13-065,Viterbo,Ambiente,10AMB008,12.4,M2 per abitante,+,2023
+03-13-065,Viterbo,Ambiente,10AMB017,66.5,Valori percentuali,+,2023
+03-13-065,Viterbo,Servizi,12SER002P,23.7,Per 10.000 abitanti,+,2023
+03-13-065,Viterbo,Servizi,12SER020,46.8,Valori percentuali,+,2023
+03-13-066,Rieti,Salute,01SAL001,82.3,Numero medio di anni,+,2023
+03-13-066,Rieti,Istruzione e formazione,02IST003P-N22,24.0,Valori percentuali,+,2023
+03-13-066,Rieti,Istruzione e formazione,02IST006-N22,11.9,Valori percentuali,-,2023
+03-13-066,Rieti,Lavoro,03LAV001-N22,66.3,Valori percentuali,+,2023
+03-13-066,Rieti,Lavoro,03LAV003P-N22,43.1,Valori percentuali,+,2023
+03-13-066,Rieti,Economia,04BEC001P,16619.1,Euro,+,2023
+03-13-066,Rieti,Economia,04BEC002P,18480.3,Euro,+,2023
+03-13-066,Rieti,Sicurezza,07SIC004P,212.8,Per 100.000 abitanti,-,2023
+03-13-066,Rieti,Sicurezza,07SIC005P,45.2,Per 100.000 abitanti,-,2023
+03-13-066,Rieti,Sicurezza,07SIC006P,8.6,Per 100.000 abitanti,-,2023
+03-13-066,Rieti,Ambiente,10AMB008,347.8,M2 per abitante,+,2023
+03-13-066,Rieti,Ambiente,10AMB017,58.0,Valori percentuali,+,2023
+03-13-066,Rieti,Servizi,12SER002P,24.7,Per 10.000 abitanti,+,2023
+03-13-066,Rieti,Servizi,12SER020,66.6,Valori percentuali,+,2023
+03-13-067,Roma,Salute,01SAL001,83.2,Numero medio di anni,+,2023
+03-13-067,Roma,Istruzione e formazione,02IST003P-N22,42.2,Valori percentuali,+,2023
+03-13-067,Roma,Istruzione e formazione,02IST006-N22,12.1,Valori percentuali,-,2023
+03-13-067,Roma,Lavoro,03LAV001-N22,70.4,Valori percentuali,+,2023
+03-13-067,Roma,Lavoro,03LAV003P-N22,33.3,Valori percentuali,+,2023
+03-13-067,Roma,Economia,04BEC001P,25507.9,Euro,+,2023
+03-13-067,Roma,Economia,04BEC002P,25293.8,Euro,+,2023
+03-13-067,Roma,Sicurezza,07SIC004P,318.4,Per 100.000 abitanti,-,2023
+03-13-067,Roma,Sicurezza,07SIC005P,754.5,Per 100.000 abitanti,-,2023
+03-13-067,Roma,Sicurezza,07SIC006P,71.3,Per 100.000 abitanti,-,2023
+03-13-067,Roma,Ambiente,10AMB008,17.2,M2 per abitante,+,2023
+03-13-067,Roma,Ambiente,10AMB017,53.0,Valori percentuali,+,2023
+03-13-067,Roma,Servizi,12SER002P,48.7,Per 10.000 abitanti,+,2023
+03-13-067,Roma,Servizi,12SER020,78.8,Valori percentuali,+,2023
+03-13-068,Latina,Salute,01SAL001,82.6,Numero medio di anni,+,2023
+03-13-068,Latina,Istruzione e formazione,02IST003P-N22,19.6,Valori percentuali,+,2023
+03-13-068,Latina,Istruzione e formazione,02IST006-N22,18.7,Valori percentuali,-,2023
+03-13-068,Latina,Lavoro,03LAV001-N22,61.7,Valori percentuali,+,2023
+03-13-068,Latina,Lavoro,03LAV003P-N22,31.6,Valori percentuali,+,2023
+03-13-068,Latina,Economia,04BEC001P,18033.8,Euro,+,2023
+03-13-068,Latina,Economia,04BEC002P,19338.5,Euro,+,2023
+03-13-068,Latina,Sicurezza,07SIC004P,241.4,Per 100.000 abitanti,-,2023
+03-13-068,Latina,Sicurezza,07SIC005P,108.5,Per 100.000 abitanti,-,2023
+03-13-068,Latina,Sicurezza,07SIC006P,32.3,Per 100.000 abitanti,-,2023
+03-13-068,Latina,Ambiente,10AMB008,16.7,M2 per abitante,+,2023
+03-13-068,Latina,Ambiente,10AMB017,63.9,Valori percentuali,+,2023
+03-13-068,Latina,Servizi,12SER002P,24.9,Per 10.000 abitanti,+,2023
+03-13-068,Latina,Servizi,12SER020,50.1,Valori percentuali,+,2023
+03-13-069,Frosinone,Salute,01SAL001,82.2,Numero medio di anni,+,2023
+03-13-069,Frosinone,Istruzione e formazione,02IST003P-N22,28.6,Valori percentuali,+,2023
+03-13-069,Frosinone,Istruzione e formazione,02IST006-N22,20.0,Valori percentuali,-,2023
+03-13-069,Frosinone,Lavoro,03LAV001-N22,59.7,Valori percentuali,+,2023
+03-13-069,Frosinone,Lavoro,03LAV003P-N22,31.4,Valori percentuali,+,2023
+03-13-069,Frosinone,Economia,04BEC001P,15358.2,Euro,+,2023
+03-13-069,Frosinone,Economia,04BEC002P,20333.2,Euro,+,2023
+03-13-069,Frosinone,Sicurezza,07SIC004P,263.3,Per 100.000 abitanti,-,2023
+03-13-069,Frosinone,Sicurezza,07SIC005P,39.2,Per 100.000 abitanti,-,2023
+03-13-069,Frosinone,Sicurezza,07SIC006P,14.4,Per 100.000 abitanti,-,2023
+03-13-069,Frosinone,Ambiente,10AMB008,32.3,M2 per abitante,+,2023
+03-13-069,Frosinone,Ambiente,10AMB017,63.8,Valori percentuali,+,2023
+03-13-069,Frosinone,Servizi,12SER002P,21.5,Per 10.000 abitanti,+,2023
+03-13-069,Frosinone,Servizi,12SER020,47.2,Valori percentuali,+,2023
+04-14-070,L'Aquila,Salute,01SAL001,82.8,Numero medio di anni,+,2023
+04-14-070,L'Aquila,Istruzione e formazione,02IST003P-N22,25.6,Valori percentuali,+,2023
+04-14-070,L'Aquila,Istruzione e formazione,02IST006-N22,18.9,Valori percentuali,-,2023
+04-14-070,L'Aquila,Lavoro,03LAV001-N22,63.9,Valori percentuali,+,2023
+04-14-070,L'Aquila,Lavoro,03LAV003P-N22,31.6,Valori percentuali,+,2023
+04-14-070,L'Aquila,Economia,04BEC001P,17550.2,Euro,+,2023
+04-14-070,L'Aquila,Economia,04BEC002P,19573.5,Euro,+,2023
+04-14-070,L'Aquila,Sicurezza,07SIC004P,219.1,Per 100.000 abitanti,-,2023
+04-14-070,L'Aquila,Sicurezza,07SIC005P,59.1,Per 100.000 abitanti,-,2023
+04-14-070,L'Aquila,Sicurezza,07SIC006P,19.1,Per 100.000 abitanti,-,2023
+04-14-070,L'Aquila,Ambiente,10AMB008,33.3,M2 per abitante,+,2023
+04-14-070,L'Aquila,Ambiente,10AMB017,62.5,Valori percentuali,+,2023
+04-14-070,L'Aquila,Servizi,12SER002P,37.6,Per 10.000 abitanti,+,2023
+04-14-070,L'Aquila,Servizi,12SER020,56.1,Valori percentuali,+,2023
+04-14-071,Teramo,Salute,01SAL001,83.4,Numero medio di anni,+,2023
+04-14-071,Teramo,Istruzione e formazione,02IST003P-N22,29.5,Valori percentuali,+,2023
+04-14-071,Teramo,Istruzione e formazione,02IST006-N22,12.7,Valori percentuali,-,2023
+04-14-071,Teramo,Lavoro,03LAV001-N22,68.4,Valori percentuali,+,2023
+04-14-071,Teramo,Lavoro,03LAV003P-N22,34.1,Valori percentuali,+,2023
+04-14-071,Teramo,Economia,04BEC001P,20332.5,Euro,+,2023
+04-14-071,Teramo,Economia,04BEC002P,18193.5,Euro,+,2023
+04-14-071,Teramo,Sicurezza,07SIC004P,233.7,Per 100.000 abitanti,-,2023
+04-14-071,Teramo,Sicurezza,07SIC005P,53.8,Per 100.000 abitanti,-,2023
+04-14-071,Teramo,Sicurezza,07SIC006P,15.0,Per 100.000 abitanti,-,2023
+04-14-071,Teramo,Ambiente,10AMB008,19.1,M2 per abitante,+,2023
+04-14-071,Teramo,Ambiente,10AMB017,65.6,Valori percentuali,+,2023
+04-14-071,Teramo,Servizi,12SER002P,27.3,Per 10.000 abitanti,+,2023
+04-14-071,Teramo,Servizi,12SER020,39.0,Valori percentuali,+,2023
+04-14-072,Pescara,Salute,01SAL001,83.5,Numero medio di anni,+,2023
+04-14-072,Pescara,Istruzione e formazione,02IST003P-N22,38.2,Valori percentuali,+,2023
+04-14-072,Pescara,Istruzione e formazione,02IST006-N22,12.8,Valori percentuali,-,2023
+04-14-072,Pescara,Lavoro,03LAV001-N22,65.2,Valori percentuali,+,2023
+04-14-072,Pescara,Lavoro,03LAV003P-N22,32.8,Valori percentuali,+,2023
+04-14-072,Pescara,Economia,04BEC001P,21065.3,Euro,+,2023
+04-14-072,Pescara,Economia,04BEC002P,19456.9,Euro,+,2023
+04-14-072,Pescara,Sicurezza,07SIC004P,207.5,Per 100.000 abitanti,-,2023
+04-14-072,Pescara,Sicurezza,07SIC005P,80.6,Per 100.000 abitanti,-,2023
+04-14-072,Pescara,Sicurezza,07SIC006P,31.7,Per 100.000 abitanti,-,2023
+04-14-072,Pescara,Ambiente,10AMB008,39.4,M2 per abitante,+,2023
+04-14-072,Pescara,Ambiente,10AMB017,55.0,Valori percentuali,+,2023
+04-14-072,Pescara,Servizi,12SER002P,36.8,Per 10.000 abitanti,+,2023
+04-14-072,Pescara,Servizi,12SER020,72.7,Valori percentuali,+,2023
+04-14-073,Chieti,Salute,01SAL001,82.6,Numero medio di anni,+,2023
+04-14-073,Chieti,Istruzione e formazione,02IST003P-N22,28.9,Valori percentuali,+,2023
+04-14-073,Chieti,Istruzione e formazione,02IST006-N22,16.6,Valori percentuali,-,2023
+04-14-073,Chieti,Lavoro,03LAV001-N22,66.2,Valori percentuali,+,2023
+04-14-073,Chieti,Lavoro,03LAV003P-N22,32.2,Valori percentuali,+,2023
+04-14-073,Chieti,Economia,04BEC001P,19934.9,Euro,+,2023
+04-14-073,Chieti,Economia,04BEC002P,20778.8,Euro,+,2023
+04-14-073,Chieti,Sicurezza,07SIC004P,181.5,Per 100.000 abitanti,-,2023
+04-14-073,Chieti,Sicurezza,07SIC005P,36.6,Per 100.000 abitanti,-,2023
+04-14-073,Chieti,Sicurezza,07SIC006P,12.1,Per 100.000 abitanti,-,2023
+04-14-073,Chieti,Ambiente,10AMB008,8.9,M2 per abitante,+,2023
+04-14-073,Chieti,Ambiente,10AMB017,73.7,Valori percentuali,+,2023
+04-14-073,Chieti,Servizi,12SER002P,37.6,Per 10.000 abitanti,+,2023
+04-14-073,Chieti,Servizi,12SER020,60.7,Valori percentuali,+,2023
+04-15-074,Campobasso,Salute,01SAL001,82.7,Numero medio di anni,+,2023
+04-15-074,Campobasso,Istruzione e formazione,02IST003P-N22,33.3,Valori percentuali,+,2023
+04-15-074,Campobasso,Istruzione e formazione,02IST006-N22,19.4,Valori percentuali,-,2023
+04-15-074,Campobasso,Lavoro,03LAV001-N22,60.3,Valori percentuali,+,2023
+04-15-074,Campobasso,Lavoro,03LAV003P-N22,29.4,Valori percentuali,+,2023
+04-15-074,Campobasso,Economia,04BEC001P,17655.5,Euro,+,2023
+04-15-074,Campobasso,Economia,04BEC002P,18565.2,Euro,+,2023
+04-15-074,Campobasso,Sicurezza,07SIC004P,205.3,Per 100.000 abitanti,-,2023
+04-15-074,Campobasso,Sicurezza,07SIC005P,41.4,Per 100.000 abitanti,-,2023
+04-15-074,Campobasso,Sicurezza,07SIC006P,11.9,Per 100.000 abitanti,-,2023
+04-15-074,Campobasso,Ambiente,10AMB008,12.2,M2 per abitante,+,2023
+04-15-074,Campobasso,Ambiente,10AMB017,63.4,Valori percentuali,+,2023
+04-15-074,Campobasso,Servizi,12SER002P,28.6,Per 10.000 abitanti,+,2023
+04-15-074,Campobasso,Servizi,12SER020,88.7,Valori percentuali,+,2023
+04-15-075,Isernia,Salute,01SAL001,81.7,Numero medio di anni,+,2023
+04-15-075,Isernia,Istruzione e formazione,02IST003P-N22,28.8,Valori percentuali,+,2023
+04-15-075,Isernia,Istruzione e formazione,02IST006-N22,14.3,Valori percentuali,-,2023
+04-15-075,Isernia,Lavoro,03LAV001-N22,62.3,Valori percentuali,+,2023
+04-15-075,Isernia,Lavoro,03LAV003P-N22,22.8,Valori percentuali,+,2023
+04-15-075,Isernia,Economia,04BEC001P,19675.4,Euro,+,2023
+04-15-075,Isernia,Economia,04BEC002P,17133.2,Euro,+,2023
+04-15-075,Isernia,Sicurezza,07SIC004P,149.4,Per 100.000 abitanti,-,2023
+04-15-075,Isernia,Sicurezza,07SIC005P,32.6,Per 100.000 abitanti,-,2023
+04-15-075,Isernia,Sicurezza,07SIC006P,12.6,Per 100.000 abitanti,-,2023
+04-15-075,Isernia,Ambiente,10AMB008,1022.1,M2 per abitante,+,2023
+04-15-075,Isernia,Ambiente,10AMB017,53.4,Valori percentuali,+,2023
+04-15-075,Isernia,Servizi,12SER002P,32.0,Per 10.000 abitanti,+,2023
+04-15-075,Isernia,Servizi,12SER020,74.1,Valori percentuali,+,2023
+04-16-076,Caserta,Salute,01SAL001,80.9,Numero medio di anni,+,2023
+04-16-076,Caserta,Istruzione e formazione,02IST003P-N22,25.6,Valori percentuali,+,2023
+04-16-076,Caserta,Istruzione e formazione,02IST006-N22,27.3,Valori percentuali,-,2023
+04-16-076,Caserta,Lavoro,03LAV001-N22,47.4,Valori percentuali,+,2023
+04-16-076,Caserta,Lavoro,03LAV003P-N22,19.4,Valori percentuali,+,2023
+04-16-076,Caserta,Economia,04BEC001P,14683.1,Euro,+,2023
+04-16-076,Caserta,Economia,04BEC002P,16625.1,Euro,+,2023
+04-16-076,Caserta,Sicurezza,07SIC004P,164.0,Per 100.000 abitanti,-,2023
+04-16-076,Caserta,Sicurezza,07SIC005P,56.7,Per 100.000 abitanti,-,2023
+04-16-076,Caserta,Sicurezza,07SIC006P,55.1,Per 100.000 abitanti,-,2023
+04-16-076,Caserta,Ambiente,10AMB008,18.3,M2 per abitante,+,2023
+04-16-076,Caserta,Ambiente,10AMB017,56.7,Valori percentuali,+,2023
+04-16-076,Caserta,Servizi,12SER002P,24.4,Per 10.000 abitanti,+,2023
+04-16-076,Caserta,Servizi,12SER020,64.5,Valori percentuali,+,2023
+04-16-077,Benevento,Salute,01SAL001,82.2,Numero medio di anni,+,2023
+04-16-077,Benevento,Istruzione e formazione,02IST003P-N22,26.2,Valori percentuali,+,2023
+04-16-077,Benevento,Istruzione e formazione,02IST006-N22,26.8,Valori percentuali,-,2023
+04-16-077,Benevento,Lavoro,03LAV001-N22,55.8,Valori percentuali,+,2023
+04-16-077,Benevento,Lavoro,03LAV003P-N22,23.3,Valori percentuali,+,2023
+04-16-077,Benevento,Economia,04BEC001P,15126.2,Euro,+,2023
+04-16-077,Benevento,Economia,04BEC002P,15983.1,Euro,+,2023
+04-16-077,Benevento,Sicurezza,07SIC004P,194.1,Per 100.000 abitanti,-,2023
+04-16-077,Benevento,Sicurezza,07SIC005P,20.2,Per 100.000 abitanti,-,2023
+04-16-077,Benevento,Sicurezza,07SIC006P,11.8,Per 100.000 abitanti,-,2023
+04-16-077,Benevento,Ambiente,10AMB008,23.9,M2 per abitante,+,2023
+04-16-077,Benevento,Ambiente,10AMB017,72.8,Valori percentuali,+,2023
+04-16-077,Benevento,Servizi,12SER002P,29.9,Per 10.000 abitanti,+,2023
+04-16-077,Benevento,Servizi,12SER020,61.5,Valori percentuali,+,2023
+04-16-078,Napoli,Salute,01SAL001,81.1,Numero medio di anni,+,2023
+04-16-078,Napoli,Istruzione e formazione,02IST003P-N22,24.0,Valori percentuali,+,2023
+04-16-078,Napoli,Istruzione e formazione,02IST006-N22,29.2,Valori percentuali,-,2023
+04-16-078,Napoli,Lavoro,03LAV001-N22,45.4,Valori percentuali,+,2023
+04-16-078,Napoli,Lavoro,03LAV003P-N22,22.2,Valori percentuali,+,2023
+04-16-078,Napoli,Economia,04BEC001P,16734.7,Euro,+,2023
+04-16-078,Napoli,Economia,04BEC002P,18405.9,Euro,+,2023
+04-16-078,Napoli,Sicurezza,07SIC004P,135.8,Per 100.000 abitanti,-,2023
+04-16-078,Napoli,Sicurezza,07SIC005P,197.9,Per 100.000 abitanti,-,2023
+04-16-078,Napoli,Sicurezza,07SIC006P,110.1,Per 100.000 abitanti,-,2023
+04-16-078,Napoli,Ambiente,10AMB008,14.1,M2 per abitante,+,2023
+04-16-078,Napoli,Ambiente,10AMB017,51.5,Valori percentuali,+,2023
+04-16-078,Napoli,Servizi,12SER002P,36.0,Per 10.000 abitanti,+,2023
+04-16-078,Napoli,Servizi,12SER020,78.0,Valori percentuali,+,2023
+04-16-079,Avellino,Salute,01SAL001,82.4,Numero medio di anni,+,2023
+04-16-079,Avellino,Istruzione e formazione,02IST003P-N22,28.4,Valori percentuali,+,2023
+04-16-079,Avellino,Istruzione e formazione,02IST006-N22,18.7,Valori percentuali,-,2023
+04-16-079,Avellino,Lavoro,03LAV001-N22,56.6,Valori percentuali,+,2023
+04-16-079,Avellino,Lavoro,03LAV003P-N22,25.1,Valori percentuali,+,2023
+04-16-079,Avellino,Economia,04BEC001P,15960.4,Euro,+,2023
+04-16-079,Avellino,Economia,04BEC002P,18030.5,Euro,+,2023
+04-16-079,Avellino,Sicurezza,07SIC004P,274.9,Per 100.000 abitanti,-,2023
+04-16-079,Avellino,Sicurezza,07SIC005P,21.1,Per 100.000 abitanti,-,2023
+04-16-079,Avellino,Sicurezza,07SIC006P,9.0,Per 100.000 abitanti,-,2023
+04-16-079,Avellino,Ambiente,10AMB008,31.4,M2 per abitante,+,2023
+04-16-079,Avellino,Ambiente,10AMB017,62.2,Valori percentuali,+,2023
+04-16-079,Avellino,Servizi,12SER002P,25.5,Per 10.000 abitanti,+,2023
+04-16-079,Avellino,Servizi,12SER020,62.0,Valori percentuali,+,2023
+04-16-080,Salerno,Salute,01SAL001,82.1,Numero medio di anni,+,2023
+04-16-080,Salerno,Istruzione e formazione,02IST003P-N22,25.7,Valori percentuali,+,2023
+04-16-080,Salerno,Istruzione e formazione,02IST006-N22,22.5,Valori percentuali,-,2023
+04-16-080,Salerno,Lavoro,03LAV001-N22,52.7,Valori percentuali,+,2023
+04-16-080,Salerno,Lavoro,03LAV003P-N22,24.5,Valori percentuali,+,2023
+04-16-080,Salerno,Economia,04BEC001P,17644.8,Euro,+,2023
+04-16-080,Salerno,Economia,04BEC002P,15845.7,Euro,+,2023
+04-16-080,Salerno,Sicurezza,07SIC004P,173.6,Per 100.000 abitanti,-,2023
+04-16-080,Salerno,Sicurezza,07SIC005P,71.0,Per 100.000 abitanti,-,2023
+04-16-080,Salerno,Sicurezza,07SIC006P,28.3,Per 100.000 abitanti,-,2023
+04-16-080,Salerno,Ambiente,10AMB008,19.5,M2 per abitante,+,2023
+04-16-080,Salerno,Ambiente,10AMB017,67.6,Valori percentuali,+,2023
+04-16-080,Salerno,Servizi,12SER002P,29.0,Per 10.000 abitanti,+,2023
+04-16-080,Salerno,Servizi,12SER020,69.6,Valori percentuali,+,2023
+04-17-081,Foggia,Salute,01SAL001,82.4,Numero medio di anni,+,2023
+04-17-081,Foggia,Istruzione e formazione,02IST003P-N22,16.3,Valori percentuali,+,2023
+04-17-081,Foggia,Istruzione e formazione,02IST006-N22,26.7,Valori percentuali,-,2023
+04-17-081,Foggia,Lavoro,03LAV001-N22,49.3,Valori percentuali,+,2023
+04-17-081,Foggia,Lavoro,03LAV003P-N22,25.3,Valori percentuali,+,2023
+04-17-081,Foggia,Economia,04BEC001P,14554.2,Euro,+,2023
+04-17-081,Foggia,Economia,04BEC002P,16282.4,Euro,+,2023
+04-17-081,Foggia,Sicurezza,07SIC004P,112.9,Per 100.000 abitanti,-,2023
+04-17-081,Foggia,Sicurezza,07SIC005P,35.7,Per 100.000 abitanti,-,2023
+04-17-081,Foggia,Sicurezza,07SIC006P,34.2,Per 100.000 abitanti,-,2023
+04-17-081,Foggia,Ambiente,10AMB008,9.4,M2 per abitante,+,2023
+04-17-081,Foggia,Ambiente,10AMB017,44.1,Valori percentuali,+,2023
+04-17-081,Foggia,Servizi,12SER002P,34.0,Per 10.000 abitanti,+,2023
+04-17-081,Foggia,Servizi,12SER020,48.1,Valori percentuali,+,2023
+04-17-082,Bari,Salute,01SAL001,83.3,Numero medio di anni,+,2023
+04-17-082,Bari,Istruzione e formazione,02IST003P-N22,28.0,Valori percentuali,+,2023
+04-17-082,Bari,Istruzione e formazione,02IST006-N22,18.6,Valori percentuali,-,2023
+04-17-082,Bari,Lavoro,03LAV001-N22,60.1,Valori percentuali,+,2023
+04-17-082,Bari,Lavoro,03LAV003P-N22,32.7,Valori percentuali,+,2023
+04-17-082,Bari,Economia,04BEC001P,20029.4,Euro,+,2023
+04-17-082,Bari,Economia,04BEC002P,19379.3,Euro,+,2023
+04-17-082,Bari,Sicurezza,07SIC004P,140.0,Per 100.000 abitanti,-,2023
+04-17-082,Bari,Sicurezza,07SIC005P,75.4,Per 100.000 abitanti,-,2023
+04-17-082,Bari,Sicurezza,07SIC006P,31.4,Per 100.000 abitanti,-,2023
+04-17-082,Bari,Ambiente,10AMB008,9.6,M2 per abitante,+,2023
+04-17-082,Bari,Ambiente,10AMB017,63.6,Valori percentuali,+,2023
+04-17-082,Bari,Servizi,12SER002P,38.7,Per 10.000 abitanti,+,2023
+04-17-082,Bari,Servizi,12SER020,69.3,Valori percentuali,+,2023
+04-17-083,Taranto,Salute,01SAL001,82.6,Numero medio di anni,+,2023
+04-17-083,Taranto,Istruzione e formazione,02IST003P-N22,17.9,Valori percentuali,+,2023
+04-17-083,Taranto,Istruzione e formazione,02IST006-N22,28.5,Valori percentuali,-,2023
+04-17-083,Taranto,Lavoro,03LAV001-N22,47.5,Valori percentuali,+,2023
+04-17-083,Taranto,Lavoro,03LAV003P-N22,16.3,Valori percentuali,+,2023
+04-17-083,Taranto,Economia,04BEC001P,15665.7,Euro,+,2023
+04-17-083,Taranto,Economia,04BEC002P,18219.0,Euro,+,2023
+04-17-083,Taranto,Sicurezza,07SIC004P,151.9,Per 100.000 abitanti,-,2023
+04-17-083,Taranto,Sicurezza,07SIC005P,35.7,Per 100.000 abitanti,-,2023
+04-17-083,Taranto,Sicurezza,07SIC006P,15.5,Per 100.000 abitanti,-,2023
+04-17-083,Taranto,Ambiente,10AMB008,19.8,M2 per abitante,+,2023
+04-17-083,Taranto,Ambiente,10AMB017,51.5,Valori percentuali,+,2023
+04-17-083,Taranto,Servizi,12SER002P,23.5,Per 10.000 abitanti,+,2023
+04-17-083,Taranto,Servizi,12SER020,50.2,Valori percentuali,+,2023
+04-17-084,Brindisi,Salute,01SAL001,82.4,Numero medio di anni,+,2023
+04-17-084,Brindisi,Istruzione e formazione,02IST003P-N22,21.6,Valori percentuali,+,2023
+04-17-084,Brindisi,Istruzione e formazione,02IST006-N22,21.7,Valori percentuali,-,2023
+04-17-084,Brindisi,Lavoro,03LAV001-N22,57.4,Valori percentuali,+,2023
+04-17-084,Brindisi,Lavoro,03LAV003P-N22,30.1,Valori percentuali,+,2023
+04-17-084,Brindisi,Economia,04BEC001P,16137.9,Euro,+,2023
+04-17-084,Brindisi,Economia,04BEC002P,17606.7,Euro,+,2023
+04-17-084,Brindisi,Sicurezza,07SIC004P,210.7,Per 100.000 abitanti,-,2023
+04-17-084,Brindisi,Sicurezza,07SIC005P,33.6,Per 100.000 abitanti,-,2023
+04-17-084,Brindisi,Sicurezza,07SIC006P,13.2,Per 100.000 abitanti,-,2023
+04-17-084,Brindisi,Ambiente,10AMB008,13.1,M2 per abitante,+,2023
+04-17-084,Brindisi,Ambiente,10AMB017,60.3,Valori percentuali,+,2023
+04-17-084,Brindisi,Servizi,12SER002P,24.9,Per 10.000 abitanti,+,2023
+04-17-084,Brindisi,Servizi,12SER020,35.2,Valori percentuali,+,2023
+04-17-085,Lecce,Salute,01SAL001,83.0,Numero medio di anni,+,2023
+04-17-085,Lecce,Istruzione e formazione,02IST003P-N22,22.5,Valori percentuali,+,2023
+04-17-085,Lecce,Istruzione e formazione,02IST006-N22,20.4,Valori percentuali,-,2023
+04-17-085,Lecce,Lavoro,03LAV001-N22,55.6,Valori percentuali,+,2023
+04-17-085,Lecce,Lavoro,03LAV003P-N22,28.3,Valori percentuali,+,2023
+04-17-085,Lecce,Economia,04BEC001P,16510.1,Euro,+,2023
+04-17-085,Lecce,Economia,04BEC002P,15675.5,Euro,+,2023
+04-17-085,Lecce,Sicurezza,07SIC004P,240.6,Per 100.000 abitanti,-,2023
+04-17-085,Lecce,Sicurezza,07SIC005P,31.7,Per 100.000 abitanti,-,2023
+04-17-085,Lecce,Sicurezza,07SIC006P,15.6,Per 100.000 abitanti,-,2023
+04-17-085,Lecce,Ambiente,10AMB008,10.7,M2 per abitante,+,2023
+04-17-085,Lecce,Ambiente,10AMB017,63.9,Valori percentuali,+,2023
+04-17-085,Lecce,Servizi,12SER002P,26.6,Per 10.000 abitanti,+,2023
+04-17-085,Lecce,Servizi,12SER020,28.9,Valori percentuali,+,2023
+04-17-086,Barletta-Andria-Trani,Salute,01SAL001,83.1,Numero medio di anni,+,2023
+04-17-086,Barletta-Andria-Trani,Istruzione e formazione,02IST003P-N22,26.0,Valori percentuali,+,2023
+04-17-086,Barletta-Andria-Trani,Istruzione e formazione,02IST006-N22,21.7,Valori percentuali,-,2023
+04-17-086,Barletta-Andria-Trani,Lavoro,03LAV001-N22,51.8,Valori percentuali,+,2023
+04-17-086,Barletta-Andria-Trani,Lavoro,03LAV003P-N22,31.9,Valori percentuali,+,2023
+04-17-086,Barletta-Andria-Trani,Economia,04BEC001P,16393.8,Euro,+,2023
+04-17-086,Barletta-Andria-Trani,Economia,04BEC002P,15666.4,Euro,+,2023
+04-17-086,Barletta-Andria-Trani,Sicurezza,07SIC004P,114.3,Per 100.000 abitanti,-,2023
+04-17-086,Barletta-Andria-Trani,Sicurezza,07SIC005P,54.1,Per 100.000 abitanti,-,2023
+04-17-086,Barletta-Andria-Trani,Sicurezza,07SIC006P,40.7,Per 100.000 abitanti,-,2023
+04-17-086,Barletta-Andria-Trani,Ambiente,10AMB008,5.5,M2 per abitante,+,2023
+04-17-086,Barletta-Andria-Trani,Ambiente,10AMB017,66.4,Valori percentuali,+,2023
+04-17-086,Barletta-Andria-Trani,Servizi,12SER002P,23.8,Per 10.000 abitanti,+,2023
+04-17-086,Barletta-Andria-Trani,Servizi,12SER020,70.6,Valori percentuali,+,2023
+04-18-087,Potenza,Salute,01SAL001,82.3,Numero medio di anni,+,2023
+04-18-087,Potenza,Istruzione e formazione,02IST003P-N22,26.9,Valori percentuali,+,2023
+04-18-087,Potenza,Istruzione e formazione,02IST006-N22,16.9,Valori percentuali,-,2023
+04-18-087,Potenza,Lavoro,03LAV001-N22,59.1,Valori percentuali,+,2023
+04-18-087,Potenza,Lavoro,03LAV003P-N22,27.9,Valori percentuali,+,2023
+04-18-087,Potenza,Economia,04BEC001P,16741.4,Euro,+,2023
+04-18-087,Potenza,Economia,04BEC002P,19471.6,Euro,+,2023
+04-18-087,Potenza,Sicurezza,07SIC004P,102.0,Per 100.000 abitanti,-,2023
+04-18-087,Potenza,Sicurezza,07SIC005P,11.6,Per 100.000 abitanti,-,2023
+04-18-087,Potenza,Sicurezza,07SIC006P,9.6,Per 100.000 abitanti,-,2023
+04-18-087,Potenza,Ambiente,10AMB008,164.0,M2 per abitante,+,2023
+04-18-087,Potenza,Ambiente,10AMB017,63.8,Valori percentuali,+,2023
+04-18-087,Potenza,Servizi,12SER002P,25.2,Per 10.000 abitanti,+,2023
+04-18-087,Potenza,Servizi,12SER020,42.4,Valori percentuali,+,2023
+04-18-088,Matera,Salute,01SAL001,83.0,Numero medio di anni,+,2023
+04-18-088,Matera,Istruzione e formazione,02IST003P-N22,28.8,Valori percentuali,+,2023
+04-18-088,Matera,Istruzione e formazione,02IST006-N22,16.9,Valori percentuali,-,2023
+04-18-088,Matera,Lavoro,03LAV001-N22,59.2,Valori percentuali,+,2023
+04-18-088,Matera,Lavoro,03LAV003P-N22,26.2,Valori percentuali,+,2023
+04-18-088,Matera,Economia,04BEC001P,18411.7,Euro,+,2023
+04-18-088,Matera,Economia,04BEC002P,17002.5,Euro,+,2023
+04-18-088,Matera,Sicurezza,07SIC004P,98.6,Per 100.000 abitanti,-,2023
+04-18-088,Matera,Sicurezza,07SIC005P,25.7,Per 100.000 abitanti,-,2023
+04-18-088,Matera,Sicurezza,07SIC006P,5.8,Per 100.000 abitanti,-,2023
+04-18-088,Matera,Ambiente,10AMB008,17.3,M2 per abitante,+,2023
+04-18-088,Matera,Ambiente,10AMB017,66.6,Valori percentuali,+,2023
+04-18-088,Matera,Servizi,12SER002P,23.2,Per 10.000 abitanti,+,2023
+04-18-088,Matera,Servizi,12SER020,44.8,Valori percentuali,+,2023
+04-19-089,Cosenza,Salute,01SAL001,81.7,Numero medio di anni,+,2023
+04-19-089,Cosenza,Istruzione e formazione,02IST003P-N22,26.2,Valori percentuali,+,2023
+04-19-089,Cosenza,Istruzione e formazione,02IST006-N22,28.5,Valori percentuali,-,2023
+04-19-089,Cosenza,Lavoro,03LAV001-N22,48.0,Valori percentuali,+,2023
+04-19-089,Cosenza,Lavoro,03LAV003P-N22,20.9,Valori percentuali,+,2023
+04-19-089,Cosenza,Economia,04BEC001P,16274.8,Euro,+,2023
+04-19-089,Cosenza,Economia,04BEC002P,14816.9,Euro,+,2023
+04-19-089,Cosenza,Sicurezza,07SIC004P,99.7,Per 100.000 abitanti,-,2023
+04-19-089,Cosenza,Sicurezza,07SIC005P,15.5,Per 100.000 abitanti,-,2023
+04-19-089,Cosenza,Sicurezza,07SIC006P,10.3,Per 100.000 abitanti,-,2023
+04-19-089,Cosenza,Ambiente,10AMB008,39.8,M2 per abitante,+,2023
+04-19-089,Cosenza,Ambiente,10AMB017,58.9,Valori percentuali,+,2023
+04-19-089,Cosenza,Servizi,12SER002P,25.3,Per 10.000 abitanti,+,2023
+04-19-089,Cosenza,Servizi,12SER020,24.1,Valori percentuali,+,2023
+04-19-090,Catanzaro,Salute,01SAL001,82.6,Numero medio di anni,+,2023
+04-19-090,Catanzaro,Istruzione e formazione,02IST003P-N22,29.3,Valori percentuali,+,2023
+04-19-090,Catanzaro,Istruzione e formazione,02IST006-N22,20.4,Valori percentuali,-,2023
+04-19-090,Catanzaro,Lavoro,03LAV001-N22,56.5,Valori percentuali,+,2023
+04-19-090,Catanzaro,Lavoro,03LAV003P-N22,25.4,Valori percentuali,+,2023
+04-19-090,Catanzaro,Economia,04BEC001P,17349.9,Euro,+,2023
+04-19-090,Catanzaro,Economia,04BEC002P,15991.5,Euro,+,2023
+04-19-090,Catanzaro,Sicurezza,07SIC004P,86.7,Per 100.000 abitanti,-,2023
+04-19-090,Catanzaro,Sicurezza,07SIC005P,13.5,Per 100.000 abitanti,-,2023
+04-19-090,Catanzaro,Sicurezza,07SIC006P,10.0,Per 100.000 abitanti,-,2023
+04-19-090,Catanzaro,Ambiente,10AMB008,59.7,M2 per abitante,+,2023
+04-19-090,Catanzaro,Ambiente,10AMB017,65.5,Valori percentuali,+,2023
+04-19-090,Catanzaro,Servizi,12SER002P,49.2,Per 10.000 abitanti,+,2023
+04-19-090,Catanzaro,Servizi,12SER020,49.7,Valori percentuali,+,2023
+04-19-091,Reggio di Calabria,Salute,01SAL001,82.0,Numero medio di anni,+,2023
+04-19-091,Reggio di Calabria,Istruzione e formazione,02IST003P-N22,22.7,Valori percentuali,+,2023
+04-19-091,Reggio di Calabria,Istruzione e formazione,02IST006-N22,31.0,Valori percentuali,-,2023
+04-19-091,Reggio di Calabria,Lavoro,03LAV001-N22,45.0,Valori percentuali,+,2023
+04-19-091,Reggio di Calabria,Lavoro,03LAV003P-N22,17.0,Valori percentuali,+,2023
+04-19-091,Reggio di Calabria,Economia,04BEC001P,15684.4,Euro,+,2023
+04-19-091,Reggio di Calabria,Economia,04BEC002P,16410.8,Euro,+,2023
+04-19-091,Reggio di Calabria,Sicurezza,07SIC004P,97.3,Per 100.000 abitanti,-,2023
+04-19-091,Reggio di Calabria,Sicurezza,07SIC005P,23.6,Per 100.000 abitanti,-,2023
+04-19-091,Reggio di Calabria,Sicurezza,07SIC006P,13.7,Per 100.000 abitanti,-,2023
+04-19-091,Reggio di Calabria,Ambiente,10AMB008,37.5,M2 per abitante,+,2023
+04-19-091,Reggio di Calabria,Ambiente,10AMB017,44.6,Valori percentuali,+,2023
+04-19-091,Reggio di Calabria,Servizi,12SER002P,27.4,Per 10.000 abitanti,+,2023
+04-19-091,Reggio di Calabria,Servizi,12SER020,42.4,Valori percentuali,+,2023
+04-19-092,Crotone,Salute,01SAL001,81.8,Numero medio di anni,+,2023
+04-19-092,Crotone,Istruzione e formazione,02IST003P-N22,16.2,Valori percentuali,+,2023
+04-19-092,Crotone,Istruzione e formazione,02IST006-N22,26.7,Valori percentuali,-,2023
+04-19-092,Crotone,Lavoro,03LAV001-N22,44.0,Valori percentuali,+,2023
+04-19-092,Crotone,Lavoro,03LAV003P-N22,22.7,Valori percentuali,+,2023
+04-19-092,Crotone,Economia,04BEC001P,15414.1,Euro,+,2023
+04-19-092,Crotone,Economia,04BEC002P,14873.6,Euro,+,2023
+04-19-092,Crotone,Sicurezza,07SIC004P,61.6,Per 100.000 abitanti,-,2023
+04-19-092,Crotone,Sicurezza,07SIC005P,4.9,Per 100.000 abitanti,-,2023
+04-19-092,Crotone,Sicurezza,07SIC006P,3.7,Per 100.000 abitanti,-,2023
+04-19-092,Crotone,Ambiente,10AMB008,3.5,M2 per abitante,+,2023
+04-19-092,Crotone,Ambiente,10AMB017,43.9,Valori percentuali,+,2023
+04-19-092,Crotone,Servizi,12SER002P,23.4,Per 10.000 abitanti,+,2023
+04-19-092,Crotone,Servizi,12SER020,47.3,Valori percentuali,+,2023
+04-19-093,Vibo Valentia,Salute,01SAL001,82.3,Numero medio di anni,+,2023
+04-19-093,Vibo Valentia,Istruzione e formazione,02IST003P-N22,30.8,Valori percentuali,+,2023
+04-19-093,Vibo Valentia,Istruzione e formazione,02IST006-N22,24.0,Valori percentuali,-,2023
+04-19-093,Vibo Valentia,Lavoro,03LAV001-N22,47.7,Valori percentuali,+,2023
+04-19-093,Vibo Valentia,Lavoro,03LAV003P-N22,15.6,Valori percentuali,+,2023
+04-19-093,Vibo Valentia,Economia,04BEC001P,15542.1,Euro,+,2023
+04-19-093,Vibo Valentia,Economia,04BEC002P,13387.8,Euro,+,2023
+04-19-093,Vibo Valentia,Sicurezza,07SIC004P,79.7,Per 100.000 abitanti,-,2023
+04-19-093,Vibo Valentia,Sicurezza,07SIC005P,2.7,Per 100.000 abitanti,-,2023
+04-19-093,Vibo Valentia,Sicurezza,07SIC006P,2.7,Per 100.000 abitanti,-,2023
+04-19-093,Vibo Valentia,Ambiente,10AMB008,13.2,M2 per abitante,+,2023
+04-19-093,Vibo Valentia,Ambiente,10AMB017,59.4,Valori percentuali,+,2023
+04-19-093,Vibo Valentia,Servizi,12SER002P,20.9,Per 10.000 abitanti,+,2023
+04-19-093,Vibo Valentia,Servizi,12SER020,26.6,Valori percentuali,+,2023
+05-20-094,Trapani,Salute,01SAL001,81.8,Numero medio di anni,+,2023
+05-20-094,Trapani,Istruzione e formazione,02IST003P-N22,22.6,Valori percentuali,+,2023
+05-20-094,Trapani,Istruzione e formazione,02IST006-N22,25.0,Valori percentuali,-,2023
+05-20-094,Trapani,Lavoro,03LAV001-N22,49.5,Valori percentuali,+,2023
+05-20-094,Trapani,Lavoro,03LAV003P-N22,23.7,Valori percentuali,+,2023
+05-20-094,Trapani,Economia,04BEC001P,16497.3,Euro,+,2023
+05-20-094,Trapani,Economia,04BEC002P,14853.6,Euro,+,2023
+05-20-094,Trapani,Sicurezza,07SIC004P,264.5,Per 100.000 abitanti,-,2023
+05-20-094,Trapani,Sicurezza,07SIC005P,17.6,Per 100.000 abitanti,-,2023
+05-20-094,Trapani,Sicurezza,07SIC006P,29.7,Per 100.000 abitanti,-,2023
+05-20-094,Trapani,Ambiente,10AMB008,7.2,M2 per abitante,+,2023
+05-20-094,Trapani,Ambiente,10AMB017,78.0,Valori percentuali,+,2023
+05-20-094,Trapani,Servizi,12SER002P,24.7,Per 10.000 abitanti,+,2023
+05-20-094,Trapani,Servizi,12SER020,67.5,Valori percentuali,+,2023
+05-20-095,Palermo,Salute,01SAL001,81.8,Numero medio di anni,+,2023
+05-20-095,Palermo,Istruzione e formazione,02IST003P-N22,23.6,Valori percentuali,+,2023
+05-20-095,Palermo,Istruzione e formazione,02IST006-N22,29.1,Valori percentuali,-,2023
+05-20-095,Palermo,Lavoro,03LAV001-N22,46.5,Valori percentuali,+,2023
+05-20-095,Palermo,Lavoro,03LAV003P-N22,18.2,Valori percentuali,+,2023
+05-20-095,Palermo,Economia,04BEC001P,17078.4,Euro,+,2023
+05-20-095,Palermo,Economia,04BEC002P,17910.7,Euro,+,2023
+05-20-095,Palermo,Sicurezza,07SIC004P,108.5,Per 100.000 abitanti,-,2023
+05-20-095,Palermo,Sicurezza,07SIC005P,137.7,Per 100.000 abitanti,-,2023
+05-20-095,Palermo,Sicurezza,07SIC006P,46.4,Per 100.000 abitanti,-,2023
+05-20-095,Palermo,Ambiente,10AMB008,12.1,M2 per abitante,+,2023
+05-20-095,Palermo,Ambiente,10AMB017,36.7,Valori percentuali,+,2023
+05-20-095,Palermo,Servizi,12SER002P,41.6,Per 10.000 abitanti,+,2023
+05-20-095,Palermo,Servizi,12SER020,80.7,Valori percentuali,+,2023
+05-20-096,Messina,Salute,01SAL001,81.7,Numero medio di anni,+,2023
+05-20-096,Messina,Istruzione e formazione,02IST003P-N22,19.2,Valori percentuali,+,2023
+05-20-096,Messina,Istruzione e formazione,02IST006-N22,27.3,Valori percentuali,-,2023
+05-20-096,Messina,Lavoro,03LAV001-N22,48.8,Valori percentuali,+,2023
+05-20-096,Messina,Lavoro,03LAV003P-N22,26.5,Valori percentuali,+,2023
+05-20-096,Messina,Economia,04BEC001P,17818.3,Euro,+,2023
+05-20-096,Messina,Economia,04BEC002P,15684.0,Euro,+,2023
+05-20-096,Messina,Sicurezza,07SIC004P,71.8,Per 100.000 abitanti,-,2023
+05-20-096,Messina,Sicurezza,07SIC005P,19.4,Per 100.000 abitanti,-,2023
+05-20-096,Messina,Sicurezza,07SIC006P,14.5,Per 100.000 abitanti,-,2023
+05-20-096,Messina,Ambiente,10AMB008,6.3,M2 per abitante,+,2023
+05-20-096,Messina,Ambiente,10AMB017,63.3,Valori percentuali,+,2023
+05-20-096,Messina,Servizi,12SER002P,47.8,Per 10.000 abitanti,+,2023
+05-20-096,Messina,Servizi,12SER020,68.6,Valori percentuali,+,2023
+05-20-097,Agrigento,Salute,01SAL001,81.4,Numero medio di anni,+,2023
+05-20-097,Agrigento,Istruzione e formazione,02IST003P-N22,23.6,Valori percentuali,+,2023
+05-20-097,Agrigento,Istruzione e formazione,02IST006-N22,26.1,Valori percentuali,-,2023
+05-20-097,Agrigento,Lavoro,03LAV001-N22,48.8,Valori percentuali,+,2023
+05-20-097,Agrigento,Lavoro,03LAV003P-N22,19.7,Valori percentuali,+,2023
+05-20-097,Agrigento,Economia,04BEC001P,14802.3,Euro,+,2023
+05-20-097,Agrigento,Economia,04BEC002P,15211.1,Euro,+,2023
+05-20-097,Agrigento,Sicurezza,07SIC004P,113.4,Per 100.000 abitanti,-,2023
+05-20-097,Agrigento,Sicurezza,07SIC005P,18.9,Per 100.000 abitanti,-,2023
+05-20-097,Agrigento,Sicurezza,07SIC006P,17.5,Per 100.000 abitanti,-,2023
+05-20-097,Agrigento,Ambiente,10AMB008,99.0,M2 per abitante,+,2023
+05-20-097,Agrigento,Ambiente,10AMB017,60.9,Valori percentuali,+,2023
+05-20-097,Agrigento,Servizi,12SER002P,22.7,Per 10.000 abitanti,+,2023
+05-20-097,Agrigento,Servizi,12SER020,36.2,Valori percentuali,+,2023
+05-20-098,Caltanissetta,Salute,01SAL001,81.4,Numero medio di anni,+,2023
+05-20-098,Caltanissetta,Istruzione e formazione,02IST003P-N22,22.5,Valori percentuali,+,2023
+05-20-098,Caltanissetta,Istruzione e formazione,02IST006-N22,33.8,Valori percentuali,-,2023
+05-20-098,Caltanissetta,Lavoro,03LAV001-N22,41.2,Valori percentuali,+,2023
+05-20-098,Caltanissetta,Lavoro,03LAV003P-N22,20.4,Valori percentuali,+,2023
+05-20-098,Caltanissetta,Economia,04BEC001P,15900.4,Euro,+,2023
+05-20-098,Caltanissetta,Economia,04BEC002P,18014.6,Euro,+,2023
+05-20-098,Caltanissetta,Sicurezza,07SIC004P,149.5,Per 100.000 abitanti,-,2023
+05-20-098,Caltanissetta,Sicurezza,07SIC005P,21.0,Per 100.000 abitanti,-,2023
+05-20-098,Caltanissetta,Sicurezza,07SIC006P,15.3,Per 100.000 abitanti,-,2023
+05-20-098,Caltanissetta,Ambiente,10AMB008,10.6,M2 per abitante,+,2023
+05-20-098,Caltanissetta,Ambiente,10AMB017,64.5,Valori percentuali,+,2023
+05-20-098,Caltanissetta,Servizi,12SER002P,25.2,Per 10.000 abitanti,+,2023
+05-20-098,Caltanissetta,Servizi,12SER020,55.6,Valori percentuali,+,2023
+05-20-099,Enna,Salute,01SAL001,81.3,Numero medio di anni,+,2023
+05-20-099,Enna,Istruzione e formazione,02IST003P-N22,21.6,Valori percentuali,+,2023
+05-20-099,Enna,Istruzione e formazione,02IST006-N22,26.5,Valori percentuali,-,2023
+05-20-099,Enna,Lavoro,03LAV001-N22,51.1,Valori percentuali,+,2023
+05-20-099,Enna,Lavoro,03LAV003P-N22,26.8,Valori percentuali,+,2023
+05-20-099,Enna,Economia,04BEC001P,14982.7,Euro,+,2023
+05-20-099,Enna,Economia,04BEC002P,16321.9,Euro,+,2023
+05-20-099,Enna,Sicurezza,07SIC004P,84.3,Per 100.000 abitanti,-,2023
+05-20-099,Enna,Sicurezza,07SIC005P,11.0,Per 100.000 abitanti,-,2023
+05-20-099,Enna,Sicurezza,07SIC006P,7.1,Per 100.000 abitanti,-,2023
+05-20-099,Enna,Ambiente,10AMB008,18.2,M2 per abitante,+,2023
+05-20-099,Enna,Ambiente,10AMB017,65.9,Valori percentuali,+,2023
+05-20-099,Enna,Servizi,12SER002P,30.1,Per 10.000 abitanti,+,2023
+05-20-099,Enna,Servizi,12SER020,34.1,Valori percentuali,+,2023
+05-20-100,Catania,Salute,01SAL001,81.7,Numero medio di anni,+,2023
+05-20-100,Catania,Istruzione e formazione,02IST003P-N22,20.3,Valori percentuali,+,2023
+05-20-100,Catania,Istruzione e formazione,02IST006-N22,28.0,Valori percentuali,-,2023
+05-20-100,Catania,Lavoro,03LAV001-N22,48.9,Valori percentuali,+,2023
+05-20-100,Catania,Lavoro,03LAV003P-N22,24.6,Valori percentuali,+,2023
+05-20-100,Catania,Economia,04BEC001P,17316.3,Euro,+,2023
+05-20-100,Catania,Economia,04BEC002P,18303.3,Euro,+,2023
+05-20-100,Catania,Sicurezza,07SIC004P,133.4,Per 100.000 abitanti,-,2023
+05-20-100,Catania,Sicurezza,07SIC005P,76.4,Per 100.000 abitanti,-,2023
+05-20-100,Catania,Sicurezza,07SIC006P,36.4,Per 100.000 abitanti,-,2023
+05-20-100,Catania,Ambiente,10AMB008,16.8,M2 per abitante,+,2023
+05-20-100,Catania,Ambiente,10AMB017,55.8,Valori percentuali,+,2023
+05-20-100,Catania,Servizi,12SER002P,41.9,Per 10.000 abitanti,+,2023
+05-20-100,Catania,Servizi,12SER020,61.7,Valori percentuali,+,2023
+05-20-101,Ragusa,Salute,01SAL001,82.3,Numero medio di anni,+,2023
+05-20-101,Ragusa,Istruzione e formazione,02IST003P-N22,24.4,Valori percentuali,+,2023
+05-20-101,Ragusa,Istruzione e formazione,02IST006-N22,19.7,Valori percentuali,-,2023
+05-20-101,Ragusa,Lavoro,03LAV001-N22,60.5,Valori percentuali,+,2023
+05-20-101,Ragusa,Lavoro,03LAV003P-N22,37.0,Valori percentuali,+,2023
+05-20-101,Ragusa,Economia,04BEC001P,17653.5,Euro,+,2023
+05-20-101,Ragusa,Economia,04BEC002P,15589.8,Euro,+,2023
+05-20-101,Ragusa,Sicurezza,07SIC004P,219.4,Per 100.000 abitanti,-,2023
+05-20-101,Ragusa,Sicurezza,07SIC005P,26.1,Per 100.000 abitanti,-,2023
+05-20-101,Ragusa,Sicurezza,07SIC006P,17.3,Per 100.000 abitanti,-,2023
+05-20-101,Ragusa,Ambiente,10AMB008,22.6,M2 per abitante,+,2023
+05-20-101,Ragusa,Ambiente,10AMB017,68.3,Valori percentuali,+,2023
+05-20-101,Ragusa,Servizi,12SER002P,25.4,Per 10.000 abitanti,+,2023
+05-20-101,Ragusa,Servizi,12SER020,58.9,Valori percentuali,+,2023
+05-20-102,Siracusa,Salute,01SAL001,81.5,Numero medio di anni,+,2023
+05-20-102,Siracusa,Istruzione e formazione,02IST003P-N22,19.6,Valori percentuali,+,2023
+05-20-102,Siracusa,Istruzione e formazione,02IST006-N22,33.7,Valori percentuali,-,2023
+05-20-102,Siracusa,Lavoro,03LAV001-N22,47.7,Valori percentuali,+,2023
+05-20-102,Siracusa,Lavoro,03LAV003P-N22,20.3,Valori percentuali,+,2023
+05-20-102,Siracusa,Economia,04BEC001P,17307.2,Euro,+,2023
+05-20-102,Siracusa,Economia,04BEC002P,18227.1,Euro,+,2023
+05-20-102,Siracusa,Sicurezza,07SIC004P,169.4,Per 100.000 abitanti,-,2023
+05-20-102,Siracusa,Sicurezza,07SIC005P,47.9,Per 100.000 abitanti,-,2023
+05-20-102,Siracusa,Sicurezza,07SIC006P,28.1,Per 100.000 abitanti,-,2023
+05-20-102,Siracusa,Ambiente,10AMB008,8.4,M2 per abitante,+,2023
+05-20-102,Siracusa,Ambiente,10AMB017,52.7,Valori percentuali,+,2023
+05-20-102,Siracusa,Servizi,12SER002P,25.0,Per 10.000 abitanti,+,2023
+05-20-102,Siracusa,Servizi,12SER020,48.6,Valori percentuali,+,2023
+05-21-103,Sassari,Salute,01SAL001,82.6,Numero medio di anni,+,2023
+05-21-103,Sassari,Istruzione e formazione,02IST003P-N22,23.4,Valori percentuali,+,2023
+05-21-103,Sassari,Istruzione e formazione,02IST006-N22,20.9,Valori percentuali,-,2023
+05-21-103,Sassari,Lavoro,03LAV001-N22,58.4,Valori percentuali,+,2023
+05-21-103,Sassari,Lavoro,03LAV003P-N22,30.7,Valori percentuali,+,2023
+05-21-103,Sassari,Economia,04BEC001P,18567.8,Euro,+,2023
+05-21-103,Sassari,Economia,04BEC002P,16625.8,Euro,+,2023
+05-21-103,Sassari,Sicurezza,07SIC004P,122.3,Per 100.000 abitanti,-,2023
+05-21-103,Sassari,Sicurezza,07SIC005P,40.8,Per 100.000 abitanti,-,2023
+05-21-103,Sassari,Sicurezza,07SIC006P,24.2,Per 100.000 abitanti,-,2023
+05-21-103,Sassari,Ambiente,10AMB008,18.9,M2 per abitante,+,2023
+05-21-103,Sassari,Ambiente,10AMB017,71.1,Valori percentuali,+,2023
+05-21-103,Sassari,Servizi,12SER002P,41.1,Per 10.000 abitanti,+,2023
+05-21-103,Sassari,Servizi,12SER020,36.6,Valori percentuali,+,2023
+05-21-104,Nuoro,Salute,01SAL001,82.6,Numero medio di anni,+,2023
+05-21-104,Nuoro,Istruzione e formazione,02IST003P-N22,23.7,Valori percentuali,+,2023
+05-21-104,Nuoro,Istruzione e formazione,02IST006-N22,18.7,Valori percentuali,-,2023
+05-21-104,Nuoro,Lavoro,03LAV001-N22,57.5,Valori percentuali,+,2023
+05-21-104,Nuoro,Lavoro,03LAV003P-N22,27.8,Valori percentuali,+,2023
+05-21-104,Nuoro,Economia,04BEC001P,16281.3,Euro,+,2023
+05-21-104,Nuoro,Economia,04BEC002P,14675.6,Euro,+,2023
+05-21-104,Nuoro,Sicurezza,07SIC004P,54.6,Per 100.000 abitanti,-,2023
+05-21-104,Nuoro,Sicurezza,07SIC005P,5.0,Per 100.000 abitanti,-,2023
+05-21-104,Nuoro,Sicurezza,07SIC006P,10.9,Per 100.000 abitanti,-,2023
+05-21-104,Nuoro,Ambiente,10AMB008,34.8,M2 per abitante,+,2023
+05-21-104,Nuoro,Ambiente,10AMB017,79.6,Valori percentuali,+,2023
+05-21-104,Nuoro,Servizi,12SER002P,29.4,Per 10.000 abitanti,+,2023
+05-21-104,Nuoro,Servizi,12SER020,18.7,Valori percentuali,+,2023
+05-21-105,Cagliari,Salute,01SAL001,83.1,Numero medio di anni,+,2023
+05-21-105,Cagliari,Istruzione e formazione,02IST003P-N22,35.0,Valori percentuali,+,2023
+05-21-105,Cagliari,Istruzione e formazione,02IST006-N22,16.8,Valori percentuali,-,2023
+05-21-105,Cagliari,Lavoro,03LAV001-N22,65.3,Valori percentuali,+,2023
+05-21-105,Cagliari,Lavoro,03LAV003P-N22,32.4,Valori percentuali,+,2023
+05-21-105,Cagliari,Economia,04BEC001P,23318.6,Euro,+,2023
+05-21-105,Cagliari,Economia,04BEC002P,20229.7,Euro,+,2023
+05-21-105,Cagliari,Sicurezza,07SIC004P,77.5,Per 100.000 abitanti,-,2023
+05-21-105,Cagliari,Sicurezza,07SIC005P,34.7,Per 100.000 abitanti,-,2023
+05-21-105,Cagliari,Sicurezza,07SIC006P,21.7,Per 100.000 abitanti,-,2023
+05-21-105,Cagliari,Ambiente,10AMB008,55.1,M2 per abitante,+,2023
+05-21-105,Cagliari,Ambiente,10AMB017,78.2,Valori percentuali,+,2023
+05-21-105,Cagliari,Servizi,12SER002P,63.6,Per 10.000 abitanti,+,2023
+05-21-105,Cagliari,Servizi,12SER020,77.0,Valori percentuali,+,2023
+05-21-106,Oristano,Salute,01SAL001,82.8,Numero medio di anni,+,2023
+05-21-106,Oristano,Istruzione e formazione,02IST003P-N22,24.2,Valori percentuali,+,2023
+05-21-106,Oristano,Istruzione e formazione,02IST006-N22,17.8,Valori percentuali,-,2023
+05-21-106,Oristano,Lavoro,03LAV001-N22,59.7,Valori percentuali,+,2023
+05-21-106,Oristano,Lavoro,03LAV003P-N22,34.7,Valori percentuali,+,2023
+05-21-106,Oristano,Economia,04BEC001P,17097.1,Euro,+,2023
+05-21-106,Oristano,Economia,04BEC002P,17164.2,Euro,+,2023
+05-21-106,Oristano,Sicurezza,07SIC004P,56.8,Per 100.000 abitanti,-,2023
+05-21-106,Oristano,Sicurezza,07SIC005P,5.8,Per 100.000 abitanti,-,2023
+05-21-106,Oristano,Sicurezza,07SIC006P,2.9,Per 100.000 abitanti,-,2023
+05-21-106,Oristano,Ambiente,10AMB008,59.3,M2 per abitante,+,2023
+05-21-106,Oristano,Ambiente,10AMB017,81.3,Valori percentuali,+,2023
+05-21-106,Oristano,Servizi,12SER002P,29.1,Per 10.000 abitanti,+,2023
+05-21-106,Oristano,Servizi,12SER020,18.3,Valori percentuali,+,2023
+05-21-111,Sud Sardegna,Salute,01SAL001,82.1,Numero medio di anni,+,2023
+05-21-111,Sud Sardegna,Istruzione e formazione,02IST003P-N22,14.7,Valori percentuali,+,2023
+05-21-111,Sud Sardegna,Istruzione e formazione,02IST006-N22,22.6,Valori percentuali,-,2023
+05-21-111,Sud Sardegna,Lavoro,03LAV001-N22,56.4,Valori percentuali,+,2023
+05-21-111,Sud Sardegna,Lavoro,03LAV003P-N22,23.2,Valori percentuali,+,2023
+05-21-111,Sud Sardegna,Economia,04BEC001P,16944.3,Euro,+,2023
+05-21-111,Sud Sardegna,Economia,04BEC002P,16593.6,Euro,+,2023
+05-21-111,Sud Sardegna,Sicurezza,07SIC004P,,Per 100.000 abitanti,-,2023
+05-21-111,Sud Sardegna,Sicurezza,07SIC005P,,Per 100.000 abitanti,-,2023
+05-21-111,Sud Sardegna,Sicurezza,07SIC006P,,Per 100.000 abitanti,-,2023
+05-21-111,Sud Sardegna,Ambiente,10AMB008,91.5,M2 per abitante,+,2023
+05-21-111,Sud Sardegna,Ambiente,10AMB017,79.4,Valori percentuali,+,2023
+05-21-111,Sud Sardegna,Servizi,12SER002P,22.0,Per 10.000 abitanti,+,2023
+05-21-111,Sud Sardegna,Servizi,12SER020,17.0,Valori percentuali,+,2023
