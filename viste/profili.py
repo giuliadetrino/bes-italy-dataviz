@@ -7,11 +7,11 @@ COLORE_LINEA = "#9CA3AF"         # stesso grigio di spostamenti.py
 
 AREE_ORDINATE = [
     "Salute",
-    "Istruzione",
+    "Istruzione e formazione",
     "Lavoro",
     "Economia",
     "Ambiente",
-    "Qualità dei servizi",
+    "Servizi",
     "Sicurezza",
 ]
 
@@ -52,6 +52,34 @@ def _formatta_valori_originali(
     return "<br>".join(righe)
 
 
+def _valida_profilo_provincia(df_prov: pd.DataFrame, provincia: str) -> pd.Series:
+    """
+    Verifica che la provincia sia presente, abbia tutte e sette le macroaree
+    senza duplicati e che tutti i punteggi siano compresi tra 0 e 100.
+    Restituisce una Series indicizzata per area.
+    """
+    if df_prov.empty:
+        raise ValueError(f"Provincia non trovata in df_aree: {provincia}")
+
+    if df_prov["area"].duplicated().any():
+        raise ValueError(f"Aree duplicate trovate per la provincia: {provincia}")
+
+    aree_mancanti = set(AREE_ORDINATE) - set(df_prov["area"])
+    if aree_mancanti:
+        raise ValueError(
+            f"Macroaree mancanti per {provincia}: {sorted(aree_mancanti)}"
+        )
+
+    serie = df_prov.set_index("area").loc[AREE_ORDINATE, "punteggio_area"]
+
+    if serie.isna().any() or (serie < 0).any() or (serie > 100).any():
+        raise ValueError(
+            f"I punteggi di {provincia} devono essere compresi tra 0 e 100."
+        )
+
+    return serie
+
+
 def crea_profili(
     df_aree: pd.DataFrame,
     provincia_a: str,
@@ -71,28 +99,23 @@ def crea_profili(
     if mancanti:
         raise ValueError(f"Colonne mancanti in df_aree: {mancanti}")
 
-    aree_presenti = [a for a in AREE_ORDINATE if a in df_aree["area"].unique()]
-    if not aree_presenti:
-        aree_presenti = list(df_aree["area"].unique())
+    serie_a = _valida_profilo_provincia(
+        df_aree[df_aree["provincia"] == provincia_a], provincia_a
+    )
+    serie_b = _valida_profilo_provincia(
+        df_aree[df_aree["provincia"] == provincia_b], provincia_b
+    )
 
-    dati_a = df_aree[df_aree["provincia"] == provincia_a].set_index("area")
-    dati_b = df_aree[df_aree["provincia"] == provincia_b].set_index("area")
+    punteggi_a = [float(serie_a[a]) for a in AREE_ORDINATE]
+    punteggi_b = [float(serie_b[a]) for a in AREE_ORDINATE]
 
-    if dati_a.empty:
-        raise ValueError(f"Provincia non trovata in df_aree: {provincia_a}")
-    if dati_b.empty:
-        raise ValueError(f"Provincia non trovata in df_aree: {provincia_b}")
-
-    punteggi_a = [float(dati_a.loc[a, "punteggio_area"]) for a in aree_presenti]
-    punteggi_b = [float(dati_b.loc[a, "punteggio_area"]) for a in aree_presenti]
-
-    dettagli_a = [_formatta_valori_originali(df_indicatori, provincia_a, a) for a in aree_presenti]
-    dettagli_b = [_formatta_valori_originali(df_indicatori, provincia_b, a) for a in aree_presenti]
+    dettagli_a = [_formatta_valori_originali(df_indicatori, provincia_a, a) for a in AREE_ORDINATE]
+    dettagli_b = [_formatta_valori_originali(df_indicatori, provincia_b, a) for a in AREE_ORDINATE]
 
     figura = go.Figure()
 
     # Linee grigie che collegano i due punti su ciascuna area
-    for area, x0, x1 in zip(aree_presenti, punteggi_a, punteggi_b):
+    for area, x0, x1 in zip(AREE_ORDINATE, punteggi_a, punteggi_b):
         figura.add_trace(
             go.Scatter(
                 x=[x0, x1],
@@ -108,7 +131,7 @@ def crea_profili(
     figura.add_trace(
         go.Scatter(
             x=punteggi_a,
-            y=aree_presenti,
+            y=AREE_ORDINATE,
             mode="markers",
             name=provincia_a,
             marker=dict(color=COLORE_PROVINCIA_A, size=12, line=dict(color="white", width=1.5)),
@@ -125,7 +148,7 @@ def crea_profili(
     figura.add_trace(
         go.Scatter(
             x=punteggi_b,
-            y=aree_presenti,
+            y=AREE_ORDINATE,
             mode="markers",
             name=provincia_b,
             marker=dict(color=COLORE_PROVINCIA_B, size=12, line=dict(color="white", width=1.5)),
@@ -145,7 +168,7 @@ def crea_profili(
         template="plotly_white",
         height=440,
         legend=dict(orientation="h", yanchor="bottom", y=1.02, x=0),
-        margin=dict(l=150, r=30, t=90, b=50),
+        margin=dict(l=170, r=30, t=90, b=50),
     )
     return figura
 
@@ -169,7 +192,7 @@ if __name__ == "__main__":
 
     figura = crea_profili(dati_aree, "Provincia A", "Provincia B", df_indicatori=dati_indicatori)
 
-    # Verifica requisiti: due serie distinguibili (1 trace per serie + 7 linee = 9 tracce) e stessa scala 0-100
+    # Verifica requisiti: 7 linee + 2 serie = 9 tracce, stessa scala 0-100
     assert len(figura.data) == 9
     assert figura.layout.xaxis.range == (-3, 103)
     print("Figura creata:", type(figura).__name__, "con", len(figura.data), "tracce")
