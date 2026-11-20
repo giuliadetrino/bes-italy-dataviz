@@ -1,7 +1,7 @@
 from pathlib import Path
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parents
+ROOT = Path(__file__).resolve().parents[1]
 INPUT_FILE = ROOT / "data" / "elaborati" / "bes_2023_normalizzato.csv"
 
 AREE_ATTESE = [
