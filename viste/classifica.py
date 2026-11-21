@@ -121,4 +121,25 @@ if __name__ == "__main__":
     assert colori[0] == colori[2]
     assert colori[1] != colori[0]
 
+    # Test della gestione dei pari merito
+    dati_pari = pd.DataFrame({
+        "provincia": ["Roma", "Napoli", "Milano"],
+        "indice": [90.0, 75.0, 90.0],
+        "posizione": [1, 3, 1],
+    })
+
+    figura_pari = crea_classifica(dati_pari)
+
+    # Verifica che due province prime a pari merito
+    # siano ordinate alfabeticamente
+    grafico_pari = figura_pari.data[0]
+    assert isinstance(grafico_pari, go.Bar)
+    assert grafico_pari.y is not None
+
+    assert list(grafico_pari.y) == [
+        "1° Milano",
+        "1° Roma",
+        "3° Napoli",
+    ]
+
     print("TEST SUPERATO: figura Plotly e ordinamento corretti")
