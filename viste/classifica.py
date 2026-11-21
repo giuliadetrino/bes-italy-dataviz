@@ -72,8 +72,9 @@ def crea_classifica(df: pd.DataFrame, provincia_selezionata: str | None = None) 
     return figura
 
 
+
 if __name__ == "__main__":
-    # Dati di prova usati solo per verificare il grafico
+    # Dati di prova per verificare il grafico
     dati_test = pd.DataFrame({
         "provincia": ["Roma", "Milano", "Napoli"],
         "indice": [75.0, 90.0, 60.0],
@@ -88,16 +89,23 @@ if __name__ == "__main__":
     # Verifica che la funzione restituisca una figura Plotly
     assert isinstance(figura_test, go.Figure)
 
-    # Verifica l'ordine delle province per posizione
-    assert list(figura_test.data[0].y) == [
+    # Verifica che il grafico sia a barre
+    grafico = figura_test.data[0]
+    assert isinstance(grafico, go.Bar)
+
+    
+    # Verifica l'ordinamento delle province
+    assert grafico.y is not None
+    assert list(grafico.y) == [
         "1° Milano",
         "2° Roma",
         "3° Napoli",
     ]
 
-    # Verifica che i punteggi siano ordinati correttamente
-    assert list(figura_test.data[0].x) == [
-        90.0, 75.0, 60.0
+    # Verifica l'ordinamento dei punteggi
+    assert grafico.x is not None
+    assert list(grafico.x) == [
+        90.0, 75.0, 60.0,
     ]
 
     print("TEST SUPERATO: figura Plotly e ordinamento corretti")
