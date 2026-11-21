@@ -2,7 +2,6 @@
 import pandas as pd
 import plotly.graph_objects as go
 
-# https://www.youtube.com/watch?v=3TNpOD6bov8
 
 
 def crea_classifica(df: pd.DataFrame, provincia_selezionata: str | None = None) -> go.Figure:
@@ -107,5 +106,19 @@ if __name__ == "__main__":
     assert list(grafico.x) == [
         90.0, 75.0, 60.0,
     ]
+
+    # Verifica che le barre siano orizzontali
+    assert grafico.orientation == "h"
+
+    # Verifica che Milano sia in alto nella classifica
+    assert figura_test.layout.yaxis.autorange == "reversed"
+    assert list(grafico.y)[0] == "1° Milano"
+
+    # Verifica che soltanto Roma sia evidenziata
+    colori = list(grafico.marker.color)
+
+    assert len(set(colori)) == 2
+    assert colori[0] == colori[2]
+    assert colori[1] != colori[0]
 
     print("TEST SUPERATO: figura Plotly e ordinamento corretti")
