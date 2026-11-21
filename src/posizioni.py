@@ -8,7 +8,8 @@ Rules (from the project plan):
 - provinces without an index (NaN) get no position and are left out.
 
 Input:  DataFrame from src/indice.py with provincia_id, provincia, indice.
-Output: same rows sorted by position, with an extra integer column 'posizione'.
+Output: rows with a non-missing index, sorted by position, with an extra integer
+        column 'posizione'.
 
 Run from the repo root to check it:
     python src/posizioni.py
@@ -61,7 +62,9 @@ if __name__ == "__main__":
         "provincia": ["Provincia X", "Provincia Y"],
         "indice": [55.000000001, 55.0],
     })
-    assert calcola_posizioni(vicine)["posizione"].tolist() == [1, 2]
+    pos_vicine = calcola_posizioni(vicine)
+    assert pos_vicine["provincia_id"].tolist() == ["X", "Y"]
+    assert pos_vicine["posizione"].tolist() == [1, 2]
 
     # 3) Missing index -> no position
     con_nan = pd.concat([prova, pd.DataFrame({
@@ -69,8 +72,12 @@ if __name__ == "__main__":
     })])
     assert "E" not in set(calcola_posizioni(con_nan)["provincia_id"])
 
+    print("\nTest sintetici OK")
+
     # 4) Real data, end to end: normalized CSV -> indice.py -> positions
-    if INPUT_FILE.exists():
+    if not INPUT_FILE.exists():
+        print("Verifica sui dati reali saltata: CSV assente.")
+    else:
         from indice import AREE_ATTESE, calcola_indice, calcola_punteggi_aree
 
         df_norm = pd.read_csv(INPUT_FILE, dtype={"provincia_id": str})
@@ -88,5 +95,4 @@ if __name__ == "__main__":
         assert len(classifica) == 105
         assert classifica["posizione"].min() == 1
         assert classifica["indice"].is_monotonic_decreasing
-
-    print("\nVerifica OK")
+        print("Verifica sui dati reali OK")
