@@ -18,8 +18,8 @@ The seven dimensions are **Health, Education, Employment, Economy, Environment, 
 |---|---|
 | **Giulia De trino** | Extracted the environment and safety indicators. Integrated the calculation modules and the three views into the Streamlit dashboard, added the seven weight controls, and documented how to rebuild the dataset and run the app. |
 | **Anna Luna Orso** | Extracted the health and education indicators. Manually checked the NEET normalization, Education score, and equal-weight composite index for Turin and documented the calculations. |
-| **Federico** | Extracted the two employment indicators used in the dashboard, covering the employment rates for people aged 20–64 and 15–29. |
-| **Giovanni** | Extracted the economy and services indicators. Checked that province identifiers in his extract matched those in the environment and safety extract so the datasets could be joined by province. |
+| **Federico Borghesi** | Extracted the two employment indicators used in the dashboard, covering the employment rates for people aged 20–64 and 15–29. |
+| **Giovanni Margiacchi** | Extracted the economy and services indicators. Checked that province identifiers in his extract matched those in the environment and safety extract so the datasets could be joined by province. |
 
 ## Data source
 
